@@ -1,1 +1,1 @@
-# Precious Metals Manager App# precious-metals-manager-landing-page
+# Precious Metals Manager App
