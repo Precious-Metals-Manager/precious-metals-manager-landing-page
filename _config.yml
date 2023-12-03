@@ -125,6 +125,12 @@ social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
 
+# Google Tag
+# The Analytics tag is a snippet of JavaScript that collects and sends data to Analytics from a website.
+google-tag: G-WXNPC82QM4
+
+# This defines how the URLs should look like.
+permalink: /blog/:title/
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
@@ -148,7 +154,3 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
-
-# Google Tag
-# The Analytics tag is a snippet of JavaScript that collects and sends data to Analytics from a website.
-google-tag: G-WXNPC82QM4
