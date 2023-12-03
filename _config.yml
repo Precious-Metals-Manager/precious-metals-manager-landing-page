@@ -99,7 +99,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : ../headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
@@ -132,7 +132,8 @@ footer_text_color                         : "#666666"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
+  sass_dir: /assets/css/_sass
 
 # Exclude these files from your production _site
 exclude:
