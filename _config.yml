@@ -147,3 +147,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Google Tag
+# The Analytics tag is a snippet of JavaScript that collects and sends data to Analytics from a website.
+google-tag: G-WXNPC82QM4
