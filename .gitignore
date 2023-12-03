@@ -1,0 +1,9 @@
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+# MacOs General
+.DS_Store
+.AppleDouble
+.LSOverride
