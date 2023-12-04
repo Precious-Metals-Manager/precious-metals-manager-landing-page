@@ -8,8 +8,30 @@
         <div class="container subPageContainer">
             {% include header.html %}
             <article class="page markdown-body">
-                {% include toc.html html=content sanitize=true class="toc rev clearfix" id="my_toc" h_min=2 h_max=4 %}
+                {% include breadcrumbs.html %}
+                <br>
+
+                <div class="meta" data-aos="fade-up">
+                    <p>
+                        <small>
+                            <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i> {{page.date |
+                                date_to_string }}&nbsp;
+                            </span>
+                            <span>
+                                <i class="fa fa-user" aria-hidden="true"></i> {{page.author }}&nbsp;
+                            </span>
+
+                            <span>
+                                <i class="fa fa-clock-o" aria-hidden="true"></i> {% include
+                                reading-time.html %}
+                            </span>
+                        </small>
+                    </p>
+                </div>
+
                 {{ content }}
+                {% include footer.html %}
             </article>
         </div>
         {% include appstoreimages.html %}
