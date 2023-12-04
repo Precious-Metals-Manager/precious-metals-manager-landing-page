@@ -14,7 +14,7 @@ include_in_header: true
 <h1>Our Articles</h1>
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-  {% for post in site.posts limit: 6 %}
+  {% for post in site.posts %}
   <div class="col">
     <div class="card mb-3" style="max-width: 18rem;">
       <img src="{{post.image}}" class="card-img-top" alt="...">
