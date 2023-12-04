@@ -1,0 +1,35 @@
+---
+layout: page
+title: Blog
+include_in_header: true
+---
+
+<style>
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+</style>
+
+<h1>Our Articles</h1>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  {% for post in site.posts %}
+  <div class="col">
+    <div class="card mb-3" style="max-width: 26rem;">
+      <img src="{{post.image}}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h3 class="card-title">{{post.title}}</h3>
+        <p class="card-text">{{post.description}}</p>
+        <a href="{{post.url}}" class="stretched-link"></a>
+      </div>
+      <div class="card-footer">
+        <small class="text-body-secondary"> <i class="fa fa-calendar" aria-hidden="true"></i> {{post.date |
+          date_to_string }}&nbsp;</small>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% include footer.html %}
