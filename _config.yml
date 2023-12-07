@@ -125,6 +125,11 @@ social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
 
+plugins:
+  - jekyll-seo-tag # Adds all the important SEO meta tags by default.
+  - jekyll-sitemap # Adds sitemap to the website at /sitemap.xml
+
+
 # Google Tag
 # The Analytics tag is a snippet of JavaScript that collects and sends data to Analytics from a website.
 google-tag: G-WXNPC82QM4
