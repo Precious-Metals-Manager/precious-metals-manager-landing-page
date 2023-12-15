@@ -2,7 +2,7 @@
 title: Navigating Capital Gains Taxes on Precious Metals
 author: Sergio Martin Rubio
 layout: post
-description: Discover how capital gains taxes impact precious metals like gold, silver, and platinum. Learn about taxation criteria, including short-term vs. long-term gains, deductions for losses, and the classification of metals as collectibles. Explore strategies to minimize taxes and consider expert advice tailored to your region's tax regulations.
+description: Discover how capital gains taxes impact precious metals like gold, silver, and platinum. Learn about taxation criteria, including short-term vs. long-term gains, deductions for losses, and the classification of metals as collectibles. Explore strategies to minimize taxes and explore Precious Metals app to help you filling your capital gain taxes.
 image: https://lh3.googleusercontent.com/pw/ABLVV85Sng0s0N5HaC399nwbwlG6SImxMRLyr5DZQWaImXnxAxi2IEwqt-W4f6I9G62le8hCAaWN5soiYUxss8HCw94b98-4O3uoXd-yp1zGhdT0uXEd4utL3weHWqHsp_P_3nsoKzZOPhGepR_hcfBi-j2y=w1920-h1280-s-no?authuser=0
 ---
 
