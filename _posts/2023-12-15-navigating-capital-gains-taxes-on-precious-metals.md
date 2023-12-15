@@ -20,11 +20,9 @@ Smart tax planning is crucial. Deducting precious metals losses from your taxes 
 
 Collectibles may have their own tax rules and consequences. It's important to check whether your precious metals are considered collectibles or not. In the US, [the IRS defines collectibles as gold, silver, platinum, palladium, and coins that are NOT](https://www.irs.gov/retirement-plans/investments-in-collectibles-in-individually-directed-qualified-plan-accounts):
 
-```
 - Certain gold, silver, or platinum coins described in [31 USC Section 5112](https://uscode.house.gov/view.xhtml?req=(title:31%20section:5112%20edition:prelim)%20OR%20(granuleid:USC-prelim-title31-section5112)&f=treesort&num=0&edition=prelim).
 - Any coin issued under the laws of any state.
 - Any gold, silver, platinum, or palladium bullion of a certain fineness if a bank or approved non-bank trustee keeps physical possession of it. See IRC [Section 408(m)(3)](https://uscode.house.gov/view.xhtml?req=(title:26%20section:408%20edition:prelim)%20OR%20(granuleid:USC-prelim-title26-section408)&f=treesort&edition=prelim&num=0&jumpTo=true#substructure-location_m).
-```
 
 ## Techniques
 
