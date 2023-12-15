@@ -34,4 +34,31 @@ General techniques to minimize capital gains (which can vary greatly depending o
 
 Remember, all of this is subject to your particular tax rules. This information does not constitute financial advice, and it's always advisable to consult an accountant with expertise in taxes in your region.
 
+## Effortless Capital Gains Tracking with the Precious Metals Manager iOS App
+
+You can use the Precious Metals Manager iOS app to effectively track your yearly capital gains, ensuring you remain compliant with your tax responsibilities. Access the tool through the *Analytics* tab. Simply select a specific metal (gold, silver, platinum, or palladium), then tap on 'Annual Report' (PRO subscription required). The generated report includes detailed field definitions and can also be exported to CSV for your records.
+
+In the screenshots below, we present a year-by-year report spanning from 2019 to 2023:
+    
+- 2019: During this initial year, we expended $6,549.75 without any sales, resulting in an inventory balance equivalent to the purchase amount. As a result, no capital gains or losses were incurred.
+   
+   ![Annual Report - 2019](https://lh3.googleusercontent.com/pw/ABLVV86dp6a2dG82mWUgesBj0MdrqAy11kovY2N8VnJ1-dh2iNSbQ03M55-DpplZH5CMcJlGy-oQDXyHCGDL1K35fthM58CvlfqW6vUUjK1eREL7X0hds6pd5y4QneYaRVfxEbemZ0o33hQ7zZtlvFoqe3gd=w580-h726-s-no?authuser=0)
+
+- 2020: No purchases or sales were recorded, maintaining a consistent balance without any triggered capital gains or losses.
+
+    ![Annual Report - 2020](https://lh3.googleusercontent.com/pw/ABLVV84IAZbw1ouRhnRJrHGiVePWxbgEkZ82Y_9cGk3eYuGFwTuORr44DaKLhC5JmzrqqXolxb8HGNUSeAgfw1Q8OzvVd4mY65EIHdPB38vp7OePiJIrK2QNVeWelo5CQyxYbX9Re_oMTxDRpTRHSRSkIggJ=w596-h740-s-no?authuser=0)
+
+- 2021: Sales totaling $1,540.20 were made on items originally purchased for $1,315.10, resulting in a **profit of $225.10, which is declared as a capital gain**.
+   
+    ![Annual Report - 2023](https://lh3.googleusercontent.com/pw/ABLVV85Ybu_0Vf-msJD_4Cuj2P6SydBzfsTLdC5cFzjpLtB3oUIxCe6XGLJRD0SPnKwhVlh2JA90bAUmcFrmFZ2KAYDs7AR3BlxVHhz2v4_3yWnDQP_frNcL-nuG2uISfCcFQ-XzIz9Qzk-Pv-jeTkTrs21W=w594-h740-s-no?authuser=0)
+
+- 2022: Only purchases were made, hence no capital gains or losses were triggered.
+   
+    ![Annual Report - 2022](https://lh3.googleusercontent.com/pw/ABLVV87pfU3lTtJ3j16YFFk5RQi4Nl-hyjgYiPAk2efOpS5BepTx0dIyZxxpUpKBw-LNjBeDs1mqsPOSX593HKY03K9lkAJZOOEeXJS_pxFYa3Kcq_u_2MGk3T5R2RzLIirhZIasRxYSr9gW6vyvkX0aJwdf=w586-h730-s-no?authuser=0)
+
+- In 2023, sales amounting to $1,950.99 were recorded against an initial purchase cost of $1,315.10, resulting in a current **capital gain of $225.10**.
+   
+    ![Annual Report - 2021](https://lh3.googleusercontent.com/pw/ABLVV84ygDDatsQk7mpf3XtL4MGXDawqclb8LMpzO5Rk0RPhbudQd0LjwnJBZwZvSWCPSSC9q1ppfKnM1TJ8RmbAWW0U78VoWVGBrrxv0P6363dBerw2ou7rEohtyDqmV5dAOhCfkCnIZkP1cN0Q_COqNRYQ=w594-h734-s-no?authuser=0)
+
+
 Photo by <a href="https://unsplash.com/@micheile?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">micheile henderson</a> on <a href="https://unsplash.com/photos/green-plant-in-clear-glass-cup-SoT4-mZhyhE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
