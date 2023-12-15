@@ -20,14 +20,20 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.9.12**
+# **Version 1.10.0**
+
+#### What's New
+- 📈🪙 vs. 💹 Performance Over Time Chart: This chart displays the historical performance of metals and crypto over time to understand trends and patterns.
+
+- 📊🔄🔗 30-day Rolling Correlation Chart: Illustrating the correlation between precious metals and cryptocurrencies over time, using a 30-day rolling window. Higher values = stronger positive relationship, close to -100% = strong negative relationship, near zero = weak or no relationship.
+
+### **Version 1.9.12**
 
 #### What's New
 - 📈🔄 Dollar Cost Averaging chart redesigned (iOS 16+)
 
 #### Bug Fixes
 - 🐞 Minor bug fixes
-
 
 ### **Version 1.9.11**
 
