@@ -96,16 +96,16 @@ Tax details are presented at various levels:
 
 ### At the item level
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV87GiV7K9zB9xPhRtbtFDu_sKfISKqFCyCvSJxtjnhyWFHnvCe954iUhnE1Y_RG-DylverbGCfy8ch3X1x-VC7SxH4NUknhd9szLFLniIC5SpjzacVdMJCc1PpaXhl97r_oowq7H_5JYiGjqpBgLp1Dl=w922-h2000-s-no?authuser=0" alt="Item Tax" width="200"/>
+<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV87GiV7K9zB9xPhRtbtFDu_sKfISKqFCyCvSJxtjnhyWFHnvCe954iUhnE1Y_RG-DylverbGCfy8ch3X1x-VC7SxH4NUknhd9szLFLniIC5SpjzacVdMJCc1PpaXhl97r_oowq7H_5JYiGjqpBgLp1Dl=w922-h2000-s-no?authuser=0" alt="Item Tax" width="200"/>
 
 ### At the order level
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV86zKu14HY3iszlySyBNCQHtUCoeprXWJFoiDbJDa73ditsGzopmmRjh7Hc8db908Iexzha8RI5T8hn7DDLUoR2ZP2QQK6bp8aCJ6yOvq-lxNNywM0ClkVd3ULnZfcrKzX--fW5_azBRsTWIHnK-kQkS=w922-h2000-s-no?authuser=0" alt="Order Tax" width="200"/>
+<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86zKu14HY3iszlySyBNCQHtUCoeprXWJFoiDbJDa73ditsGzopmmRjh7Hc8db908Iexzha8RI5T8hn7DDLUoR2ZP2QQK6bp8aCJ6yOvq-lxNNywM0ClkVd3ULnZfcrKzX--fW5_azBRsTWIHnK-kQkS=w922-h2000-s-no?authuser=0" alt="Order Tax" width="200"/>
 
 ### The total for each metal
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV86vkBs11NDxa-w9mkQjWRaiC422uv0mdr2MWtwn_szQDBzLm36Yx0LGqwR7qSz8PGlzbvJgqopctFG2YeiBPNuvGJUEASlya7wJOViw5pMXvg3nx9FEThXWfKGHtIMzzitDxh8G6ApBj4LiT-mBSgTx=w922-h2000-s-no?authuser=0" alt="Metal Tax" width="200"/>
+<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86vkBs11NDxa-w9mkQjWRaiC422uv0mdr2MWtwn_szQDBzLm36Yx0LGqwR7qSz8PGlzbvJgqopctFG2YeiBPNuvGJUEASlya7wJOViw5pMXvg3nx9FEThXWfKGHtIMzzitDxh8G6ApBj4LiT-mBSgTx=w922-h2000-s-no?authuser=0" alt="Metal Tax" width="200"/>
 
 ### For your entire portfolio
 
-<img src="https://lh3.googleusercontent.com/pw/ABLVV86oYVtmkXxwWtkkfJaiqoqYUwQOGvbWEP9bPR7s7_Ajnx3V6xWzkZ9Tb68E9jCw3VtqizJWOL0sA7bL_03JO5cdzEffSo-um4WHLiOliaq1mcwVoDDz_I5HayxdVc1ZMvcKu14p4xSaV6jBhNF7FW2B=w922-h2000-s-no?authuser=0" alt="All Metals Tax" width="200"/>
+<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86oYVtmkXxwWtkkfJaiqoqYUwQOGvbWEP9bPR7s7_Ajnx3V6xWzkZ9Tb68E9jCw3VtqizJWOL0sA7bL_03JO5cdzEffSo-um4WHLiOliaq1mcwVoDDz_I5HayxdVc1ZMvcKu14p4xSaV6jBhNF7FW2B=w922-h2000-s-no?authuser=0" alt="All Metals Tax" width="200"/>
