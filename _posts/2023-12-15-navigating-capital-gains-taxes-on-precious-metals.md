@@ -6,8 +6,6 @@ description: Discover how capital gains taxes impact precious metals like gold, 
 image: https://lh3.googleusercontent.com/pw/ABLVV85Sng0s0N5HaC399nwbwlG6SImxMRLyr5DZQWaImXnxAxi2IEwqt-W4f6I9G62le8hCAaWN5soiYUxss8HCw94b98-4O3uoXd-yp1zGhdT0uXEd4utL3weHWqHsp_P_3nsoKzZOPhGepR_hcfBi-j2y=w1920-h1280-s-no?authuser=0
 ---
 
-# Navigating Capital Gains Taxes on Precious Metals
-
 Certain government bodies, such as the IRS, classify physical gold, silver, or platinum in any form as assets for capital taxation purposes, making them subject to capital gains tax.
 
 In most countries, the capital gain tax is only owed after the sale is made. The capital gain or loss is calculated by subtracting the sale price from the acquisition cost. When it comes to gifts or inheritances, the calculation of capital gain is based on the market value.

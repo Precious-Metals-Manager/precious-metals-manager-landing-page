@@ -6,8 +6,6 @@ description: Explore the intricate world of precious metals taxation in this com
 image: https://lh3.googleusercontent.com/pw/ADCreHdKBxvyTBcAHLSpgnFV2qNCQiijW3TVJbXRUabV0uEivvm3ZaFWXxUjQqlwhPZvVIDEGdcSb3u6b6fdg3RRfy0nbpR3tvOWDcgVHKqJ1-HGIHeB1FJJJd10Uobwhf5gdy4li7XHEA85v_P13pEDWSOa=w2044-h1362-s-no?authuser=0
 ---
 
-# Unveiling the Taxation of Precious Metals
-
 Sales tax or VAT (Value-added tax) is sometimes applied to precious metals when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (spot price + [premium](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)).
 
 ## United States
