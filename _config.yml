@@ -128,6 +128,7 @@ footer_text_color                         : "#666666"
 plugins:
   - jekyll-seo-tag # Adds all the important SEO meta tags by default.
   - jekyll-sitemap # Adds sitemap to the website at /sitemap.xml
+  - jekyll-include-cache   # use include_cached instead of include
 
 
 # Google Tag
