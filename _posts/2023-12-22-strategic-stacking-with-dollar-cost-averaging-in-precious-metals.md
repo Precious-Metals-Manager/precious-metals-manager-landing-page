@@ -57,6 +57,9 @@ The Precious Metals Manager can assist you in understanding your averaging trend
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV87sEv-bVh1ctKDM3nXkUcdpymlLjVBpbIyRu6_zLB0EZHoNNjfCW81EFHnYmZSs5_elR5UlUrhqQnWIZWXsQz1qIAJIj6vPQO-ibn56ocGFT6EuUpNZB5aOg_tkYqINZTfirhnEewKx0kjieUwG_at6=w922-h2000-s-no?authuser=0" alt="Silver Dollar-Cost Averaging" />
     </div>
 </div>
+<br>
+
+{% include_cached downloadnowbutton.html %}
 
 ## Conclusion
 

@@ -84,4 +84,7 @@ In the screenshots below, we present a year-by-year report spanning from 2019 to
 </div>
 <br>
 
+{% include_cached downloadnowbutton.html %}
+<br>
+
 Photo by <a href="https://unsplash.com/@micheile?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">micheile henderson</a> on <a href="https://unsplash.com/photos/green-plant-in-clear-glass-cup-SoT4-mZhyhE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

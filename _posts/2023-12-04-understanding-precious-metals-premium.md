@@ -38,3 +38,7 @@ In the Precious Metals Manager iOS app, you can track the amount of premium you 
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV87gA0QP1pLpzmap4fd_n2Ef8CZe7STZVXdwh86Q5IeMIeghA2OHQhFFsyOaBmGlHIjKAWazXYDq-M6iYKLpI0_KYLIW_dgNIj8iX1xcOBjMhOyyH6c-X2dNoTDf13A4gqNLIiAuwACXJdwazJi9wDDR=w922-h2000-s-no?authuser=0" alt="Metal Premium" />
     </div>
 </div>
+
+<br>
+
+{% include_cached downloadnowbutton.html %}

@@ -107,3 +107,7 @@ Tax details are presented at various levels:
 ### For your entire portfolio
 
 <img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86oYVtmkXxwWtkkfJaiqoqYUwQOGvbWEP9bPR7s7_Ajnx3V6xWzkZ9Tb68E9jCw3VtqizJWOL0sA7bL_03JO5cdzEffSo-um4WHLiOliaq1mcwVoDDz_I5HayxdVc1ZMvcKu14p4xSaV6jBhNF7FW2B=w922-h2000-s-no?authuser=0" alt="All Metals Tax" width="200"/>
+
+<br>
+
+{% include_cached downloadnowbutton.html %}
