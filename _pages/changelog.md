@@ -20,7 +20,44 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.10.0**
+### **Version 1.10.6**
+
+#### What's New
+- 🍁💰 Offer prices are now available for 🇨🇦 Canadian users!
+- Minor UI improvements have been made. 🖥️✨
+
+#### Bug Fixes
+- Bug fix: Changing currency now updates the value in all metals analytics. 🐞🔄
+
+### **Version 1.10.5**
+
+#### Bug Fixes
+- 🐞 Minor bug fixes
+
+### **Version 1.10.4**
+
+#### What's New
+- 🛒✨ Add Palladium bullion coins to catalog! 
+
+### **Version 1.10.3**
+
+#### What's New
+- 🚀🛠️ Minor performance improvements
+
+#### Bug Fixes
+- 🐞 Minor bug fixes
+
+### **Version 1.10.2**
+
+#### What's New
+- 🔄✨ Enable the selection of various rolling correlation periods, including 15-day, 30-day, and 90-day intervals.
+
+### **Version 1.10.1**
+
+#### Bug Fixes
+- 🐛🔧 The label "Melt Value Gain/Loss" on the "Annual Report" screen has been corrected to "Capital Gain/Loss".
+
+### **Version 1.10.0**
 
 #### What's New
 - 📈🪙 vs. 💹 Performance Over Time Chart: This chart displays the historical performance of metals and crypto over time to understand trends and patterns.
