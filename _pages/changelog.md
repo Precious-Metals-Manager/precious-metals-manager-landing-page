@@ -20,7 +20,7 @@ include_in_header: true
 
 <br> -->
 
-### **Version 1.10.6**
+# **Version 1.10.6**
 
 #### What's New
 - 🍁💰 Offer prices are now available for 🇨🇦 Canadian users!
