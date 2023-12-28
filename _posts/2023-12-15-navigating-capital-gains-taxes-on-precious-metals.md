@@ -10,17 +10,17 @@ Certain government bodies, such as the IRS, classify physical gold, silver, or p
 
 In most countries, the capital gain tax is only owed after the sale is made. The capital gain or loss is calculated by subtracting the sale price from the acquisition cost. When it comes to gifts or inheritances, the calculation of capital gain is based on the market value.
 
-Capital gains are typically taxed at a lower rate than earned income. However, in countries like the US, if you [sell precious metals in less than 12 months, the IRS considers this a short-term capital gain](https://www.irs.gov/taxtopics/tc409) and taxes it as ordinary income. This might result in paying higher taxes. For example, if you have a job that pays you $70,000 and you sell gold at a net gain of $10,000 within 12 months of its purchase, your total taxable income will be $80,000 for the year.
+Capital gains are typically taxed at a lower rate than earned income. However, in countries like the US, if you [sell precious metals in less than 12 months, the IRS considers this a short-term capital gain](https://www.irs.gov/taxtopics/tc409){:target="_blank"} and taxes it as ordinary income. This might result in paying higher taxes. For example, if you have a job that pays you $70,000 and you sell gold at a net gain of $10,000 within 12 months of its purchase, your total taxable income will be $80,000 for the year.
 
 Smart tax planning is crucial. Deducting precious metals losses from your taxes is also possible in some countries, allowing you to offset gains from other investments, such as stocks, with losses incurred from selling gold or silver.
 
 ## Collectibles
 
-Collectibles may have their own tax rules and consequences. It's important to check whether your precious metals are considered collectibles or not. In the US, [the IRS defines collectibles as gold, silver, platinum, palladium, and coins that are NOT](https://www.irs.gov/retirement-plans/investments-in-collectibles-in-individually-directed-qualified-plan-accounts):
+Collectibles may have their own tax rules and consequences. It's important to check whether your precious metals are considered collectibles or not. In the US, [the IRS defines collectibles as gold, silver, platinum, palladium, and coins that are NOT](https://www.irs.gov/retirement-plans/investments-in-collectibles-in-individually-directed-qualified-plan-accounts){:target="_blank"}:
 
-- Certain gold, silver, or platinum coins described in [31 USC Section 5112](https://uscode.house.gov/view.xhtml?req=(title:31%20section:5112%20edition:prelim)%20OR%20(granuleid:USC-prelim-title31-section5112)&f=treesort&num=0&edition=prelim).
+- Certain gold, silver, or platinum coins described in [31 USC Section 5112](https://uscode.house.gov/view.xhtml?req=(title:31%20section:5112%20edition:prelim)%20OR%20(granuleid:USC-prelim-title31-section5112)&f=treesort&num=0&edition=prelim){:target="_blank"}.
 - Any coin issued under the laws of any state.
-- Any gold, silver, platinum, or palladium bullion of a certain fineness if a bank or approved non-bank trustee keeps physical possession of it. See IRC [Section 408(m)(3)](https://uscode.house.gov/view.xhtml?req=(title:26%20section:408%20edition:prelim)%20OR%20(granuleid:USC-prelim-title26-section408)&f=treesort&edition=prelim&num=0&jumpTo=true#substructure-location_m).
+- Any gold, silver, platinum, or palladium bullion of a certain fineness if a bank or approved non-bank trustee keeps physical possession of it. See IRC [Section 408(m)(3)](https://uscode.house.gov/view.xhtml?req=(title:26%20section:408%20edition:prelim)%20OR%20(granuleid:USC-prelim-title26-section408)&f=treesort&edition=prelim&num=0&jumpTo=true#substructure-location_m){:target="_blank"}.
 
 ## Techniques
 
