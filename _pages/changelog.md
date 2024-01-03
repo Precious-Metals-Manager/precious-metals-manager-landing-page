@@ -20,7 +20,31 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.10.6**
+# **Version 1.10.9**
+
+#### What's New
+- 💂💰 Offer and reference prices are now available for 🇬🇧 British users!
+
+### **Version 1.10.8**
+
+#### What's New
+- Analytics pie chart was replaced with a horizontal bar chart 📊↔️
+
+#### Bug Fixes
+- 🐞 Minor bug fixes
+
+### **Version 1.10.7**
+
+#### What's New
+- Minor UI improvements 🖥️✨
+
+#### Bug Fixes
+- Updating an item now updates its order value 🔄
+- Ensuring the correct color of the order value over time 🌈
+- Enabling updating an item or creating a sale from the order view when using long-press gestures 🛒✨
+- Order value over time chart is not available when the order is less than 5 days in the past ⏰❌
+
+### **Version 1.10.6**
 
 #### What's New
 - 🍁💰 Offer prices are now available for 🇨🇦 Canadian users!
