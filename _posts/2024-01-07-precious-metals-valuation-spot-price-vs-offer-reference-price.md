@@ -38,11 +38,56 @@ The solution to these highlighted problems is to use a tool that enables precise
 
 ## Tool for Tracking Valuation: Precious Metals Manager App
 
-The Precious Metals Manager app allows you to track your entire precious metals portfolio on the go and log your bullion with a few taps. The app provides a comprehensive overview of your entire portfolio's total valuation, offering a more detailed valuation of each metal and each order. Both spot price-based and offer price-based valuations are available.
+<div class="row">
+    <div class="col-md-3">
+        <p>The Precious Metals Manager app allows you to track your entire precious metals portfolio on the go and log your bullion with a few taps. The app provides a comprehensive overview of your entire portfolio's total valuation, offering a more detailed valuation of each metal. Both spot price-based and offer price-based valuations are available.</p>
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV86YXbU4baJ74PoVj0cIMfa-J5ZOUT7MASjfRSTJoCJ9LbXiFYQR-l4HI6VTAm-NIAd-VyrXb0ZnaiaI9JgZNQUgABoifrCQ-kBtj4SXoP6A0gvWU3sU2-2Hqbii4O6FxC0RFV2ChMH2FlAf9SMj6k3u=w922-h2000-s-no?authuser=0" alt="All Metals Valuation" />
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV84J9Qs6K_hJI4omYI506Is5wMQTfpev5wQtbfUyTttx-SXDavpzWFhWeFyp2Xl1cymI0MTRqj-1iMTzpED9VXRVvns4TPcczH8OWILVd8-IvtQRJKLJc8C0STmBmB3I1dQ-AqPrrhSKpTk6qt1xJwEI=w922-h2000-s-no?authuser=0" alt="Single Metal Valuation" />
+    </div>
+        <div class="col-md-3">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV87JnW7Ej-gKSNnuZ_3O778IOzGzXAxTNx9H6cd7vkHsP6sYMkqypPSAGKJjseCLco8DlUe-e32Mwbv5bkht8PmiiUOrApqX7lAumDvZjyV8eUeUHKnqxm7DOb-Lsz3B5jcT3xnftWYggMfsr3stucdN=w922-h2000-s-no?authuser=0" alt="Silver Value Over Time" />
+    </div>
+</div>
 
-The spot price valuation is displayed at both the annual report level, enabling year-by-year comparison of gains or losses based on the precious metals market melt value, and at the order level. At the order level, you can view the current value of a specific order and its value evolution since the purchase date.
+<br>
 
-Additionally, the app shows the reference price for some of the most popular bullion coins, based on the average price in the last 24 hours. These prices are visible for the items logged in your inventory and within the coins listed in the 'Bullion Catalog' section.
+<div class="row">
+    <div class="col-md-3">
+        <p>The spot price valuation is displayed at both the annual report level, enabling year-by-year comparison of gains or losses based on the precious metals market melt value, and at the order level. At the order level, you can view the current value of a specific order and its value evolution since the purchase date.</p>
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV86G8AnUrvw19uG3_y1NXFaHcjSKhTPgT2Bdz_I2J4a-XKqYxSpuyLgRfQpVG1vjpMB82gLLLx7l7RTvZKHayfoatDc7_DkuX7pzAh_y42_ZZJJlDX15Ju4VVwkRXttsmv6kexOBnbgqN5cwALQ0MxxM=w922-h2000-s-no?authuser=0" alt="Annual Report Valuation" />
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV84aYOZ4G0JsWPQYh9io1tfJth5iApLwbDxroJN3dR559fVbDjXddcXmKluEDlave1eIpL_3GzGYEy-jhpJ4nfu_zGHO9-VLECCiJB_l900pzojWS8lUGcqUyB1EeYIapJ4tdWoFxhTz_6RVuMUsrSkZ=w922-h2000-s-no?authuser=0" alt="Order Valuation" />
+    </div>
+        <div class="col-md-3">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV84cQu5LDzZ-u-fo-zKFnDHaLs0oz4BuslsWWqJZ8q67aN2ZucCficGTXpjTr2D6ITulEXx75yn-iM2bblLbWn-R6DVGbsjx-iUCp5bc6OtAfwctszfR51Hjbj3de8cYUp7gA3-1YFu9BWE0QaBlvqS5=w922-h2000-s-no?authuser=0" alt="Order Value Over Time" />
+    </div>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <p>Additionally, the app shows the reference price for some of the most popular bullion coins, based on the average price in the last 24 hours. These prices are visible for the items logged in your inventory and within the coins listed in the 'Bullion Catalog' section.</p>
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV87p4eDwAf7EzOZJQnljalpBPXA8On4n9TFuGX3JCjj9sjonAmln08ZICez0R7kZeeggNuJd1S4KYNk3umDCYSp8C4IFRTVamtKFCEYprc8K8bSy46IZ21PgTitukne3eDZ6lSH8RHrb1EHnzRSa54od=w922-h2000-s-no?authuser=0" alt="Offer Prices" />
+    </div>
+    <div class="col-md-3 mb-5">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV87AoMq7zDFMQT5UqXP1oLxQBalYwULXEb5cpJaGT4c0PbsQlvyGFbI6oXQxmBqMINykGGgVBZ6-3ktCgXtdPTHn-841oTe2mdmReE69zsl6o8Vm6aNXxYlBpDKC96YkUzo8LJv8hQtvw7NpUVbHO2BW=w922-h2000-s-no?authuser=0" alt="Inventory Item Offer Price" />
+    </div>
+        <div class="col-md-3">
+        <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV85K7c3E4mZ3gxV8ZXaJV8WVP7CcHuvk8zw55CtGDKp5Ao8g_SBjiGx0OlMx2FmljE02Thv5yC_STeOC4891tSiNnCfxaf1msKrYp7DauFdCFzjXJWnn_Bf2ZscMHFevOgnApXv11QX1PGP6Zq3tSute=w922-h2000-s-no?authuser=0" alt="Catalog Bullion Reference Price" />
+    </div>
+</div>
+
+<br>
 
 {% include_cached downloadnowbutton.html %}
 

@@ -31,7 +31,7 @@ In the Precious Metals Manager iOS app, you can track the amount of premium you 
     <div class="col-md-4">
         <p>But that's not all. Once the item is saved, you can see how much premium you paid for the item on the item detail screen, the total paid premium for each metal, and the average premium ratio.</p>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 mb-5">
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV85pChd0XzpUL5t822ArTKjchzqQ7bHr1cAWNg4Xf6Ckz10gGZl9DZMsvzBnYb2vgVdrdCu1Y1l4b7Q5fTulaNhEizGfw5MN70o5k9vQRrJ3MRc63fwsbldnH0fZ2Sq5Pi9LqYcqJUSOyg9C99YEQpUY=w922-h2000-s-no?authuser=0" alt="Item Details Premium" />
     </div>
      <div class="col-md-4">

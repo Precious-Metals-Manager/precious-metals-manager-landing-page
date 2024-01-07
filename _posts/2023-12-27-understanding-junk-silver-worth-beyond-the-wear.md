@@ -109,10 +109,10 @@ The Precious Metals Manager app takes the junk silver calculation to another lev
     <div class="col-md-3">
         <p>When creating new Silver items within an order, you can toggle the "Junk Silver" button, and this will enable you to select from a list of popular US Junk Silver coins. Certain fields, such as name, purity, wear, and weight are prefilled. Additionally, you can specify the quantity of coins and instantly view the total face value associated with them in real-time. Subsequently, you have the option to set the unit price, which represents the cost per junk silver coin. Once the item is created, you can view its details or edit it at any time! 🚀</p>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 mb-5">
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV86R5gV-64O-62wJjYbnV1IArxfx2TdcRlHCKBP1s1KNxoubFNE0SSr2SJm4Ig4qjfyA91EINH-7b__dELBv78r2UKToL6DN-04pXfSGBbjemiwAcp2QeWRBKeJTU1ao8xnuN2P9NdbYNVRYxnqNz-ry=w922-h2000-s-no?authuser=0" alt="Junk Silver Coin Selection" />
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 mb-5">
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV84d0CnaGcIuu5_T4o6zvFtOP295T2Puh7Dr3rUD3IVeQA7mypTxE0fK31dGgEzx6Av2tTtJF9pPukFtw0bUMABXmoYk9bWfhzC9c7jnfTOCRh9yRWun2RwPm3ZsrEorKzlzfgSckuIbkSfE1ng3JTqU=w922-h2000-s-no?authuser=0" alt="Junk Silver Coin Creation" />
     </div>
         <div class="col-md-3">
