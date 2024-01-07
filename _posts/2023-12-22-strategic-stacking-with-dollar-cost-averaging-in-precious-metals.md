@@ -50,7 +50,7 @@ The Precious Metals Manager can assist you in understanding your averaging trend
     <div class="col-md-4">
         <p>A Dollar-Cost Averaging chart, available in the app for each metal, allows you to monitor purchase intervals and compare the average price of your portfolio with the real-time spot price over a specific date range. This enables you to assess whether the strategy effectively mitigates market price fluctuations.</p>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 mb-5">
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/ABLVV84XrKoW4X0cFyuYx9a4my0WWZNBnsqXl730fCTKQ1fFW3oKn6JlsNGbNF-Yh0naRzzgl40L0OgdXxWjYQNzu5OyR2Xq_IjxHr3GswtvuCdxBwtvTOh5hEfXrZ9yri2WIiHaogcdg0YoBECC-bWtHQIp=w922-h2000-s-no?authuser=0" alt="Gold Dollar-Cost Averaging" />
     </div>
     <div class="col-md-4">
