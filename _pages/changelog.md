@@ -20,7 +20,47 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.10.9**
+# **Version 1.10.14**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+- UI improvements 🖥️✨
+
+#### Bug Fixes
+- 🐞 Minor bug fixes
+
+### **Version 1.10.13**
+
+#### What's New
+- Orders can be edited from the list of orders screen with a long-press gesture ✏️📋
+- The 'Order Details' screen now displays the total price of each item and whether the item has been assayed or not 💰🔍
+- Additional fields are available in the 'Item Details' screen 📄✨
+
+### **Version 1.10.12**
+
+#### What's New
+- Two additional fields have been added to the 'Annual Report': 'Sales Acquisition Shipping Cost' and 'Capital Gain/Loss w/ Shipping' 📊✨
+
+#### Bug Fixes
+- 🐞 Bug fixes: The previous version introduced a bug where the 'Inventory Balance' might be negative in some scenarios due to the sales acquisition shipping cost. Additionally, the taxes were missing in the annual report calculations
+
+### **Version 1.10.11**
+
+#### What's New
+- Sale acquisition cost now includes the proportional amount of the order shipping cost, based on the original item price.
+- A breakdown of the sale shipping cost has been added to analytics and sale details.
+- 🚀🛠️ Minor performance improvements
+
+#### Bug Fixes
+- 🐞 Bug fix: The sale acquisition cost was missing the tax amount in the analytics, annual report, and sale details
+
+### **Version 1.10.10**
+
+#### Bug Fixes
+- 🐞 Resolved an issue where 2024 values were not being generated when no transactions were added in 2024
+- "Melt value on Dec 31" for 2023 fixed.=
+
+### **Version 1.10.9**
 
 #### What's New
 - 💂💰 Offer and reference prices are now available for 🇬🇧 British users!
