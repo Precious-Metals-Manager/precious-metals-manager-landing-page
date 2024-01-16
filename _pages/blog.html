@@ -17,7 +17,7 @@ include_in_header: true
   {% for post in site.posts %}
   <div class="col">
     <div class="card mb-3" style="max-width: 26rem;">
-      <img src="{{post.image}}" class="card-img-top img-fluid" alt="...">
+      <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}">
       <div class="card-body">
         <h3 class="card-title">{{post.title}}</h3>
         <p class="card-text">{{post.description}}</p>
