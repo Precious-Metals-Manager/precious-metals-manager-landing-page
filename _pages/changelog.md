@@ -20,7 +20,28 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.10.14**
+# **Version 1.10.18**
+
+#### What's New
+- Enhancements to the Premium Calculator: The updated version now displays the average dealer premium ratio, allowing you to compare the premium ratio for a provided price with an average of how much dealers in your region are charging. Additionally, you have the ability to easily copy the premium result to your clipboard for use in other places. 📈🔄
+
+### **Version 1.10.17**
+
+#### What's New
+- Use of Bugsnag to identify and fix issues 🐞
+- Privacy Policy 📃🔐 updated 🔄: https://preciousmetalsmanager.com/privacypolicy/ 
+
+### **Version 1.10.16**
+
+#### What's New
+- 🌟 Presenting the 'Premium Calculator' 🧮: This tool allows you to determine the premium a specific bullion carries based on its price, weight, purity, and wear. It can fetch historical prices for a chosen date and metal, or alternatively, you can input your own spot price.
+
+### **Version 1.10.15**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+
+### **Version 1.10.14**
 
 #### What's New
 - 🚀🛠️ Performance improvements
