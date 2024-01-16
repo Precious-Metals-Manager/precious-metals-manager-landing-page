@@ -3,7 +3,7 @@ title: Understanding Precious Metals Premium
 author: Sergio Martin Rubio
 layout: post
 description: Explore the 'Premium' in Precious Metal Investments - Uncover the additional cost beyond spot prices when buying and selling precious metals. Learn how premiums vary based on bullion type, size, and authentication methods, influencing your investment's liquidity and potential returns.
-image: https://lh3.googleusercontent.com/pw/ADCreHcHYL2wh_AbgHEBZgST7HHq6W_wd8acfHSdvgDdu0wkr48KUIx5-v1cC1-q8yw-F786_rGofFzm7v4JtVN8SRyZslFb5e0I6WttPJBRymVlYw-nDFWxmq1ns0HAJ30Y1--4CkeXIXjT1w687D3QyXKz=w2044-h1362-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/ABLVV85NXmdmLedrcg3flMTQ-aBwS-J47yPr3b_ChEXguJUjcnegak21bwv6Mid_0pZwd37PFgjuqWNhLFH7KHGb1hM98xlK6-eB0eHqXCKPblW5V0yk_OOfsaAgXJj6odoq366AjyMeeGt0VcbmeyDfFd_8=w1920-h1280-s-no?authuser=0
 ---
 
 When buying precious metals, it's important to consider what's known as the 'Premium,' which is essentially the amount you pay above the metal content at the current spot price. When selling you could get back some of the premium you paid but it won't be as much premium as you originally paid.

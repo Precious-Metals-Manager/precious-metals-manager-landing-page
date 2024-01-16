@@ -3,7 +3,7 @@ title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
 description: Explore the intricate world of precious metals taxation in this comprehensive article. Discover how sales tax or VAT impacts purchases of gold, silver, and platinum globally. From varying rates in the US to VAT intricacies across Europe and exemptions in Australia and Canada, learn how different countries handle taxes on investment-grade metals.
-image: https://lh3.googleusercontent.com/pw/ADCreHdKBxvyTBcAHLSpgnFV2qNCQiijW3TVJbXRUabV0uEivvm3ZaFWXxUjQqlwhPZvVIDEGdcSb3u6b6fdg3RRfy0nbpR3tvOWDcgVHKqJ1-HGIHeB1FJJJd10Uobwhf5gdy4li7XHEA85v_P13pEDWSOa=w2044-h1362-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/ABLVV87KlBfNeJrxZqdfd96CUQrCZiXDWzXXXsHLcgZKLgJPlQGPZ4FYzgwnP_tWbD_rQCG0xQBfDxwqAYwuh4DDF8Pj1FBZq6wYrABVYisj5SoVKEtG7pZgWw0VNXMMTifOj9vilnLAWOx_23YDxxCTxuV_=w1920-h1280-s-no?authuser=0
 ---
 
 Sales tax or VAT (Value-added tax) is sometimes applied to precious metals when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (spot price + [premium](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)).
