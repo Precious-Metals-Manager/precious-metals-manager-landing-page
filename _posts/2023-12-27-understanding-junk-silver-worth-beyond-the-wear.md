@@ -3,7 +3,7 @@ title: Understanding Junk Silver Worth Beyond the Wear
 author: Sergio Martin Rubio
 layout: post
 description: Discover the world of 'Junk Silver', unveiling the historical and economic significance behind these circulated coins. Understand how their worth is calculated based on silver content and condition. Dive into the differences in perceptions between the US and Europe regarding these coins. Keep reading to know more about tools to better manage and track 'Junk Silver'.
-image: https://lh3.googleusercontent.com/pw/ABLVV84JysTC03SaP8jzUAv3FO3w1ieTQJSEmIfGxOVWSCAZSxwu3LcKVGfnqA9q-11lJrK7Wr-BFRzkh2qH43CRHXvtZqniLnP41etQdqS2TY5CLQ2sdvhxGO7dq2piJ4IDXRtXHP5LffFr0IHr-Nz4CYl0=w3000-h2000-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/ABLVV87NRlCoX2YRszDVH9wxmh1PCuxdyp5TQyPAjjrasWvWRtbB6UznXCPGvcIZIuBMLQKuf9pk5lgAszOsRHRhJmlc0PW2BzBE-6sqnPe0agEpDeeRvDbgbkykHZ8wwgAfhzdU-WUL60NYi0YZO0oxzsHd=w3000-h2000-s-no?authuser=0
 ---
 
 ## Introduction
