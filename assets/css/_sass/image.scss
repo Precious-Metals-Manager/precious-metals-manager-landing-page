@@ -1,0 +1,12 @@
+.featured-image {
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-bottom: 1.5em;
+
+    @include media-query($on-palm) {
+        height: 200px;
+    }
+}
