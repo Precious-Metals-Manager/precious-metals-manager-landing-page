@@ -20,7 +20,51 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.10.18**
+# **Version 1.11.4**
+
+#### What's New
+- Date range 🗓️ filtering 🔍 on Inventory 🗄️. Display items with at least one purchase or sale in the selected period of time.
+
+### **Version 1.11.3**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+
+### **Version 1.11.2**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+- 📺✨ UI improvements
+
+### **Version 1.11.1**
+
+#### What's New
+- The spot prices widget 🪟📊 is available for the lock screen 🔒📺
+
+### **Version 1.11.0**
+
+#### What's New
+- Introducing the Spot Prices Widget! 🪟📊 Keeping an eye on spot prices is now a breeze. 🌬️
+
+### **Version 1.10.21**
+
+#### What's New
+- 📺✨ UI improvements
+
+### **Version 1.10.20**
+
+#### What's New
+- 🖼️ Landscape mode support for iPad 📺
+
+#### Bug Fixes
+- 🐞 Minor bug fixes
+
+### **Version 1.10.19**
+
+#### What's New
+- 📺✨ Minor UI improvements
+
+### **Version 1.10.18**
 
 #### What's New
 - Enhancements to the Premium Calculator: The updated version now displays the average dealer premium ratio, allowing you to compare the premium ratio for a provided price with an average of how much dealers in your region are charging. Additionally, you have the ability to easily copy the premium result to your clipboard for use in other places. 📈🔄
