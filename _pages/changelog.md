@@ -20,7 +20,30 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.11.4**
+# **Version 1.11.8**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+
+### **Version 1.11.7**
+
+#### What's New
+- 🖼️ UI Improvements
+
+#### Bug Fixes
+- 🐞 Bug fixes
+
+### **Version 1.11.6**
+
+#### What's New
+- Introducing our latest feature: "Weight Over Time" 📊. Explore this new addition within Analytics under the Weight section for each metal. With "Weight Over Time", you can now select a date range 📆 to visualize the quantity of ounce/grams bought or sold 🤝 within your selected timeframe.
+
+### **Version 1.11.5**
+
+#### What's New
+- The date range 🗓️ on the inventory screen is now also applied on the individual inventory item screen
+
+### **Version 1.11.4**
 
 #### What's New
 - Date range 🗓️ filtering 🔍 on Inventory 🗄️. Display items with at least one purchase or sale in the selected period of time.
