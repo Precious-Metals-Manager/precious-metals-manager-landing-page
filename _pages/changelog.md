@@ -20,7 +20,29 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.11.8**
+# **Version 1.11.12**
+
+#### What's New
+- Average Purchase Price" and "Average Sale Price" are now available from each group of items in the inventory. 💰📊
+- 🚀🛠️ Minor performance improvements
+
+### **Version 1.11.11**
+
+#### What's New
+- 🐞 Bug fixes: 'Privacy Policy', 'Terms of Service', and 'App Lock' guide buttons in the Setting screen were showing a blank screen. Now they are opeing the correct pages.
+
+### **Version 1.11.10**
+
+#### What's New
+- Filter 🔎 inventory items by form factor (coin, bar, or round)
+- 🖼️ UI improvements
+
+### **Version 1.11.9**
+
+#### What's New
+- Presenting "Allocation Rebalance"! 📊✨ Fine-tune your portfolio by setting the percentage allocation of each metal within the total value
+
+### **Version 1.11.8**
 
 #### What's New
 - 🚀🛠️ Performance improvements
