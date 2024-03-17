@@ -2,7 +2,7 @@
 title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
-description: Explore the intricate world of precious metals taxation in this comprehensive article. Discover how sales tax or VAT impacts purchases of gold, silver, and platinum globally. From varying rates in the US to VAT intricacies across Europe and exemptions in Australia and Canada, learn how different countries handle taxes on investment-grade metals.
+description: Dive into the complex world of precious metals taxation in this detailed article. Learn how sales tax or VAT affects the buying of gold, silver, and platinum worldwide. From different rates in the US to VAT details across Europe and exemptions in Australia and Canada, find out how various countries deal with taxes on investment-grade metals.
 image: https://lh3.googleusercontent.com/pw/ABLVV87KlBfNeJrxZqdfd96CUQrCZiXDWzXXXsHLcgZKLgJPlQGPZ4FYzgwnP_tWbD_rQCG0xQBfDxwqAYwuh4DDF8Pj1FBZq6wYrABVYisj5SoVKEtG7pZgWw0VNXMMTifOj9vilnLAWOx_23YDxxCTxuV_=w1920-h1280-s-no?authuser=0
 ---
 
@@ -88,7 +88,7 @@ Photo by <a href="https://unsplash.com/@kylejglenn?utm_content=creditCopyText&ut
   
 ## Effortless Sales Tax and VAT Tracking with the Precious Metals Manager iOS App
 
-You can start using the Precious Metals Manager iOS app to monitor your bullion, specify sales tax and VAT, and gain insights into your tax expenses over time.
+You can use the Precious Metals Manager app on iOS to track your bullion, set sales tax and VAT, and see how much you're spending on taxes over time.
 
 Tax details are presented at various levels:
 
