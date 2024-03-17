@@ -2,29 +2,29 @@
 title: Understanding Junk Silver Worth Beyond the Wear
 author: Sergio Martin Rubio
 layout: post
-description: Discover the world of 'Junk Silver', unveiling the historical and economic significance behind these circulated coins. Understand how their worth is calculated based on silver content and condition. Dive into the differences in perceptions between the US and Europe regarding these coins. Keep reading to know more about tools to better manage and track 'Junk Silver'.
+description: Learn about 'Junk Silver' coins and their historical and economic importance. Find out how their value is determined by their silver content and condition. Explore the differences in how people in the US and Europe view these coins. Keep reading to discover tools for managing and tracking 'Junk Silver' more effectively.
 image: https://lh3.googleusercontent.com/pw/ABLVV87NRlCoX2YRszDVH9wxmh1PCuxdyp5TQyPAjjrasWvWRtbB6UznXCPGvcIZIuBMLQKuf9pk5lgAszOsRHRhJmlc0PW2BzBE-6sqnPe0agEpDeeRvDbgbkykHZ8wwgAfhzdU-WUL60NYi0YZO0oxzsHd=w3000-h2000-s-no?authuser=0
 ---
 
 ## Introduction
 
-‘Junk Silver’ primarily denotes circulated coins with silver content used as legal tender currency, mostly in the United States. It is also known as ‘Old US Silver’ or ‘scrap Silver.’ Junk Silver holds historical and economic significance because silver coins represent actual money. In the event of an economic collapse, their purchasing power would likely endure.
+‘Junk Silver’ refers to old coins circulated as legal currency in the United States, containing silver. Also called ‘Old US Silver’ or ‘scrap Silver,’ these coins are historically and economically important because they represent real money. If there were an economic collapse, their value would likely remain stable.
 
-Among the most popular junk silver coins are the Morgan Dollar and the Barber Dime, both containing 90% silver. They possess face values of $1 and 10¢ (one-tenth of a United States dollar) and were minted from 1878 to 1921 and from 1892 to 1916, respectively.
+Popular examples of junk silver coins include the Morgan Dollar and the Barber Dime, both made of 90% silver. They have face values of $1 and 10 cents, respectively, and were minted from 1878 to 1921 and from 1892 to 1916.
 
 ## Understanding the Concept of Junk Silver
 
-The term 'junk' typically refers to silver coins that lack significant collectible value. Most commonly, these are highly circulated silver coins pre-dating 1965 with a 90% silver content and noticeable wear. However, some exceptions to the pre-1965 90% silver coins are the 35% silver War Nickels minted between 1942 and 1946 or the 40% Silver Kennedy Half-Dollars minted between 1965 and 1970.
+'Junk' silver usually refers to silver coins that aren't very collectible. These are typically heavily used coins made before 1965 with 90% silver and visible wear. However, there are exceptions like the 35% silver War Nickels from 1942 to 1946 or the 40% Silver Kennedy Half-Dollars from 1965 to 1970.
 
-Junk silver is primarily a term used in the US because these coins are abundant and typically sold based on weight or face value. In contrast, what constitutes 'junk' silver in the US isn't necessarily viewed the same way in places like Europe. Specifically, coins like Morgans and other older pieces are highly sought after by collectors there, asking for significant premiums due to their scarcity. For instance, in Europe, examples of 'junk' silver might include the 50 Francs 90% silver coin minted between 1974 and 1980, the 2 Reichsmark .625 silver coin minted from 1924 to 1948, or the West-German 5 Deutsche Mark .625 silver coin minted between 1951 and 1974. Unfortunately, even local 'junk' silver in non-US regions often carries high premiums as they're seen as collectibles.
+In the US, junk silver is a common term because these coins are plentiful and often sold by weight or face value. But what's considered 'junk' silver in the US might not be seen the same way in Europe. There, coins like Morgans and other older pieces are highly desired by collectors and can sell for much more. For example, 'junk' silver in Europe might include coins like the 50 Francs 90% silver coin from 1974 to 1980, the 2 Reichsmark .625 silver coin from 1924 to 1948, or the West-German 5 Deutsche Mark .625 silver coin from 1951 to 1974. Unfortunately, even 'junk' silver in non-US areas often has high prices because they're considered collectibles.
 
 ## Factors Influencing Junk Silver Value
 
-While certain US junk silver coins may fetch high premiums due to rarity or exceptional condition, the majority tend to have lower premiums. Therefore, we will refer to junk silver as those coins with no collectible or numismatic value.
+Most US junk silver coins might have low premiums, except for rare or well-preserved ones. So, we consider junk silver as coins with no collector's value.
 
 The value of junk silver is based on the silver content, which is tipically 90% in the US, with exceptions like the the 35% silver War Nickels or the 40% Silver Kennedy Half-Dollars. The purity is apply when calculating the junk silver value. In case of War Nickels a wear coeficient is not applied.
 
-In case of pre-1965 90% silver coins we also have to factor the wear and tear from circulation.
+For pre-1965 90% silver coins, we also consider wear and tear from circulation.
 
 ## Calculating Junk Silver Value
 
@@ -34,7 +34,7 @@ The calculation for non-pre-1965 90% silver coins is straightforward as wear and
 value = purity * silver spot price * silver coin weight in troy oz * units
 ```
 
-Alternatively, considering that $1 face value of War nickels contains approximately 1.125 troy oz of silver:
+Alternatively, if you consider that $1 face value of War nickels contains about 1.125 troy ounces of silver:
 
 ```
 value = 1.125 troy oz * silver spot price
@@ -92,7 +92,7 @@ Please note that the previous formulas do not include the dealer premium, which 
 
 ## Market Factors and Valuation
 
-Many of the US junk silver coins are becoming increasingly difficult to find as time passes. Consequently, their premiums are gradually rising since they hold historical significance, attracting collectors. This trend is currently noticeable in Europe, where silver legal tender currency hold very high premiums.
+As time goes on, it's getting harder to find many US junk silver coins. This means their prices are going up slowly because they're historically important and collectors want them. This trend is especially noticeable in Europe, where silver coins with legal value have very high prices.
 
 ## Methods for Valuation
 
@@ -103,7 +103,7 @@ Some of the most used online tools for calculating junk silver value are:
 
 ## Precious Metals Manager App
 
-The Precious Metals Manager app takes the junk silver calculation to another level by providing an all-in-one tool for managing and tracking all your junk silver on the go.
+The Precious Metals Manager app makes it easy to manage and track all your junk silver wherever you are.
 
 <div class="row">
     <div class="col-md-3">
@@ -124,8 +124,8 @@ The Precious Metals Manager app takes the junk silver calculation to another lev
 
 ## Conclusion
 
-Junk silver might be difficult to value specially because not all 'junk silver' is really 'junk' silver, like coins key dates, or older types that are driven by numismatic value.
+Valuing junk silver can be tricky because not all of it is actually "junk." Some coins, like key dates or older types, have numismatic value.
 
-Silver stacker usually use well known formulas for calculating junk silver value, like $1.40 face value in 90% silver is a troy ounce of silver.
+Silver stackers often use simple formulas to calculate junk silver value. For example, $1.40 face value in 90% silver equals one troy ounce of silver.
 
 Photo by kevser: https://www.pexels.com/photo/a-bunch-of-silver-coins-in-close-up-photography-9316983/
