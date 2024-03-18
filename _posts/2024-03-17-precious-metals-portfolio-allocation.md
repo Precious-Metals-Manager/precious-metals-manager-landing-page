@@ -38,7 +38,7 @@ A **tactical allocation** strategy is a more complicated method of diversifying 
 
 <div class="row">
     <div class="col-md-3">
-        <p>The **Precious Metals Manager app** lets you choose how much of each metal you want in your portfolio. It then tells you how many ounces to sell or buy to balance your portfolio based on the current spot prices.</p>
+        <p>The <b>Precious Metals Manager app</b> lets you choose how much of each metal you want in your portfolio. It then tells you how many ounces to sell or buy to balance your portfolio based on the current spot prices.</p>
     </div>
     <div class="col-md-3 mb-5">
         <img class="rounded" width="220" src="https://lh3.googleusercontent.com/pw/AP1GczNg2oq3M7ECDC1M3qUKAnaBu7_s-w2MAllvL2dQHg3FZ-9P8jMJoXlfj5A0tYYWmz9NPWhrPq9G5143JQKWNwtfsLEZFU7Wcnr6PPnrcJgT3LP4VpuwMYngDm4dbYyzkskIlnmJ9xA7RZqBXIWvxp_k=w922-h2000-s-no?authuser=0" alt="Portfolio Allocation Rebalance" />
