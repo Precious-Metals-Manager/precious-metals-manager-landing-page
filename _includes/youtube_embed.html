@@ -1,2 +1,38 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0"
-    allowfullscreen></iframe>
+<style>
+    .responsive-iframe-container {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .responsive-iframe {
+        position: relative;
+        padding-bottom: 56.25%;
+        /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+
+    .responsive-iframe iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        /* Adjust for smaller screens */
+        .responsive-iframe {
+            padding-bottom: 75%;
+            /* 4:3 aspect ratio for smaller screens */
+        }
+    }
+</style>
+
+<div class="responsive-iframe-container">
+    <div class="responsive-iframe">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0"
+            allowfullscreen></iframe>
+    </div>
+</div>

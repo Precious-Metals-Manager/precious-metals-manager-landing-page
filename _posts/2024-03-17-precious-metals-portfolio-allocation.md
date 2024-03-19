@@ -40,8 +40,4 @@ The **Precious Metals Manager app** lets you choose how much of each metal you w
 
 {% include youtube_embed.html id="DCGhDpx_2tY" %}
 
-<br>
-
 {% include_cached downloadnowbutton.html %}
-
-## Conclusion
