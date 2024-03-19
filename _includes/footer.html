@@ -5,15 +5,6 @@
 	{% endif %}
 	<div class="footerIcons">
 
-		{% if site.facebook_username %}
-		<a href="https://facebook.com/{{ site.facebook_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Facebook link"></i>
-				<i class="socialIconTop fab fa-facebook fa-stack-1x" title="Facebook link"></i>
-			</span>
-		</a>
-		{% endif %}
-
 		{% if site.x_username %}
 		<a href="https://twitter.com/{{ site.x_username }}">
 			<span class="fa-stack fa-1x">
@@ -55,6 +46,15 @@
 			<span class="fa-stack fa-1x">
 				<i class="socialIconBack fas fa-circle fa-stack-2x" title="LinkedIn link"></i>
 				<i class="socialIconTop fab fa-linkedin fa-stack-1x" title="LinkedIn link"></i>
+			</span>
+		</a>
+		{% endif %}
+
+		{% if site.facebook_username %}
+		<a href="https://facebook.com/{{ site.facebook_username }}">
+			<span class="fa-stack fa-1x">
+				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Facebook link"></i>
+				<i class="socialIconTop fab fa-facebook fa-stack-1x" title="Facebook link"></i>
 			</span>
 		</a>
 		{% endif %}
