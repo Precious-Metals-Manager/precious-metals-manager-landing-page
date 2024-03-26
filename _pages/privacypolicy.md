@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-December 13 2024
+March 26 2024
 
 # Privacy Policy
 
@@ -28,9 +28,9 @@ The currency, which is based on your region, metals, metal content in ozt, produ
 
 Precious Metals Manager uses your internet connection when fetching spot rates and syncing your data with iCloud.
 
-## Bugsnag
+<!-- ## Bugsnag
 
-We use Bugsnag, a third-party error monitoring service, to collect and analyze data on errors and crashes that occur within our application. We never send personal information to Bugsnag. Bugsnag may collect technical information such as device information, stack traces, and error messages. This data is used to identify and fix issues to improve the overall quality of our application. BugSnag does not link user or device data with user or device data from any other source, for any purpose. Bugsnag's privacy policy can be found at [Bugsnag Privacy Policy](https://docs.bugsnag.com/platforms/ios/appstore-privacy/).
+We use Bugsnag, a third-party error monitoring service, to collect and analyze data on errors and crashes that occur within our application. We never send personal information to Bugsnag. Bugsnag may collect technical information such as device information, stack traces, and error messages. This data is used to identify and fix issues to improve the overall quality of our application. BugSnag does not link user or device data with user or device data from any other source, for any purpose. Bugsnag's privacy policy can be found at [Bugsnag Privacy Policy](https://docs.bugsnag.com/platforms/ios/appstore-privacy/). -->
 
 
 ## Use of Google Analytics on https://preciousmetalsmanager.com
