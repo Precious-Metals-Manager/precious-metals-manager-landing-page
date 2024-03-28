@@ -41,7 +41,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Confidential and Secure Portfolio
-    description                           : The data is stored in an encrypted form on your device and cannot be read from or written to while the device is locked or booting. In addition some of the data is in an encrypted form in iCloud.
+    description                           : The data is stored in an encrypted form on your device and cannot be read from or written to while the device is locked or booting.
     fontawesome_icon_name                 : lock
 
   - title                                 : +300 preset coins
