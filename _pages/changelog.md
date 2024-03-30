@@ -20,7 +20,49 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.11.12**
+# **Version 1.11.18**
+
+#### What's New
+- Historical 'Gold to Silver Ratio' 📊 ⚖️ is now available in the Tools 🛠️ section
+- 🖼️ Minor UI Improvements
+- 🚀🛠️ Minor performance improvements
+
+### **Version 1.11.17**
+
+#### What's New
+- Store bullion presets 🫥 so you can reuse them whenever you create a new item.
+
+#### Bug Fixes
+- 🐞 Screen was auto closing when editing an order, item, or creating a sale from the long-press menu.
+
+### **Version 1.11.16**
+
+#### What's New
+- Value 'Change' 🤑 has been added to the 'Value Over Time' and 'Order Value Over Time' screens.
+- Filter by 'Gift' 🎁 in the inventory 🗄️. Items with a unit price of zero are considered as 'Gift'.
+
+### **Version 1.11.15**
+
+#### What's New
+- 🖼️ UI Improvements
+
+### **Version 1.11.14**
+
+#### What's New
+- In this new release version, we've introduced enhancements to the average cost feature, now including information on the amount of change in average cost compared to the previous period.
+
+#### Bug Fixes
+- Fixed a bug in the inventory preventing the simultaneous application of the "search filter by name" alongside other filters such as "date range" or "form factor."
+- Fixed a bug in the inventory that previously prevented the alteration of form factor types when the form factor filter was already active.
+- Fixed a bug in the inventory causing items to split into multiple rows due to the presence of leading or trailing white spaces in item names.
+- Fixed a bug in the average cost screen where incorrect up or down arrows may have been displayed, even in cases where the cost hadn't changed.
+
+### **Version 1.11.13**
+
+#### What's New
+- The analytics screen 📈 for each metal now provides more in-depth average cost data. Select between different form factors (coin, bar, or round) and choose a specific date range 📆 to narrow down the results.
+
+### **Version 1.11.12**
 
 #### What's New
 - Average Purchase Price" and "Average Sale Price" are now available from each group of items in the inventory. 💰📊
