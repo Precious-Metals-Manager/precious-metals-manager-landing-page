@@ -3,111 +3,242 @@ title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
 description: Dive into the complex world of precious metals taxation in this detailed article. Learn how sales tax or VAT affects the buying of gold, silver, and platinum worldwide. From different rates in the US to VAT details across Europe and exemptions in Australia and Canada, find out how various countries deal with taxes on investment-grade metals.
-image: https://lh3.googleusercontent.com/pw/ABLVV87KlBfNeJrxZqdfd96CUQrCZiXDWzXXXsHLcgZKLgJPlQGPZ4FYzgwnP_tWbD_rQCG0xQBfDxwqAYwuh4DDF8Pj1FBZq6wYrABVYisj5SoVKEtG7pZgWw0VNXMMTifOj9vilnLAWOx_23YDxxCTxuV_=w1920-h1280-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczN-zwWbueBX5Dd0EVi2J6_4oi9SownDoqaf5BxeErgWp-oVA6diO6HshLzKSumsILyW7lM-1k_NOZXOkdPvHUt13dC04CaPumNHJFJfDbW1KKPt44wjg6t7FK48bnO1CdHkISa61aIGafZYC4cqadgo=w1200-h628-s-no-gm?authuser=0
 ---
 
-Sales tax or VAT (Value-added tax) is sometimes applied to precious metals when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (spot price + [premium](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)).
+**Sales tax** or VAT (Value-added tax) is sometimes applied to *precious metals* when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (**spot price** + [**premium**](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)). 📊✨💰
 
 ## United States
 
-In the case of the US, sales tax varies in each state. The following figures represent the state-wide rate and reflect the minimum you can expect to pay as of today, December 7th, 2023. Therefore, they do not include any county-specific tax rates.
+🇺🇸 **In the case of the US**, sales tax varies in each state. The following figures represent the state-wide rate and reflect the minimum you can expect to pay as of today, December 7th, 2023. Therefore, they do not include any county-specific tax rates.
 
-| State          | %    | Form Factor                           | Transaction* | Purity**                                                           | Comment***                                                                                                                                                                                                                                                              |
-| -------------- | ---- | ------------------------------------- | ------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alabama        | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Alaska         | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Arizona        | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Arkansas       | 0    |                                       |              |                                                                    | No sales tax on bullion since May 3 2021 (SB336). Gold and silver were approved as legal tender [(HB1718) on 2023/03/30](https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FHB1718.pdf){:target="_blank"}                                 |
-| California     | 7.5  | All*                                  | <2000        | All                                                                | [Tax Information Bulletin, Publication 388, December 2022](https://www.cdtfa.ca.gov/taxes-and-fees/dec22tib.pdf){:target="_blank"}                                                                                                                                      |
-| Colorado       | 2.9  | Collectibles; Legal Tender            |              | All                                                                | Sales tax only on collectibles or numismatic  [Section 39-26-706(4), C.R.S.](https://leg.colorado.gov/sites/default/files/2021_te22_precious_metal_bullion_and_coin_exemption.pdf){:target="_blank"}                                                                    |
-| Connecticut    | 6    | All*                                  | <1000        | All                                                                |                                                                                                                                                                                                                                                                         |
-| Delaware       | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Florida        | 6    | Bullion*; Collectibles\*              | <500         | All                                                                | US bullion; numismatic coins or currency that are legal tender are exempt [§212.05(1)](https://www.flsenate.gov/Laws/Statutes/2021/212.05){:target="_blank"}                                                                                                            |
-| Georgia        | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Hawaii         | 4    | All                                   |              | All                                                                | Hawaii does not have a sales tax but rather a GET or a General Excise Tax that is applied to the business which is often added to the purchase price                                                                                                                    |
-| Idaho          | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Illinois       | 6.25 | Bullion**; Collectibles               |              | <0.980                                                             | No sales tax on US or foreign legal tender or high purity bullion [86 Chap 1 Ill Adm Code §130.120(aa)](https://www.ilga.gov/commission/jcar/admincode/086/086001300A01200R.html){:target="_blank"}                                                                     |
-| Indiana        | 7    | Bullion**; Collectibles               |              | Gold: <0.995; Silver: <0.999; Platinum: <0.9995                    | No tax on legal tender and high-purity bullion  [IC 6-2.5-5-47](https://www.in.gov/dor/files/reference/sib50.pdf){:target="_blank"}                                                                                                                                     |
-| Iowa           | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Kansas         | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Kentucky       | 6    | All                                   | All          | All                                                                |                                                                                                                                                                                                                                                                         |
-| Louisiana      | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Maine          | 5    | All                                   |              | All                                                                |                                                                                                                                                                                                                                                                         |
-| Maryland       | 6    | All*                                  | <1000        | All                                                                |                                                                                                                                                                                                                                                                         |
-| Massachusetts  | 6.25 | All*                                  | <1000        | All                                                                |                                                                                                                                                                                                                                                                         |
-| Michigan       | 6    | Bullion**; Collectibles               |              | <0.900                                                             | No sales tax on high-purity bullion and legal tender with a market value greater than the face value of the coin [Act 173 of 2004 §4s](https://www.legislature.mi.gov/(S(nrbuqu4vxl501ntvfqemdqd0))/mileg.aspx?page=getObject&objectName=mcl-205-54s){:target="_blank"} |
-| Minnesota      | 6.88 | Collectibles                          |              | All                                                                | Bullion and legal tender are exempt since June 20, 2021 [Analysis of H.F 2481 (Olson) / S.F. 2419 (Rosen)](https://www.revenue.state.mn.us/sites/default/files/2021-05/hf2481%28sf2419%29_1%20bullion%20coins.pdf){:target="_blank"}                                    |
-| Mississippi    | 0    |                                       |              |                                                                    | Coins, currency and bullion are excempt since July 1, 2023 [Senate Bill 2862](https://billstatus.ls.state.ms.us/documents/2023/html/SB/2800-2899/SB2862SG.htm)                                                                                                          |
-| Missouri       | 4.23 | Bullion**; Collectibles               |              | <0.900                                                             | No sales tax on high-purity bullion and legal tender with market value greater than the face value of the coin [STATUTE 144.815](https://www.revisor.mo.gov/main/OneSection.aspx?section=144.815){:target="_blank"}                                                     |
-| Montana        | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Nebraska       | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Nevada         | 6.85 | Collectibles                          |              | All                                                                | Bullion is not taxable when is used as a medium of exchange. Non bullion legal tender coins are taxable if the price exceeds the face value of the coin by 50%                                                                                                          |
-| New Hampshire  | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| New Jersey     | 7    | All                                   |              | All                                                                |                                                                                                                                                                                                                                                                         |
-| New Mexico     | 5.13 | All                                   |              | All                                                                | New Mexico does not have a sales tax instead it has a “gross receipts tax” that is usually passed onto the consumer by adding it to the selling price                                                                                                                   |
-| New York       | 4    | All*                                  | <1000        | All                                                                | [Tax Law, § 1115(a)(27)](https://newyork.public.law/laws/n.y._tax_law_section_1115){:target="_blank"}                                                                                                                                                                   |
-| North Carolina | 4.75 | Collectibles                          |              | All                                                                | No sales tax on numismatic coins or legal tender coins when market value is greater than their nominal value. No sales tax on bullion sold for investment and according to their metal content § 105-164.13(69)                                                         |
-| North Dakota   | 5    | Bullion**; Collectibles               |              | <0.999                                                             | No sales tax on high-purity bullion and legal tender [NDCC 57-39.2-04](https://www.ndlegis.gov/cencode/t57c39-2.pdf#nameddest=57-39p2-04){:target="_blank"}(31)                                                                                                         |
-| Ohio           | 5.75 | Bullion**; Collectibles; Legal Tender |              | Gold: <0.995; Silver: <0.999; Platinum: <0.9995; Palladium: <99995 | High purity bullion is exempt since July 1 2021                                                                                                                                                                                                                         |
-| Oklahoma       | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Oregon         | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Pennsylvania   | 6    | Collectibles                          |              | All                                                                | Bullion sold according to its metal content is exempt. Numismatic coins or legal tender with a market value greater than their face value is exempt [1971 Act 2 Part III §204(65)](https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1971/0/0002..PDF){:target="_blank"}  |
-| Rhode Island   | 7    | Collectibles                          |              | All                                                                | Tax applies only to metal bullion for industrial professional or artistic uses [RIGL 44-18-30(24) and (43)  ](http://webserver.rilin.state.ri.us/Statutes/TITLE44/44-18/44-18-30.HTM){:target="_blank"}                                                                 |
-| South Carolina | 6    | Collectibles                          |              | All                                                                | Bullion valued by its metal content and legal tender coins are exempt [SC Code Section 12-36-2120 (70)](https://www.scstatehouse.gov/code/t12c036.php){:target="_blank"}                                                                                                |
-| South Dakota   | 4.5  |                                       |              | <0.999                                                             | High purity bullion and legal tender coins are exempt 57-39.2-04(31)                                                                                                                                                                                                    |
-| Tennessee      | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Texas          | 0    |                                       |              |                                                                    |                                                                                                                                                                                                                                                                         |
-| Utah           | 4.75 |                                       |              | <0.500                                                             | [59-12-104](https://le.utah.gov/xcode/Title59/Chapter12/59-12-S104.html){:target="_blank"}                                                                                                                                                                              |
-| Vermont        | 6    | All                                   |              | All                                                                |                                                                                                                                                                                                                                                                         |
-| Virginia       | 5.3  | Bullion (Palladium)                   |              | All                                                                | All metals except for palladium are exempt House Bill 936 amends §58.1-609.1 of the Code of Virginia                                                                                                                                                                    |
-| Washington     | 7.5  | Collectibles                          |              | All                                                                | Tax only applies to collectibles [WAC 458-20-248](https://apps.leg.wa.gov/WAC/default.aspx?cite=458-20-248){:target="_blank"}                                                                                                                                           |
-| West Virginia  | 6    | Collectibles                          |              | All                                                                | Tax only applies to collectibles [§11-15-9r](https://code.wvlegislature.gov/11-15-9R/){:target="_blank"}                                                                                                                                                                |
-| Wisconsin      | 5    | All                                   |              | All                                                                |                                                                                                                                                                                                                                                                         |
-| Wyoming        | 0    |                                       |              |                                                                    | [W.S. 39-15-101(a)(xxxi)](https://wyoleg.gov/statutes/compress/title39.pdf){:target="_blank"}                                                                                                                                                                           |
+| State                                  | Rate  | Form Factor                               | Max Transaction* | Min Purity**                                      |
+| -------------------------------------- | ----- | ----------------------------------------- | ---------------- | ------------------------------------------------- |
+| [Alabama](#alabama-info)               | 0%    |                                           |                  |                                                   |
+| [Alaska](#alaska-info)                 | 0%    |                                           |                  |                                                   |
+| [Arizona](#arizona-info)               | 0%    |                                           |                  |                                                   |
+| [Arkansas](#arkansas-info)             | 0%    |                                           |                  |                                                   |
+| [California](#california-info)         | 7.5%  | All*                                      | 2000             | All                                               |
+| [Colorado](#colorado-info)             | 2.9%  | Collectibles<br>Legal Tender              |                  | All                                               |
+| [Connecticut](#connecticut-info)       | 6%    | All*                                      | 1000             | All                                               |
+| [Delaware](#delaware-info)             | 0%    |                                           |                  |                                                   |
+| [Florida](#florida-info)               | 6%    | Bullion\*<br>Collectibles\*               | 500              | All                                               |
+| [Georgia](#georgia-info)               | 0%    |                                           |                  |                                                   |
+| [Hawaii](#hawaii-info)                 | 4%    | All                                       |                  | All                                               |
+| [Idaho](#idaho-info)                   | 0%    |                                           |                  |                                                   |
+| [Illinois](#illinois-info)             | 6.25% | Bullion**<br>Collectibles                 |                  | 0.980                                             |
+| [Indiana](#indiana-info)               | 7%    | Bullion**<br>Collectibles                 |                  | AU: 0.995<br>AG: 0.999<br>PT: 0.9995              |
+| [Iowa](#iowa-info)                     | 0%    |                                           |                  |                                                   |
+| [Kansas](#kansas-info)                 | 0%    |                                           |                  |                                                   |
+| [Kentucky](#kentucky-info)             | 6%    | All                                       | All              | All                                               |
+| [Louisiana](#louisiana-info)           | 0%    |                                           |                  |                                                   |
+| [Maine](#maine-info)                   | 5%    | All                                       |                  | All                                               |
+| [Maryland](#maryland-info)             | 6%    | All*                                      | 1000             | All                                               |
+| [Massachusetts](#massachusetts-info)   | 6.25% | All*                                      | 1000             | All                                               |
+| [Michigan](#michigan-info)             | 6%    | Bullion**<br>Collectibles                 |                  | 0.900                                             |
+| [Minnesota](#minnesota-info)           | 6.88% | Collectibles                              |                  | All                                               |
+| [Mississippi](#mississippi-info)       | 0%    |                                           |                  |                                                   |
+| [Missouri](#missouri-info)             | 4.23% | Bullion**<br>Collectibles                 |                  | 0.900                                             |
+| [Montana](#montana-info)               | 0%    |                                           |                  |                                                   |
+| [Nebraska](#nebraska-info)             | 0%    |                                           |                  |                                                   |
+| [Nevada](#nevada-info)                 | 6.85% | Collectibles                              |                  | All                                               |
+| [New Hampshire](#new-hampshire-info)   | 0%    |                                           |                  |                                                   |
+| [New Jersey](#new-jersey-info)         | 7%    | All                                       |                  | All                                               |
+| [New Mexico](#new-mexico-info)         | 5.13% | All                                       |                  | All                                               |
+| [New York](#new-york-info)             | 4%    | All*                                      | 1000             | All                                               |
+| [North Carolina](#north-carolina-info) | 4.75% | Collectibles                              |                  | All                                               |
+| [North Dakota](#north-dakota-info)     | 5%    | Bullion**<br>Collectibles                 |                  | 0.999                                             |
+| [Ohio](#ohio-info)                     | 5.75% | Bullion**<br>Collectibles<br>Legal Tender |                  | AU: 0.995<br>AG: 0.999<br>PT: 0.9995<br>PD: 99995 |
+| [Oklahoma](#oklahoma-info)             | 0%    |                                           |                  |                                                   |
+| [Oregon](#oregon-info)                 | 0%    |                                           |                  |                                                   |
+| [Pennsylvania](#pennsylvania-info)     | 6%    | Collectibles                              |                  | All                                               |
+| [Rhode Island](#rhode-island-info)     | 7%    | Collectibles                              |                  | All                                               |
+| [South Carolina](#south-carolina-info) | 6%    | Collectibles                              |                  | All                                               |
+| [South Dakota](#south-dakota-info)     | 4.5%  |                                           |                  | 0.999                                             |
+| [Tennessee](#tennessee-info)           | 0%    |                                           |                  |                                                   |
+| [Texas](#texas-info)                   | 0%    |                                           |                  |                                                   |
+| [Utah](#utah-info)                     | 4.75% |                                           |                  | 0.500                                             |
+| [Vermont](#vermont-info)               | 6%    | All                                       |                  | All                                               |
+| [Virginia](#virginia-info)             | 5.3%  | Bullion<br>Excl. PD                       |                  | All                                               |
+| [Washington](#washington-info)         | 7.5%  | Collectibles                              |                  | All                                               |
+| [West Virginia](#west-virginia-info)   | 6%    | Collectibles                              |                  | All                                               |
+| [Wisconsin](#wisconsin-info)           | 5%    | All                                       |                  | All                                               |
+| [Wyoming](#wyoming-info)               | 0%    |                                           |                  |                                                   |
 
+### Alabama {#alabama-info}
+No additional sales tax information available for Alabama.
+
+### Alaska {#alaska-info}
+No additional sales tax information available for Alaska.
+
+### Arizona {#arizona-info}
+No additional sales tax
+
+ information available for Arizona.
+
+### Arkansas {#arkansas-info}
+No sales tax on bullion since May 3 2021 (SB336). Gold and silver were approved as legal tender [(HB1718) on 2023/03/30](https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FHB1718.pdf).
+
+### California {#california-info}
+[Click here](https://www.cdtfa.ca.gov/taxes-and-fees/dec22tib.pdf) for Tax Information Bulletin, Publication 388, December 2022.
+
+### Colorado {#colorado-info}
+Sales tax only on collectibles or numismatic  [Section 39-26-706(4), C.R.S.](https://leg.colorado.gov/sites/default/files/2021_te22_precious_metal_bullion_and_coin_exemption.pdf).
+
+### Connecticut {#connecticut-info}
+No additional sales tax information available for Connecticut.
+
+### Delaware {#delaware-info}
+No additional sales tax information available for Delaware.
+
+### Florida {#florida-info}
+US bullion; numismatic coins or currency that are legal tender are exempt [§212.05(1)](https://www.flsenate.gov/Laws/Statutes/2021/212.05).
+
+### Georgia {#georgia-info}
+No additional sales tax information available for Georgia.
+
+### Hawaii {#hawaii-info}
+Hawaii does not have a sales tax but rather a GET or a General Excise Tax that is applied to the business which is often added to the purchase price.
+
+### Idaho {#idaho-info}
+No additional sales tax information available for Idaho.
+
+### Illinois {#illinois-info}
+No sales tax on US or foreign legal tender or high purity bullion [86 Chap 1 Ill Adm Code §130.120(aa)](https://www.ilga.gov/commission/jcar/admincode/086/086001300A01200R.html).
+
+### Indiana {#indiana-info}
+No tax on legal tender and high-purity bullion  [IC 6-2.5-5-47](https://www.in.gov/dor/files/reference/sib50.pdf).
+
+### Iowa {#iowa-info}
+No additional sales tax information available for Iowa.
+
+### Kansas {#kansas-info}
+No additional sales tax information available for Kansas.
+
+### Kentucky {#kentucky-info}
+No additional sales tax information available for Kentucky.
+
+### Louisiana {#louisiana-info}
+No additional sales tax information available for Louisiana.
+
+### Maine {#maine-info}
+No additional sales tax information available for Maine.
+
+### Maryland {#maryland-info}
+No additional sales tax information available for Maryland.
+
+### Massachusetts {#massachusetts-info}
+No additional sales tax information available for Massachusetts.
+
+### Michigan {#michigan-info}
+No sales tax on high-purity bullion and legal tender with a market value greater than the face value of the coin [Act 173 of 2004 §4s](https://www.legislature.mi.gov/(S(nrbuqu4vxl501ntvfqemdqd0))/mileg.aspx?page=getObject&objectName=mcl-205-54s).
+
+### Minnesota {#minnesota-info}
+Bullion and legal tender are exempt since June 20, 2021 [Analysis of H.F 2481 (Olson) / S.F. 2419 (Rosen)](https://www.revenue.state.mn.us/sites/default/files/2021-05/hf2481%28sf2419%29_1%20bullion%20coins.pdf).
+
+### Mississippi {#mississippi-info}
+Coins, currency and bullion are excempt since July 1, 2023 [Senate Bill 2862](https://billstatus.ls.state.ms.us/documents/2023/html/SB/2800-2899/SB2862SG.htm).
+
+### Missouri {#missouri-info}
+No sales tax on high-purity bullion and legal tender with market value greater than the face value of the coin [STATUTE 144.815](https://www.revisor.mo.gov/main/OneSection.aspx?section=144.815).
+
+### Montana {#montana-info}
+No additional sales tax information available for Montana.
+
+### Nebraska {#nebraska-info}
+No additional sales tax information available for Nebraska.
+
+### Nevada {#nevada-info}
+Bullion is not taxable when is used as a medium of exchange. Non bullion legal tender coins are taxable if the price exceeds the face value of the coin by 50%.
+
+### New Hampshire {#new-hampshire-info}
+No additional sales tax information available for New Hampshire.
+
+### New Jersey {#new-jersey-info}
+No additional sales tax information available for New Jersey.
+
+### New Mexico {#new-mexico-info}
+New Mexico does not have a sales tax instead it has a “gross receipts tax” that is usually passed onto the consumer by adding it to the selling price.
+
+### New York {#new-york-info}
+[Click here](https://newyork.public.law/laws/n.y._tax_law_section_1115) for Tax Law, § 1115(a)(27).
+
+### North Carolina {#north-carolina-info}
+No sales tax on numismatic coins or legal tender coins when market value is greater than their nominal value. No sales tax on bullion sold for investment and according to their metal content § 105-164.13(69).
+
+### North Dakota {#north-dakota-info}
+No sales tax on high-purity bullion and legal tender [NDCC 57-39.2-04](https://www.ndlegis.gov/cencode/t57c39-2.pdf#nameddest=57-39p2-04)(31).
+
+### Ohio {#ohio-info}
+High purity bullion is exempt since July 1 2021.
+
+### Oklahoma {#oklahoma-info}
+No additional sales tax information available for Oklahoma.
+
+### Oregon {#oregon-info}
+No additional sales tax information available for Oregon.
+
+### Pennsylvania {#pennsylvania-info}
+Bullion sold according to its metal content is exempt. Numismatic coins or legal tender with a market value greater than their face value is exempt [1971 Act 2 Part III §204(65)](https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1971/0/0002..PDF).
+
+### Rhode Island {#rhode-island-info}
+Tax applies only to metal bullion for industrial professional or artistic uses [RIGL 44-18-30(24) and (43)](http://webserver.rilin.state.ri.us/Statutes/TITLE44/44-18/44-18-30.HTM).
+
+### South Carolina {#south-carolina-info}
+Bullion valued by its metal content and legal tender coins are exempt [SC Code Section 12-36-2120 (70)](https://www.scstatehouse.gov/code/t12c036.php).
+
+### South Dakota {#south-dakota-info}
+High purity bullion and legal tender coins are exempt 57-39.2-04(31).
+
+### Tennessee {#tennessee-info}
+No additional sales tax information available for Tennessee.
+
+### Texas {#texas-info}
+No additional sales tax information available for Texas.
+
+### Utah {#utah-info}
+[Click here](https://le.utah.gov/xcode/Title59/Chapter12/59-12-S104.html) for more information.
+
+### Vermont {#vermont-info}
+No additional sales tax information available for Vermont.
+
+### Virginia {#virginia-info}
+All metals except for palladium are exempt House Bill 936 amends §58.1-609.1 of the Code of Virginia.
+
+### Washington {#washington-info}
+Tax only applies to collectibles [WAC 458-20-248](https://apps.leg.wa.gov/WAC/default.aspx?cite=458-20-248).
+
+### West Virginia {#west-virginia-info}
+Tax only applies to collectibles [§11-15-9r](https://code.wvlegislature.gov/11-15-9R/).
+
+### Wisconsin {#wisconsin-info}
+No additional sales tax information available for Wisconsin.
+
+### Wyoming {#wyoming-info}
+No additional sales tax information available for Wyoming.                                                           |
 
 ## Europe
 
-In the European Union, instead of sales tax, it is named VAT (Value-added tax). Countries in the European Union always apply VAT to silver, which can range from 19% to 25%. However, there are countries in Europe, like Switzerland, where the VAT on silver is 7.7%, and in Norway, coins are VAT exempt. Norway is also part of the EEA, making it easier to move goods to the European Union. However, delivering silver to your country within the EU could still be subject to tax upon receiving it. In the UK, which is not part of the European Union anymore, the VAT is 20% on silver.
+🇪🇺 **In the European Union**, instead of sales tax, it is named VAT (Value-added tax). Countries in the European Union always apply VAT to *silver*, which can range from 19% to 25%. However, there are countries in Europe, like Switzerland, where the VAT on silver is 7.7%, and in Norway, coins are VAT exempt. Norway is also part of the EEA, making it easier to move goods to the European Union. However, delivering silver to your country within the EU could still be subject to tax upon receiving it. In the UK, which is not part of the European Union anymore, the VAT is 20% on silver.
 
 Fortunately, in the European Union and the [UK](https://www.gov.uk/guidance/gold-acquisitions-imports-investments-and-vat-notice-70121#sect2){:target="_blank"} or Switzerland, investment-grade gold bullion is exempt from VAT as it is considered an investment asset.
 
 ## Australia
 
-As of January 2022, in Australia, investment-grade gold and silver bullion, meeting specific purity requirements, are [exempt from Goods and Services Tax (GST)](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/when-to-charge-gst-and-when-not-to/gst-free-sales){:target="_blank"}, as outlined in the [Goods and Services Tax Ruling GSTR 2003/10](https://www.ato.gov.au/law/view/pdf/pbr/gstr2003-010.pdf){:target="_blank"}. Precious metals meeting the following purity criteria are considered exempt:
+As of January 2022, in 🇦🇺 **Australia**, investment-grade *gold* and *silver* bullion, meeting specific purity requirements, are [exempt from Goods and Services Tax (GST)](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/when-to-charge-gst-and-when-not-to/gst-free-sales){:target="_blank"}, as outlined in the [Goods and Services Tax Ruling GSTR 2003/10](https://www.ato.gov.au/law/view/pdf/pbr/gstr2003-010.pdf){:target="_blank"}. Precious metals meeting the following purity criteria are considered exempt:
 
-- gold (in an investment form) of at least 99.5% fineness
-- silver (in an investment form) of at least 99.9% fineness
-- platinum (in an investment form) of at least 99% fineness
+- **gold** (in an investment form) of at least 99.5% fineness
+- **silver** (in an investment form) of at least 99.9% fineness
+- **platinum** (in an investment form) of at least 99% fineness
 
 ## Canada
 
-In Canada, most precious metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for Gold and Platinum, and 0.999 for silver, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 7% or 15%.
-
-Photo by <a href="https://unsplash.com/@kylejglenn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kyle Glenn</a> on <a href="https://unsplash.com/photos/desk-globe-on-table-nXt5HtLmlgE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+In 🇨🇦 **Canada**, most 💰 precious 💎 metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for **Gold** and **Platinum**, and 0.999 for **silver**, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 7% or 15%. 📜🔍📊
   
 ## Effortless Sales Tax and VAT Tracking with the Precious Metals Manager iOS App
 
 You can use the Precious Metals Manager app on iOS to track your bullion, set sales tax and VAT, and see how much you're spending on taxes over time.
 
-Tax details are presented at various levels:
-
-### At the item level
-
-<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV87GiV7K9zB9xPhRtbtFDu_sKfISKqFCyCvSJxtjnhyWFHnvCe954iUhnE1Y_RG-DylverbGCfy8ch3X1x-VC7SxH4NUknhd9szLFLniIC5SpjzacVdMJCc1PpaXhl97r_oowq7H_5JYiGjqpBgLp1Dl=w922-h2000-s-no?authuser=0" alt="Item Tax" width="200"/>
-
-### At the order level
-
-<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86zKu14HY3iszlySyBNCQHtUCoeprXWJFoiDbJDa73ditsGzopmmRjh7Hc8db908Iexzha8RI5T8hn7DDLUoR2ZP2QQK6bp8aCJ6yOvq-lxNNywM0ClkVd3ULnZfcrKzX--fW5_azBRsTWIHnK-kQkS=w922-h2000-s-no?authuser=0" alt="Order Tax" width="200"/>
-
-### The total for each metal
-
-<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86vkBs11NDxa-w9mkQjWRaiC422uv0mdr2MWtwn_szQDBzLm36Yx0LGqwR7qSz8PGlzbvJgqopctFG2YeiBPNuvGJUEASlya7wJOViw5pMXvg3nx9FEThXWfKGHtIMzzitDxh8G6ApBj4LiT-mBSgTx=w922-h2000-s-no?authuser=0" alt="Metal Tax" width="200"/>
-
-### For your entire portfolio
-
-<img class="rounded mx-auto d-block" src="https://lh3.googleusercontent.com/pw/ABLVV86oYVtmkXxwWtkkfJaiqoqYUwQOGvbWEP9bPR7s7_Ajnx3V6xWzkZ9Tb68E9jCw3VtqizJWOL0sA7bL_03JO5cdzEffSo-um4WHLiOliaq1mcwVoDDz_I5HayxdVc1ZMvcKu14p4xSaV6jBhNF7FW2B=w922-h2000-s-no?authuser=0" alt="All Metals Tax" width="200"/>
-
-<br>
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMbCQpBJapiYvblliW8ADg4f1XHWY3lwl-71J9wcEWi3Cga3_sdK5XrrAjXICDWvZsKynK4XkUNyyVYOP2gCQPw0HqzLG_n1VgE-5uN3qrJysIZqyGf9NxTeMOm2-p1eepTr1s7GlxnBRrjwryEj0DU=w1920-h1080-s-no-gm?authuser=0" alt="Taxation" />
 
 {% include_cached downloadnowbutton.html %}
