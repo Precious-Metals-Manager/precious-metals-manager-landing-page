@@ -20,7 +20,56 @@ include_in_header: true
 
 <br> -->
 
-# **Version 1.11.18**
+# **Version 1.11.25**
+
+#### What's New
+- 🖼️ Minor UI improvements
+
+#### Bug Fixes
+- 🐞 Bug fixes
+
+### **Version 1.11.24**
+
+#### What's New
+**IMPORTANT**: This version introduces breaking changes with the existing JSON export files. Please generate new JSON backups or update the existing backups by removing the milliseconds (.000) from all the dates in the JSON file (e.g., from
+2023-05-23T18:06:00.000Z to 2023-05-23T18:06:00Z).
+
+- The spot price used for calculating the live value is now shown on the metal analytics screen.
+- The Analytics screen now displays the value of each metal on the buttons.
+- The Dollar-Cost Averaging Chart now allows you to toggle the average cost and current spot price, so it's represented on the chart.
+- Minor UI improvements
+
+#### Bug Fixes
+- 🐞 Bug fix: In some regions, the latest spot price might not be available depending on the local time and time zone.
+- 🐞 Bug fix: Tapping on a data point on the Dollar-Cost Averaging chart to view the individual average for a specific date was not working.
+
+### **Version 1.11.23**
+
+#### What's New
+- 🖼️ UI improvements
+
+### **Version 1.11.22**
+
+#### Bug Fixes
+- 🐞 Bug fix: order not was missing in the CSV and JSON import/export files
+
+### **Version 1.11.21**
+
+#### What's New
+- Discover the revamped Dollar-Cost Averaging 📈 tool 🔨 in the analytics for each metal! Explore a fresh interface with exciting new features. Easily track the average spot price over time periods and compare your strategy with the market.
+
+### **Version 1.11.20**
+
+#### What's New
+- Order Notes! 📝 You can now add notes directly to your orders 🛒
+
+### **Version 1.11.19**
+
+#### What's New
+- 🚀🛠️ Performance improvements
+- 🖼️ Minor UI improvements
+
+### **Version 1.11.18**
 
 #### What's New
 - Historical 'Gold to Silver Ratio' 📊 ⚖️ is now available in the Tools 🛠️ section
