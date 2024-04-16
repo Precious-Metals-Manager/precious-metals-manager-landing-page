@@ -94,5 +94,3 @@ The solution is to use a tool that tracks your portfolio accurately.
 ## Conclusion
 
 Spot and offer prices are crucial for keeping track of your precious metals portfolio value and figuring out your overall worth. This information comes in handy when dealing with taxes or thinking about selling some or all of your metals.
-
-Image by <a href="https://pixabay.com/users/oleksandrpidvalnyi-4638469/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6955781">Oleksandr Pidvalnyi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6955781">Pixabay</a>

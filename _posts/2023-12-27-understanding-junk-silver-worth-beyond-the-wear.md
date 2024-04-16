@@ -127,5 +127,3 @@ The Precious Metals Manager app makes it easy to manage and track all your junk 
 Valuing junk silver can be tricky because not all of it is actually "junk." Some coins, like key dates or older types, have numismatic value.
 
 Silver stackers often use simple formulas to calculate junk silver value. For example, $1.40 face value in 90% silver equals one troy ounce of silver.
-
-Photo by kevser: https://www.pexels.com/photo/a-bunch-of-silver-coins-in-close-up-photography-9316983/
