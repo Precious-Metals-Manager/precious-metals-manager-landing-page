@@ -3,7 +3,7 @@ title: "Precious Metals Portfolio Allocation"
 author: Sergio Martin Rubio
 layout: post
 description: Explore effective strategies for diversifying your precious metals portfolio and using the Precious Metals Manager app for optimized allocation and rebalancing.
-image: https://lh3.googleusercontent.com/pw/AP1GczOst3IXhXUhv1mczRte048QQYsBh-1FV8TSD1m8SSsQ-2PzOwEK7q10VWbRBSJ16Il8_cQ0HgKYJzg-nhapDnx_8MtFNZUCj6pHJ4_c6dnoiJTbVUxqGDc_11oCYeVtwO7yUKJMDEdkUHEJhTm_VPQu=w1284-h2000-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczMNQUBQzBGiGVvxE5srOmXy8Rm4_4s0jAUxqtdVkvXN5We7PSAjPHTOUO3dCCKIXnNkMxpGcsBO2ruNUfvuI5Yh-3Uv6zgpVS2s9sur5aWZrGOP68jG29wOeyz7nLKDttKpD4UfFvMEtAku84KSh_Ax=w1200-h628-s-no-gm?authuser=0
 ---
 
 ## Introduction
