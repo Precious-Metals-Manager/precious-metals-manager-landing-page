@@ -3,7 +3,7 @@ title: "Precious Metals Valuation: Spot Price vs. Offer Price"
 author: Sergio Martin Rubio
 layout: post
 description: Learn about how spot and offer prices affect the value of precious metals. Understand how they help determine the worth of your portfolio, deal with taxes, and differentiate between metals. See how apps like Precious Metals Manager make it easy to track and value your portfolio accurately, helping you make smart investment choices effortlessly.
-image: https://lh3.googleusercontent.com/pw/ABLVV86gjM5azOG5qBZ0sl8flJy_3jpRR1986gNUY6-hmV8P03a_AHXIf2Sb0VCp1pkYQffpHEe6rUzBNK7Az9tirW59mAxRCX8AUqfNJBeLw0WYfcUafXEECBv40EBwxMSduiC3uO9GZzjj515a5l2PQgyT=w1280-h853-s-no?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczNX-jInUS7H3ZQ1WM4s_krHDn_PVLw5r9ueJbFew1qgT9JPHwte5udGaZRq2mEtGvefR_qXvv8xmj1aywzOpSCz6SpJ8HPf3GI1JMhn4aI2-C-YnF8YQPCZwan1xeDU4EJ4zk8o5x5P3XW5k3Ft4yLJ=w1200-h628-s-no-gm?authuser=0
 ---
 
 ## Introduction
