@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 23 2023
+April 19 2024
 
 # Terms and Conditions of Use
 
@@ -105,6 +105,12 @@ PRECIOUS METALS MANAGER DOES NOT PROVIDE FINANCIAL ADVICE AND TO THE FULLEST EXT
 PRICES ARE PROVIDED FOR INFORMATION PURPOSES AND SHOULD NOT BE CONSTRUED AS AN OFFER TO BUY OR SELL, OR SOLICITATION OF AN OFFER TO BUY OR SELL, GOLD, SILVER, PLATINUM, PALLADIUM OR ANY OTHER PRODUCT, SECURITY OR INVESTMENT. PRECIOUS METALS MANAGER CANNOT GUARANTEE THE SPOT PRICES ACCURACY AND DOES NOT ACCEPT RESPONSABILITY FOR ANY LOSSES OR DAMAGES ARISING DIRECLY, OR INDIRECLY, FROM THE USE OF THE PRICES. 
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS IN THIS SECTION MAY NOT APPLY TO YOU.
+
+## Offer/Reference Prices
+
+Our offer prices are calculated using real prices obtained from precious metals dealers or vendors. While we strive for accuracy, we cannot guarantee that prices are 100% accurate. The valuation of offer prices is determined by averaging the lowest premium dealer offer prices observed over the past 24 hours. A dealer coin shop offer price, or reference price, refers to the price at which dealers sell bullion or coins.
+
+Please note that some currencies only support US dealer reference prices. Additionally, regional prices are available in USD, EUR, DKK, AUD, and GBP. Depending on the selected currency, the Offer Value may not be available for a specific metal, or for the overall Offer Value if at least one metal's Offer Price is unavailable.
 
 ## App Lock
 
