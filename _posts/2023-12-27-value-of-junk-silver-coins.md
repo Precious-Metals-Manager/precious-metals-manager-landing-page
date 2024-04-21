@@ -1,5 +1,5 @@
 ---
-title: Understanding Junk Silver Worth Beyond the Wear
+title: Value of Junk Silver Coins
 author: Sergio Martin Rubio
 layout: post
 description: Learn about 'Junk Silver' coins and their historical and economic importance. Find out how their value is determined by their silver content and condition. Explore the differences in how people in the US and Europe view these coins. Keep reading to discover tools for managing and tracking 'Junk Silver' more effectively.
@@ -14,19 +14,25 @@ Popular examples of **junk silver** coins include the **Morgan Dollar** and the 
 
 ## Understanding the Concept of Junk Silver
 
-**'Junk'** silver usually refers to **silver coins** that aren't very collectible. These are typically heavily used coins made before **1965** with **90%** silver and visible wear. However, there are exceptions like the **35%** silver War Nickels from **1942** to **1946** or the **40%** Silver Kennedy Half-Dollars from **1965** to **1970**.
+**'Junk'** silver usually refers to **silver coins** that aren't very collectible. These are typically heavily used **coins made before 1965 with 90%** silver and visible wear. However, there are exceptions like the ***35% silver War Nickels*** from **1942** to **1946** or the ***40% Silver Kennedy Half-Dollars*** from **1965** to **1970**.
 
-In the US, **junk** silver is a common term because these coins are plentiful and often sold by weight or face value. But what's considered **'junk'** silver in the US might not be seen the same way in Europe. There, coins like **Morgans** and other older pieces are highly desired by collectors and can sell for much more. For example, **'junk'** silver in Europe might include coins like the **50 Francs 90%** silver coin from **1974** to **1980**, the **2 Reichsmark .625** silver coin from **1924** to **1948**, or the **West-German 5 Deutsche Mark .625** silver coin from **1951** to **1974**. Unfortunately, even **'junk'** silver in non-US areas often has high prices because they're considered collectibles. 🌍💰
+In the US, **junk** silver is a common term because these coins are plentiful and often sold by weight or face value. But what's considered **'junk'** silver in the US might not be seen the same way in Europe. There, coins like ***Morgans*** and other older pieces are highly desired by collectors and can sell for much more. For example, **'junk'** silver in Europe might include coins like the ***50 Francs 90%*** silver coin from **1974** to **1980**, the ***2 Reichsmark .625*** silver coin from **1924** to **1948**, or the ***West-German 5 Deutsche Mark .625*** silver coin from **1951** to **1974**. Unfortunately, even **'junk'** silver in non-US areas often has high prices because they're considered collectibles. 🌍💰
+
+## Acquiring Junk Silver
+
+You can acquire junk silver coins from dealers like [APMEX](https://www.apmex.com/category/25800/junk-silver-coins-35-40-90-silver){:target="_blank"} 🛒. Junk silver is usually sold by its face value in rolls or bags 💰, or individually, especially when they hold numismatic value.
+
+Common packages 📦 include **$10 face value junk silver** or **$1 face value junk silver** rolls, containing either quarters or half dollars, made of **90% silver**. In the case of bulk purchase, a **$500 face value junk silver** bag, or even a **$1000 face value bag of silver**, are also possible.
 
 ## Factors Influencing Junk Silver Value
 
 Most US *junk silver* coins might have low premiums, except for rare or well-preserved ones. So, we consider *junk silver* as coins with no collector's value.
 
-The value of *junk silver* is based on the silver content, which is typically **90%** in the US, with exceptions like the the **35%** silver War Nickels or the **40%** Silver Kennedy Half-Dollars. The purity is apply when calculating the *junk silver* value. In case of War Nickels a wear coeficient is not applied.
+The value of *junk silver* coins is based on the silver content, which is typically **90%** in the US, with exceptions like the the ***35% silver War Nickels*** or the ***40% Silver Kennedy Half-Dollars***. The purity is apply when calculating the *junk silver* value. In case of War Nickels a wear coeficient is not applied.
 
 For pre-1965 **90%** silver coins, we also consider wear and tear from circulation. 🔄
 
-## Calculating Junk Silver Value
+## How much is junk silver worth?
 
 The calculation for non-pre-1965 **90%** silver coins is straightforward as wear and tear are not typically factored in. The formula would be:
 
@@ -72,7 +78,7 @@ or:
 value = $X face value * silver spot price / 1.4
 ```
 
-For instance, let's consider the purchase of $10 face value of **90%** Barber Quarters:
+For instance, let's consider the purchase of $10 face value of ***90% Barber Quarters***:
 
 ```
 0.9 * 24.48/troy oz * 0.2009 * 40 * (1 - 0.011612) = ~$175
