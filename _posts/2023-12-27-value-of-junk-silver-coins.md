@@ -1,5 +1,5 @@
 ---
-title: Junk Silver Coins Valuation
+title: Value of Junk Silver Coins
 author: Sergio Martin Rubio
 layout: post
 description: Learn about 'Junk Silver' coins and their historical and economic importance. Find out how their value is determined by their silver content and condition. Explore the differences in how people in the US and Europe view these coins. Keep reading to discover tools for managing and tracking 'Junk Silver' more effectively.
