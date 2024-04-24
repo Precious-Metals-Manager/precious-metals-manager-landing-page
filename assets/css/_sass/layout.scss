@@ -371,6 +371,11 @@ nav>ul li a:active {
 	font-weight: bold;
 }
 
+.featureNote {
+	color: $feature-note-color;
+	font-size: 1.5rem;
+}
+
 @media (max-width: 768px) {
     .featureTitle {
         text-align: center !important;
