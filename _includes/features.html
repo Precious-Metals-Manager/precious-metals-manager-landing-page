@@ -1,26 +1,93 @@
 <div class="features">
-
-    {% for feature in site.features %}
-
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span>
+    <div class="row align-items-md-center">
+        <div class="col-md-6 order-1 order-md-0">
+            <div class="iphoneFeatureScreen">
+                <img class="img-fluid" src="{{ site.github.baseurl }}/assets/screenshot/screenshot2.png"
+                    alt="Precious Metals Manager Analytics">
+            </div>
         </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
+        <div class="col-md-6 order-0 order-md-1">
+            <p class="featureTitle">
+                Illuminating insights
+            </p>
+            <p class="featureDescription">
+                Live value, offer value, average cost, revenues, premium, and more
+            </p>
+            <p class="featureNote">
+                Stay ahead with powerful metrics, tracking the performance of your precious metals portfolio anytime,
+                anywhere!
             </p>
         </div>
     </div>
-    {% endif %}
-
-    {% endfor %}
-
+    <div class="row align-items-md-center">
+        <div class="col-md-6 text-end">
+            <p class="featureTitle">
+                Average Like a Pro
+            </p>
+            <p class="featureDescription">
+                No other app offers precious metals averaging analytics
+            </p>
+            <p class="featureNote">
+                The Dollar Cost Averaging (DCA) strategy could help you navigate high-price market fluctuations, making
+                it essential to monitor its performance closely.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <div class="iphoneFeatureScreen">
+                <img class="img-fluid" src="{{ site.github.baseurl }}/assets/screenshot/screenshot3.png"
+                    alt="Precious Metals Manager Dollar-Cost Averaging">
+            </div>
+        </div>
+    </div>
+    <div class="row align-items-md-center">
+        <div class="col-md-6 order-1 order-md-0">
+            <div class="iphoneFeatureScreen">
+                <img class="img-fluid" src="{{ site.github.baseurl }}/assets/screenshot/screenshot4.png"
+                    alt="Precious Metals Manager Inventory">
+            </div>
+        </div>
+        <div class="col-md-6 order-0 order-md-1">
+            <p class="featureTitle">
+                Manage Your Inventory
+            </p>
+            <p class="featureDescription">
+                In-details inventory management that allows you to precisely organize your bullion acquisitions and
+                sales.
+            </p>
+            <p class="featureNote">
+                Keeping track of your gold, silver, platinum, or palladium bullion can be challenging. However, Precious
+                Metals Manager is not. Built by precious metals stackers for precious metals stackers, our design is
+                incredibly clear and easy to use.
+            </p>
+        </div>
+    </div>
+    <div class="row align-items-md-center">
+        <div class="col-md-6 text-end">
+            <p class="featureTitle">
+                Privacy. Top Priority!
+            </p>
+            <p class="featureDescription">
+                Confidential and Secure Portfolio
+            </p>
+            <p class="featureNote">
+                We understand the importance of confidentiality, so we are fully committed to ensuring that no data
+                leaves your phone. Your data is stored locally on your device and synchronized with your iCloud account.
+                However, iCloud can also be disabled for total peace of mind. Additionally, Face ID and Touch ID are
+                supported for an extra layer of protection.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <div class="iphoneFeatureScreen">
+                <img class="img-fluid" src="{{ site.github.baseurl }}/assets/screenshot/screenshot5.png"
+                    alt="Precious Metals Manager Dollar-Cost Averaging">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="appStoreContainer">
+            <a class="appStoreLink" href="{{site.appstore_link}}">
+                <img class="appStore" src="assets/appstore.svg" alt="Precious Metals Manager">
+            </a>
+        </div>
+    </div>
 </div>
