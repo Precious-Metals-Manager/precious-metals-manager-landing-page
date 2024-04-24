@@ -33,30 +33,6 @@ linkedin_username                         :
 
 
 
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : Confidential and Secure Portfolio
-    description                           : The data is stored in an encrypted form on your device and cannot be read from or written to while the device is locked or booting.
-    fontawesome_icon_name                 : lock
-
-  - title                                 : +300 preset coins
-    description                           : Select from more than 300 preset coins. Explore our extensive catalog of gold, silver, and platinum coins, each accompanied by its weight and fineness.
-    fontawesome_icon_name                 : address-card
-    
-  - title                                 : Inventory View
-    description                           : Search and filter to efficiently browse your precious metals portfolio.
-    fontawesome_icon_name                 : book
-
-  - title                                 : Analytics
-    description                           : Powerful metrics to know how well your precious metals portfolio is doing.
-    fontawesome_icon_name                 : chart-line
-
-  - title                                 : iCloud Sync
-    description                           : Your data will be stored in your iCloud account. You can disable this at any time from your settings.
-    fontawesome_icon_name                 : cloud
-
-
 # Theme Settings
 topbar_color                              : "#ffffff"
 topbar_transparency                       : 1
@@ -79,9 +55,6 @@ app_description_color                     : "#00334F"
 feature_title_color                       : "#27201d"
 feature_text_color                        : "#007aff"
 feature_note_color                        : "#666666"
-
-feature_icons_foreground_color            : "#00334F"
-feature_icons_background_color            : "#ffffff"
 
 social_icons_foreground_color             : "#27201d"
 social_icons_background_color             : "#ffffff"
