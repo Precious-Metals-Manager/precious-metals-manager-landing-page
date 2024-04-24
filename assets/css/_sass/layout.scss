@@ -379,11 +379,21 @@ nav>ul li a:active {
 @media (max-width: 768px) {
     .featureTitle {
         text-align: center !important;
+		padding-left: 2rem;
+		padding-right: 2rem;
     }
 
 	.featureDescription {
         text-align: center !important;
+		padding-left: 2rem;
+		padding-right: 2rem;
     }
+	
+	.featureNote {
+		text-align: center !important;
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
 }
 
 // Feature 1 Preview
