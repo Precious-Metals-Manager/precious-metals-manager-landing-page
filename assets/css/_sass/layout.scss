@@ -1,25 +1,9 @@
-.imageWrapper {
-	// Sets the background image in the header area
-	height: 714px;
-	background:
-		linear-gradient(rgba($image-overlay-color, $image-overlay-transparency),
-			rgba($image-overlay-color, $image-overlay-transparency)),
-
-		url($header-image);
-
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
-	border-radius: 0px 0px 40px 40px;
-
-}
-
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.headerBackground {
 		height: 80px;
@@ -36,8 +20,9 @@
 	display: grid;
 	margin: auto;
 	max-width: $content-width;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 30px;
 	grid-template-columns: repeat(12, 1fr);
 	grid-template-rows: 115px 876px auto auto;
 	grid-column-gap: 30px;
@@ -53,7 +38,7 @@
 	background-color: #fff;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.container {
 		// Set up the container for the site content
@@ -61,7 +46,7 @@
 	}
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.container {
 		grid-column-gap: 0px;
@@ -69,8 +54,8 @@
 		grid-template-rows: 115px auto auto auto auto;
 		grid-template-areas:
 			"h h h h h h h h h h h h"
-			"i i i i i i i i i i i i"
 			"p p p p p p p p p p p p"
+			"i i i i i i i i i i i i"
 			"c c c c c c c c c c c c"
 			"f f f f f f f f f f f f";
 	}
@@ -82,7 +67,7 @@
 	grid-column: 3/11;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.page {
 		margin-top: 30px;
@@ -114,7 +99,7 @@ header {
 	margin-left: 15px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.logo {
 		height: 80px;
@@ -134,7 +119,7 @@ header {
 	clip-path: url(#shape);
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.divider {
 		position: relative;
@@ -165,7 +150,7 @@ header {
 	-ms-overflow-style: -ms-autohiding-scrollbar;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	.scroll {
 		height: 80px;
@@ -193,7 +178,7 @@ nav>ul li {
 	padding-left: 30px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 	nav>ul li {
 		padding-left: 20px;
@@ -244,17 +229,15 @@ nav>ul li a:active {
 // App Title, Price, Description and Links
 
 .appInfo {
-	grid-area: i;
+	grid-area: p;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 140px;
 	align-content: flex-start;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.appInfo {
-		padding-top: 50px;
 		justify-content: center;
 	}
 
@@ -272,61 +255,21 @@ nav>ul li a:active {
 	clip-path: url(#shape120);
 }
 
-.appNamePriceContainer {
-	display: flex;
-	flex: 0 1 auto;
-	flex-direction: column;
-	align-items: start;
-	justify-content: center;
-	margin-left: 30px;
-}
-
-.appName {
-	color: $app-title-color;
-}
-
-.appPrice {
-	color: $app-price-color;
-	font-weight: normal;
-	margin-top: 13px;
-}
-
-@media only screen and (max-width: 768px) {
-
-	.appNamePriceContainer {
-		width: 100%;
-		margin-left: 0px;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.appName {
-		margin-top: 30px;
-		text-align: center;
-	}
-
-	.appPrice {
-		margin-top: 13px;
-		text-align: center;
-	}
-
-}
-
 .appDescriptionContainer {
-	font-size: 2.5rem;
-	font-weight: normal;
+	font-size: 5.5rem;
+	font-weight: bold;
 	width: 100%;
 	align-items: flex-start;
-	margin-top: 45px;
+	margin-top: 35px;
 	flex: 0 1 auto;
-	line-height: 1.5;
+	line-height: 1.1;
 }
 
 .appDescription {
 	color: $app-description-color;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.appDescription {
 		text-align: center;
@@ -334,13 +277,42 @@ nav>ul li a:active {
 
 }
 
+@media only screen and (min-width: 700px) and (max-width: 734px)  {
+
+	.appDescription {
+		font-size: 4.5rem;
+	}
+
+}
+
+.appSloganContainer {
+	font-size: 2.5rem;
+	width: 100%;
+	align-items: flex-start;
+	margin-top: 10px;
+	flex: 0 1 auto;
+	line-height: 1.1;
+}
+
+.appSlogan {
+	color: $header-title-color;
+}
+
+@media only screen and (max-width: 700px) {
+
+	.appSlogan {
+		text-align: center;
+	}
+
+}
+
 .downloadButtonsContainer {
 	display: inline-block;
-	margin-top: 42px;
+	margin-top: 30px;
 	filter: $drop-shadow;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.downloadButtonsContainer {
 		text-align: center;
@@ -353,7 +325,7 @@ nav>ul li a:active {
 	margin-right: 24px;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 810px) {
 
 	.playStore {
 		margin-right: 24px;
@@ -380,36 +352,18 @@ nav>ul li a:active {
 // iPhone Device Preview
 
 .iphonePreview {
-	grid-area: p;
-	background-image: url($device-color);
+	grid-area: i;
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px;
 }
 
 .iphoneScreen {
 	width: 349px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
+	margin-left: 120px;
+	margin-top: 22px;
 }
 
-.videoContainer {
-	width: 349px;
-	height: 755px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
-}
-
-.videoContainer>video {
-	width: 349px;
-	height: 755px;
-}
-
-@media only screen and (max-width: 1070px) {
+@media only screen and (max-width: 880px) {
 
 	.iphonePreview {
 		background-size: 370px auto;
@@ -418,29 +372,14 @@ nav>ul li a:active {
 	.iphoneScreen {
 		width: 322px;
 		margin-left: 24px;
-		margin-top: 22px;
-	}
-
-	.videoContainer {
-		width: 322px;
-		height: 698px;
-		margin-left: 24px;
-		margin-top: 22px;
-	}
-
-	.videoContainer>video {
-		width: 322px;
-		height: 698px;
 	}
 
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.iphonePreview {
 		display: flex;
-		background-size: 260px auto;
-		background-position: center 0;
 		margin-top: 47px;
 		justify-content: center;
 		padding-bottom: 75px;
@@ -449,22 +388,7 @@ nav>ul li a:active {
 	.iphoneScreen {
 		width: 226px;
 		height: 488px;
-		-webkit-clip-path: url(#screenMask);
-		clip-path: url(#screenMask);
 		margin: 0px;
-		margin-top: 17px;
-	}
-
-	.videoContainer {
-		width: 226px;
-		height: 488px;
-		margin-left: 0px;
-		margin-top: 17px;
-	}
-
-	.videoContainer>video {
-		width: 226px;
-		height: 488px;
 	}
 
 }
@@ -480,7 +404,6 @@ nav>ul li a:active {
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 93px;
 }
 
 .feature {
@@ -533,7 +456,7 @@ nav>ul li a:active {
 	line-height: 1.5;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 700px) {
 
 	.features {
 		flex-grow: 1;
@@ -607,11 +530,13 @@ nav>ul li a:active {
 
 // Footer
 
+
 footer {
 	grid-area: f;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	background-color: $footer-background-color;
 }
 
 .footerText {
@@ -621,11 +546,12 @@ footer {
 	width: 100%;
 	text-align: center;
 	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-bottom: 30px;
 }
 
 .footerIcons {
-	padding-bottom: 70px;
+	padding-bottom: 20px;
+	padding-top: 40px;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
@@ -634,10 +560,10 @@ footer {
 .footerLinks {
 	display: flex;
 	text-align: center;
-	padding-bottom: 70px;
 }
 
 .footerLinks a {
+	color: $footer-text-color;
 	margin-right: 30px;
 }
 
@@ -664,7 +590,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 768px) {
 
 	.footerText {
 		color: $footer-text-color;
