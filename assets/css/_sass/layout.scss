@@ -16,14 +16,13 @@
 	padding-right: 30px;
 	margin-bottom: 30px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 100px 700px auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas:
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
 		"c c c c c c c c c c c c"
-		"f f f f f f f f f f f f"
-		"g g g g g g g g g g g g";
+		"f f f f f f f f f f f f";
 }
 
 .subPageContainer {
@@ -44,14 +43,13 @@
 	.container {
 		grid-column-gap: 0px;
 		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto;
+		grid-template-rows: 100px auto auto auto auto;
 		grid-template-areas:
 			"h h h h h h h h h h h h"
 			"p p p p p p p p p p p p"
 			"i i i i i i i i i i i i"
 			"c c c c c c c c c c c c"
-			"f f f f f f f f f f f f"
-			"g g g g g g g g g g g g";
+			"f f f f f f f f f f f f";
 	}
 }
 
@@ -182,7 +180,6 @@ nav>ul li a:active {
 }
 
 
-
 // App Title, Price, Description and Links
 
 .appInfo {
@@ -304,18 +301,6 @@ nav>ul li a:active {
 	height: 250px;
 }
 
-.appStore {
-	height: 70px;
-}
-
-.appStoreContainer {
-	grid-area: g;
-	display: inline-block;
-	margin-top: 30px;
-	filter: $drop-shadow;
-	text-align: center;
-}
-
 
 // iPhone Device Preview
 
@@ -350,7 +335,6 @@ nav>ul li a:active {
 		display: flex;
 		margin-top: 47px;
 		justify-content: center;
-		padding-bottom: 75px;
 	}
 
 	.iphoneScreen {
@@ -361,143 +345,177 @@ nav>ul li a:active {
 
 }
 
-
-// Feature List
+// Features
 
 .features {
 	grid-area: c;
-	display: flex;
-	flex: 0 1 auto;
-	align-content: flex-start;
-	justify-content: flex-start;
-	flex-grow: 1;
-	flex-wrap: wrap;
+	background-color: $header-color;
 }
 
-.feature {
-	display: flex;
-	padding-top: 63px;
-	padding-left: 15px;
-	padding-right: 15px;
-	width: calc(100%/3);
+.featuresContainer {
+	display: grid;
+	margin: auto;
+	max-width: $content-width;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 30px;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: 115px 876px auto auto;
+	grid-column-gap: 30px;
+	grid-template-areas:
+		"a a a a a b b b b b b b"
+		"j j j j j j j j j j j j";
 }
 
-.feature:nth-child(-n+3) {
-	padding-top: 0px;
-}
+@media only screen and (max-width: 600px) {
 
-.feature:nth-child(3n) {
-	padding-right: 0px;
-}
-
-.feature:nth-child(3n+1) {
-	padding-left: 0px;
-}
-
-.iconBack {
-	color: $feature-icons-background-color;
-}
-
-.iconTop {
-	color: $feature-icons-foreground-color;
-}
-
-.socialIconBack {
-	color: $social-icons-background-color;
-}
-
-.socialIconTop {
-	color: $social-icons-foreground-color;
-}
-
-.featureText {
-	margin-left: 18px;
-}
-
-.featureText>h3 {
-	color: $feature-title-color;
-}
-
-.featureText>p {
-	color: $feature-text-color;
-	margin-top: 8px;
-	line-height: 1.5;
+	.featuresContainer {
+		// Set up the container for the site content
+		grid-template-rows: 80px 811px auto auto;
+	}
 }
 
 @media only screen and (max-width: 700px) {
 
-	.features {
-		flex-grow: 1;
-		flex-direction: row;
-		flex-wrap: wrap;
-		margin-top: 11px;
+	.featuresContainer {
+		grid-column-gap: 0px;
+		grid-template-columns: 1;
+		grid-template-rows: 115px auto auto auto auto;
+		grid-template-areas:
+			"a a a a a a a a a a a a"
+			"b b b b b b b b b b b b"
+			"j j j j j j j j j j j j";
 	}
+}
 
-	.feature {
-		display: flex;
-		padding-top: 41px;
-		padding-left: 15px;
-		padding-right: 15px;
-		width: 100%;
-	}
+// Feature 1
 
-	.feature:nth-child(-n+3) {
-		padding-top: 41px;
-	}
+.feature1 {
+	grid-area: b;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+}
 
-	.feature:nth-child(1) {
-		padding-top: 0px;
-	}
+@media only screen and (max-width: 700px) {
 
-	.feature:nth-child(3n) {
-		padding-right: 15px;
-	}
-
-	.feature:nth-child(3n+1) {
-		padding-left: 15px;
+	.feature1 {
+		justify-content: center;
 	}
 
 }
 
-@media only screen and (max-width: 375px) {
+.feature1TitleContainer {
+	font-size: 2.5rem;
+	font-weight: bold;
+	width: 100%;
+	align-items: flex-start;
+	margin-top: 35px;
+	flex: 0 1 auto;
+	line-height: 1.1;
+}
 
-	.features {
-		flex-grow: 1;
-		flex-direction: row;
-		flex-wrap: wrap;
-		margin-top: 11px;
-	}
+.feature1Title {
+	color: $app-description-color;
+}
 
-	.feature {
-		display: flex;
-		padding-top: 41px;
-		padding-left: 0px;
-		padding-right: 0px;
-		width: 100%;
-	}
+@media only screen and (max-width: 700px) {
 
-	.feature:nth-child(-n+3) {
-		padding-top: 41px;
-	}
-
-	.feature:nth-child(1) {
-		padding-top: 0px;
-	}
-
-	.feature:nth-child(3n) {
-		padding-right: 0px;
-	}
-
-	.feature:nth-child(3n+1) {
-		padding-left: 0px;
+	.feature1Title {
+		text-align: center;
 	}
 
 }
 
+@media only screen and (min-width: 700px) and (max-width: 734px)  {
+
+	.feature1Title {
+		font-size: 4.5rem;
+	}
+
+}
+
+.feature1DescriptionContainer {
+	font-size: 2rem;
+	width: 100%;
+	align-items: flex-start;
+	margin-top: 10px;
+	flex: 0 1 auto;
+	line-height: 1.1;
+}
+
+.feature1Description {
+	color: $header-title-color;
+}
+
+@media only screen and (max-width: 700px) {
+
+	.feature1Description {
+		text-align: center;
+	}
+
+}
+
+
+// Feature 1 Preview
+
+.iphoneFeature1Preview {
+	grid-area: a;
+}
+
+.iphoneFeature1Screen {
+	width: 349px;
+	margin-left: 120px;
+	margin-top: 22px;
+}
+
+@media only screen and (max-width: 880px) {
+
+	.iphoneFeature1Preview {
+		background-size: 370px auto;
+	}
+
+	.iphoneFeature1Screen {
+		width: 322px;
+		margin-left: 24px;
+	}
+
+}
+
+@media only screen and (max-width: 700px) {
+
+	.iphoneFeature1Preview {
+		display: flex;
+		margin-top: 47px;
+		justify-content: center;
+		padding-bottom: 75px;
+	}
+
+	.iphoneFeature1Screen {
+		width: 226px;
+		height: 488px;
+		margin: 0px;
+	}
+
+}
+
+
+// Download on the App Store
+
+.appStoreContainer {
+	grid-area: j;
+	display: inline-block;
+	margin-top: 30px;
+	filter: $drop-shadow;
+	text-align: center;
+}
+
+.appStore {
+	height: 70px;
+}
 
 
 // Footer
-
 
 footer {
 	grid-area: f;
@@ -575,6 +593,14 @@ footer {
 		display: flex;
 	}
 
+}
+
+.socialIconBack {
+	color: $social-icons-background-color;
+}
+
+.socialIconTop {
+	color: $social-icons-foreground-color;
 }
 
 .hidden {

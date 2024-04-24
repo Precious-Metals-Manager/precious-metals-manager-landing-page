@@ -9,8 +9,8 @@
             <div class="container">
                 {% include_cached header.html %}
                 <div class="iphonePreview">
-                    <img class="iphoneScreen hidden" src="" alt="">
-                    {% include screencontent.html %}
+                    <img class="iphoneScreen" src="{{ site.github.baseurl }}/assets/screenshot/screenshot.png"
+                        alt="Precious Metals Manager Analytics">
                 </div>
                 <div class="appInfo">
                     <div class="appDescriptionContainer">
@@ -32,14 +32,9 @@
                                 src="assets/appstoreQR.png" alt="Precious Metals Manager QR code"></a>
                     </div>
                 </div>
-                {% include features.html %}
-                <div class="appStoreContainer">
-                    <a class="appStoreLink" href="{{site.appstore_link}}">
-                        <img class="appStore" src="assets/appstore.svg" alt="Precious Metals Manager QR code">
-                    </a>
-                </div>
                 {% include appstoreimages.html %}
             </div>
+            {% include features.html %}
             {% include_cached footer.html %}
         </div>
     </div>

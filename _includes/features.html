@@ -1,25 +1,25 @@
 <div class="features">
-
-    {% for feature in site.features %}
-
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span>
+    <div class="featuresContainer">
+        <div class="feature1">
+            <div class="feature1TitleContainer">
+                <p class="feature1Title">
+                    Average Like a Pro
+                </p>
+            </div>
+            <div class="feature1DescriptionContainer">
+                <p class="feature1Description">
+                    No other app offers precious metals averaging analytics
+                </p>
+            </div>
         </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
-            </p>
-        </div>
+        <!-- <div class="iphoneFeature1Preview">
+            <img class="iphoneFeature1Screen" src="{{ site.github.baseurl }}/assets/screenshot/screenshot3.png"
+                alt="Precious Metals Manager Analytics">
+        </div> -->
     </div>
-    {% endif %}
-
-    {% endfor %}
+    <div class="appStoreContainer">
+        <a class="appStoreLink" href="{{site.appstore_link}}">
+            <img class="appStore" src="assets/appstore.svg" alt="Precious Metals Manager">
+        </a>
+    </div>
 </div>

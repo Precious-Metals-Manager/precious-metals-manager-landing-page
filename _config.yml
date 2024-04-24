@@ -85,8 +85,8 @@ feature_icons_background_color            : "#ffffff"
 social_icons_foreground_color             : "#27201d"
 social_icons_background_color             : "#ffffff"
 
-footer_text_color                         : "#27201d"
-footer_background_color                   : "#ffffff"
+footer_text_color                         : "#ffffff"
+footer_background_color                   : "#00334F"
 
 
 plugins:
