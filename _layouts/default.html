@@ -28,11 +28,16 @@
                         <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore"
                                 src="assets/playstore.png"></a>
                         {% endif %}
-                        <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore"
-                                src="assets/appstore.png" alt="Precious Metals Manager QR code"></a>
+                        <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStoreQR"
+                                src="assets/appstoreQR.png" alt="Precious Metals Manager QR code"></a>
                     </div>
                 </div>
                 {% include features.html %}
+                <div class="appStoreContainer">
+                    <a class="appStoreLink" href="{{site.appstore_link}}">
+                        <img class="appStore" src="assets/appstore.svg" alt="Precious Metals Manager QR code">
+                    </a>
+                </div>
                 {% include appstoreimages.html %}
             </div>
             {% include_cached footer.html %}
