@@ -7,15 +7,16 @@
 
 {% include head.html %}
 
-<body class="subPageBody">
-    <div class="headerBackground subPageHeaderBackground">
-        <div class="container subPageContainer">
+<body>
+    <div class="headerBackground">
+        <div class="container">
             {% include_cached header.html %}
             <article class="page markdown-body">
                 {{ content }}
             </article>
         </div>
         {% include appstoreimages.html %}
+        {% include_cached footer.html %}
     </div>
 </body>
 

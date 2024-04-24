@@ -4,10 +4,10 @@
 }
 
 .subPageHeaderBackground {
-	background-color: #fff;
+	background-color: $header-color;
 }
 
-.container {
+.bodyContainer {
 	// Set up the container for the site content
 	display: grid;
 	margin: auto;
@@ -24,11 +24,6 @@
 		"b b b b b b b b b b b b"
 		"j j j j j j j j j j j j"
 		"f f f f f f f f f f f f";
-}
-
-.subPageContainer {
-	grid-template-rows: 115px auto auto auto;
-	background-color: #fff;
 }
 
 @media only screen and (max-width: 600px) {
