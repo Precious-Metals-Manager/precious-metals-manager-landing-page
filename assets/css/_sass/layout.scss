@@ -21,7 +21,8 @@
 	grid-template-areas:
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
-		"c c c c c c c c c c c c"
+		"b b b b b b b b b b b b"
+		"j j j j j j j j j j j j"
 		"f f f f f f f f f f f f";
 }
 
@@ -38,7 +39,7 @@
 	}
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.container {
 		grid-column-gap: 0px;
@@ -48,7 +49,8 @@
 			"h h h h h h h h h h h h"
 			"p p p p p p p p p p p p"
 			"i i i i i i i i i i i i"
-			"c c c c c c c c c c c c"
+			"b b b b b b b b b b b b"
+			"j j j j j j j j j j j j"
 			"f f f f f f f f f f f f";
 	}
 }
@@ -189,7 +191,7 @@ nav>ul li a:active {
 	align-content: flex-start;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.appInfo {
 		justify-content: center;
@@ -210,7 +212,7 @@ nav>ul li a:active {
 }
 
 .appDescriptionContainer {
-	font-size: 5.5rem;
+	font-size: 5rem;
 	font-weight: bold;
 	width: 100%;
 	align-items: flex-start;
@@ -223,18 +225,11 @@ nav>ul li a:active {
 	color: $app-description-color;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.appDescription {
 		text-align: center;
-	}
-
-}
-
-@media only screen and (min-width: 700px) and (max-width: 734px)  {
-
-	.appDescription {
-		font-size: 4.5rem;
+		font-size: 4rem;
 	}
 
 }
@@ -252,7 +247,7 @@ nav>ul li a:active {
 	color: $header-title-color;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.appSlogan {
 		text-align: center;
@@ -266,7 +261,7 @@ nav>ul li a:active {
 	filter: $drop-shadow;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.downloadButtonsContainer {
 		text-align: center;
@@ -329,7 +324,7 @@ nav>ul li a:active {
 
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
 
 	.iphonePreview {
 		display: flex;
@@ -339,7 +334,6 @@ nav>ul li a:active {
 
 	.iphoneScreen {
 		width: 226px;
-		height: 488px;
 		margin: 0px;
 	}
 
@@ -348,157 +342,51 @@ nav>ul li a:active {
 // Features
 
 .features {
-	grid-area: c;
+	grid-area: b;
 	background-color: $header-color;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 5rem;
+	padding-right: 5rem;
 }
 
-.featuresContainer {
-	display: grid;
-	margin: auto;
-	max-width: $content-width;
-	padding-left: 30px;
-	padding-right: 30px;
-	margin-bottom: 30px;
-	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
-	grid-column-gap: 30px;
-	grid-template-areas:
-		"a a a a a b b b b b b b"
-		"j j j j j j j j j j j j";
-}
-
-@media only screen and (max-width: 600px) {
-
-	.featuresContainer {
-		// Set up the container for the site content
-		grid-template-rows: 80px 811px auto auto;
-	}
-}
-
-@media only screen and (max-width: 700px) {
-
-	.featuresContainer {
-		grid-column-gap: 0px;
-		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto;
-		grid-template-areas:
-			"a a a a a a a a a a a a"
-			"b b b b b b b b b b b b"
-			"j j j j j j j j j j j j";
+@media (max-width: 768px) {
+	.features {
+		padding-left: 0px;
+		padding-right: 0rem;
 	}
 }
 
 // Feature 1
 
-.feature1 {
-	grid-area: b;
-	display: flex;
-	flex-wrap: wrap;
-	align-content: flex-start;
-}
-
-@media only screen and (max-width: 700px) {
-
-	.feature1 {
-		justify-content: center;
-	}
-
-}
-
-.feature1TitleContainer {
-	font-size: 2.5rem;
-	font-weight: bold;
-	width: 100%;
-	align-items: flex-start;
-	margin-top: 35px;
-	flex: 0 1 auto;
-	line-height: 1.1;
-}
-
-.feature1Title {
+.featureTitle {
 	color: $app-description-color;
+	font-size: 3rem;
+	font-weight: bold;
 }
 
-@media only screen and (max-width: 700px) {
-
-	.feature1Title {
-		text-align: center;
-	}
-
-}
-
-@media only screen and (min-width: 700px) and (max-width: 734px)  {
-
-	.feature1Title {
-		font-size: 4.5rem;
-	}
-
-}
-
-.feature1DescriptionContainer {
+.featureDescription {
+	color: $feature-text-color;
 	font-size: 2rem;
-	width: 100%;
-	align-items: flex-start;
-	margin-top: 10px;
-	flex: 0 1 auto;
-	line-height: 1.1;
+	font-weight: bold;
 }
 
-.feature1Description {
-	color: $header-title-color;
+@media (max-width: 768px) {
+    .featureTitle {
+        text-align: center !important;
+    }
+
+	.featureDescription {
+        text-align: center !important;
+    }
 }
-
-@media only screen and (max-width: 700px) {
-
-	.feature1Description {
-		text-align: center;
-	}
-
-}
-
 
 // Feature 1 Preview
 
-.iphoneFeature1Preview {
-	grid-area: a;
+.iphoneFeatureScreen {
+	max-width: 300px;
+	margin: auto;
 }
-
-.iphoneFeature1Screen {
-	width: 349px;
-	margin-left: 120px;
-	margin-top: 22px;
-}
-
-@media only screen and (max-width: 880px) {
-
-	.iphoneFeature1Preview {
-		background-size: 370px auto;
-	}
-
-	.iphoneFeature1Screen {
-		width: 322px;
-		margin-left: 24px;
-	}
-
-}
-
-@media only screen and (max-width: 700px) {
-
-	.iphoneFeature1Preview {
-		display: flex;
-		margin-top: 47px;
-		justify-content: center;
-		padding-bottom: 75px;
-	}
-
-	.iphoneFeature1Screen {
-		width: 226px;
-		height: 488px;
-		margin: 0px;
-	}
-
-}
-
 
 // Download on the App Store
 
