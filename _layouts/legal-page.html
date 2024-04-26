@@ -12,7 +12,6 @@
         <div class="container subPageContainer">
             {% include_cached header.html %}
             <article class="page markdown-body">
-                {% include toc.html html=content sanitize=true class="toc rev clearfix" id="my_toc" h_min=2 h_max=4 %}
                 {{ content }}
             </article>
         </div>
