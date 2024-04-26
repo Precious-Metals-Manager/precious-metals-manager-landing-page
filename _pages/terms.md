@@ -4,7 +4,7 @@ title: Terms and Conditions of Use
 include_in_header: false
 ---
 
-**Last updated**  
+**Last updated**
 April 19 2024
 
 # Terms and Conditions of Use
