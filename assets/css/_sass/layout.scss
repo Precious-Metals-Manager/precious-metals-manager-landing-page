@@ -242,8 +242,9 @@ input:checked+.slider:before {
 	border-radius: 50%;
 }
 
-.darkModeLabel {
+.darkModeIcon {
 	color: var(--font-color);
+	padding-left: 1rem;
 }
 
 // Sub Page Header Styling
