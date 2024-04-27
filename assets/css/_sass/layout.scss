@@ -1,10 +1,10 @@
 .headerBackground {
 	height: 100px;
-	background-color: rgba($header-color, $header-transparency);
+	background-color: var(--heading-color);
 }
 
 .subPageHeaderBackground {
-	background-color: $header-color;
+	background-color: var(--heading-color);
 }
 
 .subPageContainer {
@@ -87,7 +87,7 @@ header {
 }
 
 .logo>p {
-	color: $header-title-color;
+	color: var(--font-color);
 	white-space: nowrap;
 	display: flex;
 	font-weight: bold;
@@ -100,6 +100,10 @@ header {
 	height: 50px;
 	-webkit-clip-path: url(#shape);
 	clip-path: url(#shape);
+}
+
+.headerName {
+	color: var(--font-color);
 }
 
 @media only screen and (max-width: 576px) {
@@ -123,7 +127,7 @@ header {
 	justify-content: flex-end;
 
 	height: 115px;
-	//margin-left: 15px;
+	margin-left: 15px;
 
 	white-space: nowrap;
 	overflow-x: auto;
@@ -138,7 +142,7 @@ header {
 
 
 nav>ul {
-	color: #fff;
+	color: var(--font-color);
 	display: flex;
 	list-style-type: none;
 
@@ -168,30 +172,94 @@ nav>ul li:last-child {
 nav>ul li a:link,
 nav>ul li a:visited {
 	text-decoration: none;
-	color: rgba($header-title-color, 1);
+	color: var(--font-accent);
 }
 
 nav>ul li a:hover,
 nav>ul li a:active {
 	text-decoration: none;
-	color: rgba($feature-text-color, 1);
+	color: var(--font-accent);
 }
 
+// Dark Mode Toggle Switch
 
+.theme-switch-wrapper {
+	display: flex;
+	align-items: center;
+
+	em {
+		margin-left: 10px;
+		font-size: 1rem;
+	}
+}
+
+.theme-switch {
+	display: inline-block;
+	height: 34px;
+	position: relative;
+	width: 60px;
+}
+
+.theme-switch input {
+	display: none;
+}
+
+.slider {
+	background-color: #ccc;
+	bottom: 0;
+	cursor: pointer;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: .4s;
+}
+
+.slider:before {
+	background-color: #fff;
+	bottom: 4px;
+	content: "";
+	height: 26px;
+	left: 4px;
+	position: absolute;
+	transition: .4s;
+	width: 26px;
+}
+
+input:checked+.slider {
+	background-color: #66bb6a;
+}
+
+input:checked+.slider:before {
+	transform: translateX(26px);
+}
+
+.slider.round {
+	border-radius: 34px;
+}
+
+.slider.round:before {
+	border-radius: 50%;
+}
+
+.darkModeIcon {
+	color: var(--font-color);
+	padding-left: 1rem;
+}
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo>p {
-	color: #000;
+	color: var(--font-color);
 }
 
 .subPageHeaderBackground nav>ul li a:link,
 .subPageHeaderBackground nav>ul li a:visited {
-	color: rgba(#000, 0.6);
+	color: rgba(var(--font-color), 0.6);
 }
 
 .subPageHeaderBackground nav>ul li a:hover,
 .subPageHeaderBackground nav>ul li a:active {
-	color: rgba(#000, 1);
+	color: rgba(var(--font-color), 1);
 }
 
 
@@ -235,7 +303,7 @@ nav>ul li a:active {
 }
 
 .appDescription {
-	color: $app-description-color;
+	color: var(--primary-color);
 }
 
 @media only screen and (max-width: 768px) {
@@ -257,7 +325,7 @@ nav>ul li a:active {
 }
 
 .appSlogan {
-	color: $header-title-color;
+	color: var(--font-color);
 }
 
 @media only screen and (max-width: 768px) {
@@ -356,7 +424,7 @@ nav>ul li a:active {
 
 .features {
 	grid-area: b;
-	background-color: $header-color;
+	background-color: var(--bg-color);
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-left: 5rem;
@@ -373,35 +441,35 @@ nav>ul li a:active {
 // Feature 1
 
 .featureTitle {
-	color: $app-description-color;
+	color: var(--primary-color);
 	font-size: 3rem;
 	font-weight: bold;
 }
 
 .featureDescription {
-	color: $feature-text-color;
+	color: var(--accent-color);
 	font-size: 2rem;
 	font-weight: bold;
 }
 
 .featureNote {
-	color: $feature-note-color;
+	color: var(--secondary-color);
 	font-size: 1.5rem;
 }
 
 @media (max-width: 768px) {
-    .featureTitle {
-        text-align: center !important;
+	.featureTitle {
+		text-align: center !important;
 		padding-left: 2rem;
 		padding-right: 2rem;
-    }
+	}
 
 	.featureDescription {
-        text-align: center !important;
+		text-align: center !important;
 		padding-left: 2rem;
 		padding-right: 2rem;
-    }
-	
+	}
+
 	.featureNote {
 		text-align: center !important;
 		padding-left: 2rem;
@@ -438,11 +506,11 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	background-color: $footer-background-color;
+	background-color: var(--footer-bg-color);
 }
 
 .footerText {
-	color: $footer-text-color;
+	color: var(--footer-color);
 	display: block;
 	line-height: 1.5;
 	width: 100%;
@@ -465,7 +533,7 @@ footer {
 }
 
 .footerLinks a {
-	color: $footer-text-color;
+	color: var(--footer-color);
 	margin-right: 30px;
 }
 
@@ -495,7 +563,6 @@ footer {
 @media only screen and (max-width: 768px) {
 
 	.footerText {
-		color: $footer-text-color;
 		display: block;
 		line-height: 1.5;
 		width: 100%;
@@ -513,14 +580,28 @@ footer {
 
 }
 
+// Blog
+
 .socialIconBack {
-	color: $social-icons-background-color;
+	color: var(--footer-color);
 }
 
 .socialIconTop {
-	color: $social-icons-foreground-color;
+	color: var(--footer-social-color);
 }
 
 .hidden {
 	display: none;
+}
+
+.blogTitle {
+	font-size: 3.5rem;
+	font-weight: bold;
+	color: var(--font-color);
+}
+
+// Post
+
+.postText {
+	color: var(--font-color);
 }
