@@ -6,15 +6,36 @@ $on-palm: 600px;
 $font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $primary-text-color: #000000;
 
+:root {
+	--primary-color: #00334F;
+	--secondary-color: #666666;
+	--accent-color: #007aff;
+	--font-color: #27201d;
+	--bg-color: white;
+	--hero-bg-color: #f0f1f2;
+	--heading-color: white;
+	--footer-color: white;
+	--footer-bg-color: #00334F;
+	--footer-social-color: black;
+}
+
+[data-theme="dark"] {
+	--primary-color: white;
+	--secondary-color: white;
+	--accent-color: #007aff;
+	--font-color: white;
+	--bg-color: black;
+	--hero-bg-color: #161616;
+	--heading-color: black;
+	--footer-color: white;
+	--footer-bg-color: #00334F;
+	--footer-social-color: black;
+}
+
 html {
 	font-size: 62.5%;
 	font-family: $font;
 	line-height: 1;
-}
-
-body {
-	font-size: 2rem;
-	background-color: $body-color;
 }
 
 h1 {
@@ -26,28 +47,27 @@ h2 {
 }
 
 h3 {
-    font-size: 2rem;
+	font-size: 2rem;
 }
 
 // Better font rendering
 body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-color: $body-color;
+	font-size: 2rem;
+	background-color: var(--hero-bg-color);
 }
 
 a:link,
 a:hover,
 a:visited,
 a:active {
-	color: $accent-color;
+	color: var(--accent-color);
 	text-decoration: none;
 }
 
 // Shadows
-$drop-shadow: 	drop-shadow(0px 5px 10px rgba(#000, 0.1)) 
-				drop-shadow(0px 1px 1px rgba(#000, 0.2)
-				);
+$drop-shadow: drop-shadow(0px 5px 10px rgba(#000, 0.1)) drop-shadow(0px 1px 1px rgba(#000, 0.2));
 
 // Various resets
 *,
@@ -69,7 +89,7 @@ $drop-shadow: 	drop-shadow(0px 5px 10px rgba(#000, 0.1))
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+	@media screen and (max-width: $device) {
+		@content;
+	}
 }

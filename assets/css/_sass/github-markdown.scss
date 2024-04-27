@@ -76,7 +76,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  color: rgba(#000000, 0.8);  // Differs from default GitHub markdown styling
+  color: var(--font-color);  // Differs from default GitHub markdown styling
   line-height: 1.5;
   font-family: $font; // Use sitewide font stack instead of hardcoded font-stack
   font-size: 16px;
@@ -277,7 +277,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 }
 
 .markdown-body a {
-  color: $accent-color;
+  color: var(--accent-color);
   text-decoration: none;
 }
 
@@ -439,7 +439,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 }
 
 .markdown-body .bg-white {
-  background-color: #fff!important;
+  background-color: var(--hero-bg-color)!important;
 }
 
 .markdown-body .bg-gray-light {
@@ -604,6 +604,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 .markdown-body h1,
 .markdown-body h2 {
   border-bottom: 1px solid #eaecef;
+  color: var(--font-color);
   padding-bottom: .3em;
 }
 
@@ -742,7 +743,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 
 .markdown-body .highlight pre,
 .markdown-body pre {
-  background-color: #f6f8fa;
+  background-color: var(--bg-color);
   border-radius: 3px;
   font-size: 85%;
   line-height: 1.45;
@@ -751,7 +752,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 }
 
 .markdown-body pre code {
-  background-color: transparent;
+  background-color: var(--bg-color);
   border: 0;
   display: inline;
   line-height: inherit;
