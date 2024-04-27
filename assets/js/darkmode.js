@@ -1,18 +1,28 @@
 const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
 const icon = document.querySelector('.darkModeIcon i');
 
+function setLightElements() {
+    icon.classList.remove('fa-moon');
+    icon.classList.add('fa-sun');
+    document.getElementById("appStoreDownload").src = "assets/appstore.svg";
+}
+
+function setDarkElements() {
+    icon.classList.remove('fa-sun');
+    icon.classList.add('fa-moon');
+    document.getElementById("appStoreDownload").src = "assets/appstorewhite.svg";
+}
+
 function switchTheme(e) {
     if (e.target.checked) {
         document.documentElement.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
+        setDarkElements()
     }
     else {
         document.documentElement.setAttribute('data-theme', 'light');
         localStorage.setItem('theme', 'light');
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
+        setLightElements()
     }
 }
 
@@ -21,23 +31,19 @@ if (savedTheme) {
     document.documentElement.setAttribute('data-theme', savedTheme);
     if (savedTheme === 'dark') {
         toggleSwitch.checked = true
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
+        setDarkElements()
     } else {
         toggleSwitch.checked = false
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
+        setLightElements()
     }
 } else {
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.documentElement.setAttribute('data-theme', 'dark');
         toggleSwitch.checked = true
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
+        setDarkElements()
     } else {
         toggleSwitch.checked = false
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
+        setLightElements()
     }
 
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
@@ -45,13 +51,11 @@ if (savedTheme) {
         if (newColorScheme == "dark") {
             document.documentElement.setAttribute('data-theme', 'dark');
             toggleSwitch.checked = true
-            icon.classList.remove('fa-sun');
-            icon.classList.add('fa-moon');
+            setDarkElements()
         } else {
             document.documentElement.setAttribute('data-theme', 'light');
             toggleSwitch.checked = false
-            icon.classList.remove('fa-moon');
-            icon.classList.add('fa-sun');
+            setLightElements()
         }
     });
 }
