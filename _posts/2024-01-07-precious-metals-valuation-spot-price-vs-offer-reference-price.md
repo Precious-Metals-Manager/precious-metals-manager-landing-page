@@ -32,7 +32,7 @@ Still, the ***offer price*** usually shows a more accurate value of your portfol
 
 To value your portfolio using ***spot prices***, visit a reliable website like [Kitco](https://www.kitco.com){:target="_blank"} and multiply the total weight of 💰📊 ***gold, silver, platinum, or palladium*** in troy ounces by their live spot prices. But it's not so simple because factors like weight, purity, or wear affect the total metal content.
 
-Likewise, you can calculate the value based on markup prices from your dealer. However, it's tricky to track the quantity in ounces or grams for each metal. This gets even more complicated when dealing with different types of bullion, including fractionals or "[junk metal](https://preciousmetalsmanager.com/blog/understanding-junk-silver-worth-beyond-the-wear/)".
+Likewise, you can calculate the value based on markup prices from your dealer. However, it's tricky to track the quantity in ounces or grams for each metal. This gets even more complicated when dealing with different types of bullion, including fractionals or "[junk metal](https://preciousmetalsmanager.com/blog/value-of-junk-silver-coins/)".
 
 The solution is to use a tool that tracks your portfolio accurately. 🛠️📈
 
