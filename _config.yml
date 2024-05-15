@@ -1,4 +1,9 @@
-#page title
+# Site
+title: Precious Metals Manager
+description: Effortlessly track your precious metals investments with our specialized mobile app. Take control of your portfolio management with powerful metrics and tools for gold, silver, platinum, and palladium.
+url: https://preciousmetalsmanager.com
+
+# Page title
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
