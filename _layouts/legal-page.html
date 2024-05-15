@@ -1,27 +1,7 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en-us">
-
-{% include head.html %}
-
-<body>
-    <div class="headerBackground subPageHeaderBackground">
-        <div class="container subPageContainer">
-            {% include_cached header.html %}
-            <article class="page markdown-body">
-                {{ content }}
-            </article>
-        </div>
-        {% include appstoreimages.html %}
-        {% include_cached footer.html %}
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
-    <script src="../../assets/js/darkmode.js"></script>
-</body>
-
-</html>
+<article class="page markdown-body">
+    {{ content }}
+</article>

@@ -1,9 +1,4 @@
 .headerBackground {
-	height: 100px;
-	background-color: var(--heading-color);
-}
-
-.subPageHeaderBackground {
 	background-color: var(--heading-color);
 }
 
@@ -86,15 +81,6 @@ header {
 	margin-right: 30px;
 }
 
-.logo>p {
-	color: var(--font-color);
-	white-space: nowrap;
-	display: flex;
-	font-weight: bold;
-	margin-left: 15px;
-	font-size: 2.5rem;
-}
-
 .headerIcon {
 	width: 50px;
 	height: 50px;
@@ -104,6 +90,11 @@ header {
 
 .headerName {
 	color: var(--font-color);
+	white-space: nowrap;
+	display: flex;
+	font-weight: bold;
+	margin-left: 15px;
+	font-size: 2.5rem;
 }
 
 @media only screen and (max-width: 576px) {
@@ -112,73 +103,23 @@ header {
 		margin-right: 0px;
 	}
 
-	.logo>p {
+	.headerName {
 		font-size: 1.5rem;
 		white-space: wrap;
 	}
 }
 
+@media only screen and (max-width: 436px) {
+	.headerName {
+		display: none;
+	}
+}
+
 
 // Navigation Links
-.scroll {
-	display: flex;
-	width: 100%;
-	align-items: center;
-	justify-content: flex-end;
 
-	height: 115px;
-	margin-left: 15px;
-
-	white-space: nowrap;
-	overflow-x: auto;
-	overflow-y: hidden;
-	-webkit-overflow-scrolling: touch;
-	-ms-overflow-style: -ms-autohiding-scrollbar;
-}
-
-.scroll::-webkit-scrollbar {
-	display: none;
-}
-
-
-nav>ul {
+.nav-link>p {
 	color: var(--font-color);
-	display: flex;
-	list-style-type: none;
-
-}
-
-nav>ul li {
-	padding-left: 30px;
-}
-
-@media only screen and (max-width: 600px) {
-
-	nav>ul li {
-		padding-left: 20px;
-	}
-
-}
-
-nav>ul li:first-child {
-	padding-left: 0px;
-	padding-left: 15px;
-}
-
-nav>ul li:last-child {
-	padding-right: 15px;
-}
-
-nav>ul li a:link,
-nav>ul li a:visited {
-	text-decoration: none;
-	color: var(--font-accent);
-}
-
-nav>ul li a:hover,
-nav>ul li a:active {
-	text-decoration: none;
-	color: var(--font-accent);
 }
 
 // Dark Mode Toggle Switch
@@ -186,6 +127,7 @@ nav>ul li a:active {
 .theme-switch-wrapper {
 	display: flex;
 	align-items: center;
+	padding-left: 20px;
 
 	em {
 		margin-left: 10px;
@@ -245,21 +187,6 @@ input:checked+.slider:before {
 .darkModeIcon {
 	color: var(--font-color);
 	padding-left: 1rem;
-}
-
-// Sub Page Header Styling
-.subPageHeaderBackground .logo>p {
-	color: var(--font-color);
-}
-
-.subPageHeaderBackground nav>ul li a:link,
-.subPageHeaderBackground nav>ul li a:visited {
-	color: rgba(var(--font-color), 0.6);
-}
-
-.subPageHeaderBackground nav>ul li a:hover,
-.subPageHeaderBackground nav>ul li a:active {
-	color: rgba(var(--font-color), 1);
 }
 
 
