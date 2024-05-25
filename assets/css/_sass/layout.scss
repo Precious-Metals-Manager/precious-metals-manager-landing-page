@@ -5,6 +5,16 @@
 
 .subPageHeaderBackground {
 	background-color: var(--heading-color);
+	height: 100px;
+	background-color: var(--heading-color);
+}
+
+@media only screen and (max-width: 600px) {
+
+	.subPageHeaderBackground {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
 }
 
 .subPageContainer {
