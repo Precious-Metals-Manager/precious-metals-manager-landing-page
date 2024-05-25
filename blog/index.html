@@ -7,7 +7,7 @@ include_in_header: true
 <p class="blogTitle">Our Articles</p>
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <div class="col mb-3">
     <div class="card" style="max-width: 26rem;">
       <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}">
@@ -20,4 +20,4 @@ include_in_header: true
     </div>
   </div>
   {% endfor %}
-</div>
+</div>{% include pagination.html %}

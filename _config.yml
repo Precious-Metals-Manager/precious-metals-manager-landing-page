@@ -39,14 +39,19 @@ linkedin_username                         :
 
 
 # Theme Settings
-
 link_color                                : "#1d63ea"
 
 
+# Pagination
+paginate: 6
+paginate_path: /blog/page:num/
+
+
 plugins:
-  - jekyll-seo-tag # Adds all the important SEO meta tags by default.
-  - jekyll-sitemap # Adds sitemap to the website at /sitemap.xml
-  - jekyll-include-cache   # use include_cached instead of include
+  - jekyll-seo-tag        # Adds all the important SEO meta tags by default.
+  - jekyll-sitemap        # Adds sitemap to the website at /sitemap.xml
+  - jekyll-include-cache  # use include_cached instead of include
+  - jekyll-paginate       # Used for sorting posts by page numbers.
 
 
 # Google Tag
