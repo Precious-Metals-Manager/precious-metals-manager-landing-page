@@ -2,7 +2,6 @@
 title: Understanding Precious Metals Premium
 author: Sergio Martin Rubio
 layout: post
-description: Discover the 'Premium' in Precious Metal Investments - Learn about the extra cost you pay beyond spot prices when buying and selling precious metals. Understand how premiums change depending on the type of bullion, its size, and how it's authenticated. This affects how easy it is to sell your investment and the returns you could make.
 image: https://lh3.googleusercontent.com/pw/AP1GczNn5GVT6FM_W71xTdmYnDijVtQP19NwgHZZlM51MhTogOAdKpP_Uhjx1nIMnpbcMIKSbxJnpfCcQJqlLJwvWsuFtnI5bDqwwenxxLTkUnUz-SIxOcrrqt_Uhqc5Mf9Gg_zluJvPCSKe7JABp92KhFIs=w1200-h628-s-no-gm?authuser=0
 ---
 

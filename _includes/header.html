@@ -22,6 +22,7 @@
 	</div>
 	<nav class="scroll">
 		<ul>
+			<li><a href="/blog" target="_self">Blog</a></li>
 			{% for page in site.pages %}
 			{% if page.include_in_header == true %}
 			<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>

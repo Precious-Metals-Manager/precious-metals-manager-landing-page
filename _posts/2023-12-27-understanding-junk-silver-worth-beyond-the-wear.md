@@ -2,11 +2,8 @@
 title: Understanding Junk Silver Worth Beyond the Wear
 author: Sergio Martin Rubio
 layout: post
-description: Learn about 'Junk Silver' coins and their historical and economic importance. Find out how their value is determined by their silver content and condition. Explore the differences in how people in the US and Europe view these coins. Keep reading to discover tools for managing and tracking 'Junk Silver' more effectively.
 image: https://lh3.googleusercontent.com/pw/AP1GczOu8JJvAtogelCCPljL5OITEJlr2NpSDKsTwA0YXCsrseq2EEjzV9tVftJzA3O5mRaI-J6VT2Sq_oEt_5Fh_RDfGrEV-Rp7tAAXDuv7d_73TJaRkw_AQsMqLVmKo6bBd-f_8qwI_RWqmpj55ABNOsgu=w1200-h628-s-no-gm?authuser=0
 ---
-
-## Introduction
 
 🔍 **Junk Silver** refers to old coins circulated as legal currency in the United States, containing **silver**. Also called **‘Old US Silver’** or **‘scrap Silver,’** these coins are historically and economically important because they represent real money. If there were an economic collapse, their value would likely remain stable.
 

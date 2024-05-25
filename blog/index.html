@@ -7,20 +7,17 @@ include_in_header: true
 <p class="blogTitle">Our Articles</p>
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <div class="col mb-3">
     <div class="card" style="max-width: 26rem;">
       <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}">
       <div class="card-body">
-        <h3 class="card-title">{{post.title}}</h3>
-        <p class="card-text">{{post.description}}</p>
+        <h3 class="card-title"><span>{{post.title}}</span></h3>
+        <p class="description">{{post.content | strip_html | truncate: 180 }}</p>
         <a href="{{post.url}}" class="stretched-link" aria-label="{{post.title}}"></a>
-      </div>
-      <div class="card-footer">
-        <small class="text-body-secondary"> <i class="fa fa-calendar" aria-hidden="true"></i> {{post.date |
-          date_to_string }}&nbsp;</small>
+        <button type="button" class="btn blogArticleButton">Read article</button>
       </div>
     </div>
   </div>
   {% endfor %}
-</div>
+</div>{% include pagination.html %}
