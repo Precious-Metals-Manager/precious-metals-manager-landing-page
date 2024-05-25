@@ -2,7 +2,6 @@
 title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
-description: Dive into the complex world of precious metals taxation in this detailed article. Learn how sales tax or VAT affects the buying of gold, silver, and platinum worldwide. From different rates in the US to VAT details across Europe and exemptions in Australia and Canada, find out how various countries deal with taxes on investment-grade metals.
 image: https://lh3.googleusercontent.com/pw/AP1GczN-zwWbueBX5Dd0EVi2J6_4oi9SownDoqaf5BxeErgWp-oVA6diO6HshLzKSumsILyW7lM-1k_NOZXOkdPvHUt13dC04CaPumNHJFJfDbW1KKPt44wjg6t7FK48bnO1CdHkISa61aIGafZYC4cqadgo=w1200-h628-s-no-gm?authuser=0
 ---
 

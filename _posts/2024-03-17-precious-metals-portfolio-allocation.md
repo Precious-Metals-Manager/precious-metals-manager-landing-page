@@ -2,11 +2,8 @@
 title: "Precious Metals Portfolio Allocation" 
 author: Sergio Martin Rubio
 layout: post
-description: Explore effective strategies for diversifying your precious metals portfolio and using the Precious Metals Manager app for optimized allocation and rebalancing.
 image: https://lh3.googleusercontent.com/pw/AP1GczMNQUBQzBGiGVvxE5srOmXy8Rm4_4s0jAUxqtdVkvXN5We7PSAjPHTOUO3dCCKIXnNkMxpGcsBO2ruNUfvuI5Yh-3Uv6zgpVS2s9sur5aWZrGOP68jG29wOeyz7nLKDttKpD4UfFvMEtAku84KSh_Ax=w1200-h628-s-no-gm?authuser=0
 ---
-
-## Introduction
 
 People often wonder, "***How much gold or silver should I buy?***" 🤔, but there's no perfect answer ❌👌. It depends on factors like ***risk***, ***speculation***, or ***value storage***. Also, don't forget about other metals like ***platinum*** and ***palladium*** for further portfolio diversification. 📈💰🔒
 

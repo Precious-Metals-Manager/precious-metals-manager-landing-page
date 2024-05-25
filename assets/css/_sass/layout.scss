@@ -594,14 +594,40 @@ footer {
 	display: none;
 }
 
+.description {
+	color: var(--font-color);
+}
+
 .blogTitle {
 	font-size: 3.5rem;
 	font-weight: bold;
 	color: var(--font-color);
 }
 
-// Post
+.card {
+	height: 100%;
+	border: 1px solid var(--bg-color);
+	background: var(--bg-color);
 
-.postText {
-	color: var(--font-color);
+	// &:hover {
+	// 	-webkit-box-shadow: 0px 5px 20px var(--font-color);
+	// 	box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+	// }
+}
+
+.card-title>span {
+	color: var(--font-color);;
+}
+
+.card-body {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.blogArticleButton {
+	margin-top: auto;
+	font-weight: bold;
+	background-color: var(--font-color);
+	color: var(--bg-color)
 }
