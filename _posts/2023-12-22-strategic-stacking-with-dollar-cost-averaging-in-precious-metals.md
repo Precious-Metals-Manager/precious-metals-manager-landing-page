@@ -2,7 +2,7 @@
 title: Strategic Stacking with Dollar Cost Averaging in Precious Metals
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczMbZzxIoQ3QxuGHZE3cPViVkTHGMggxqTCaoJNsczIoqRR2uTDbctZFg-oVFg_8rB7yX8lgFieRxzdeQRzOLUSAddeq6fu4byTyffKO1vV_EG56tivUzl1ZUkaaq54h3vtzlcHqS0KyNwgOjZDNb-A-=w1200-h628-s-no-gm?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczNG5fnGeKXI1pwUyWfc8-CZ9FSHLaJjLIxC6NgtLGkuxgfq8lJmdi6vUCWqMa68WMGPvj92xT_lIfuPoSbm4ZSJu8hszNB5l5NKo5un21ibNDpSNypscVsIis6sSR9vlOXYNHS-YpRnTSD0tGfPIn7a=w1200-h628-s-no?authuser=1
 ---
 
 **💵Dollar-Cost Averaging (DCA)** is a strategy used in various investments, like **stocks** or **crypto**. It involves investing a set amount at regular times, which helps lower risk, especially in assets with volatile prices.
