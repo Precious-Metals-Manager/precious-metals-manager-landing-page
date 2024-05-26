@@ -683,12 +683,13 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 
 .markdown-body table td,
 .markdown-body table th {
-  border: 1px solid #dfe2e5;
+  border: 1px solid var(--primary-color);
+  background-color: var(--bg-color);
   padding: 6px 13px;
 }
 
 .markdown-body table tr {
-  background-color: #fff;
+  background-color: var(--bg-color);
   border-top: 1px solid #c6cbd1;
 }
 
