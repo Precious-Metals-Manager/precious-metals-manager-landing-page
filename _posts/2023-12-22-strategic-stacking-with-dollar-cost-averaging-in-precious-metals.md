@@ -41,7 +41,7 @@ To reduce these costs, you might consider adjusting how often you buy. Waiting l
 
 The **Precious Metals Manager** can help you see how your average price changes over time. In the app, you can find a **Dollar-Cost Averaging** chart for each metal. It shows your buying intervals and lets you compare your average price with the current spot price for a chosen time period. This helps you see if your strategy is helping you deal with market price changes. 📈
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczNbbTfRHVEM_X1EGOJ3K4y4ARJHKPclv35GiXEjVaDEHYxGBbHU06wQ8GlGep9IP0jhdEHM-L-lN7m0BGA8lqEHMey0GNYYPNtJIj9AQiD-vqb6lvUYyLsgwOexfZ6v8q6BPEyrnXCSo63vyuAZtOpj=w1920-h1080-s-no?authuser=1" alt="Dollar-Cost Averaging" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMLjYrsfAuKPI0prlh8F5mXq7VQDatfYu-kY3NFGjKYMWvijPe9zL3usjSe_RihAipDqCUy24tTnBeNgZ53b2QtwN5kTYEv7rWO2hLpH0l5zZ0tcGus2OaymaniPjp_-Vqr7-_V9Cc1hIibDMQnXvjt=w1920-h1080-s-no?authuser=1" alt="Dollar-Cost Averaging" />
 
 {% include_cached downloadnowbutton.html %}
 

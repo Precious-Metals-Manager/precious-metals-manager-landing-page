@@ -51,6 +51,6 @@ In conclusion, the gold-silver ratio allocation history and strategy can be a va
 * Monitoring the gold-silver ratio can provide insights into economic and market conditions, as the ratio tends to move in cycles.
 * Using the gold-silver ratio as part of a diversified investment strategy can help manage risk and potentially enhance returns over the long term
 
-<img class="img-fluid image-container" src="https://lh3.googleusercontent.com/pw/AP1GczMLjYrsfAuKPI0prlh8F5mXq7VQDatfYu-kY3NFGjKYMWvijPe9zL3usjSe_RihAipDqCUy24tTnBeNgZ53b2QtwN5kTYEv7rWO2hLpH0l5zZ0tcGus2OaymaniPjp_-Vqr7-_V9Cc1hIibDMQnXvjt=w1920-h1080-s-no?authuser=1" alt="Gold to Silver Ratio" />
+<img class="img-fluid image-container" src="https://lh3.googleusercontent.com/pw/AP1GczOWYtFO74bu9_v5OeD1NiXY4Lcg60758LnZeXnqk9qKFAJPyHqTUDvCUURv01yPEEmE-aVkI0nGjDBfuJVcanuJfdLNXufQs_obvAUD28Sz3OIZOhNAOEkjlm2mhhgmE1miDmx9ARjjlZDDaonJhQjh=w1920-h1080-s-no?authuser=1" alt="Gold to Silver Ratio" />
 
 {% include_cached downloadnowbutton.html %}
