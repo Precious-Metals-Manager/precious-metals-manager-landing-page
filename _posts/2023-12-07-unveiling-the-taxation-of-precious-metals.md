@@ -2,7 +2,7 @@
 title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczN-zwWbueBX5Dd0EVi2J6_4oi9SownDoqaf5BxeErgWp-oVA6diO6HshLzKSumsILyW7lM-1k_NOZXOkdPvHUt13dC04CaPumNHJFJfDbW1KKPt44wjg6t7FK48bnO1CdHkISa61aIGafZYC4cqadgo=w1200-h628-s-no-gm?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczPvSxfAdsrjxtSCbSvtu3GirBMdtSewx6KvwMNn4KkyZv_mdCqzbVDXc4XUDpWETfUY4e1nK7GBVwsCqyE-e_c4uOKBAH5D7OE40Q--SjDh4Zki2feQHPcJjk8R2cZFsT_ckV-0PgMAXysCb8Y307oz=w1200-h628-s-no?authuser=1
 ---
 
 **Sales tax** or VAT (Value-added tax) is sometimes applied to *precious metals* when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (**spot price** + [**premium**](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)). 📊✨💰

@@ -2,7 +2,7 @@
 title: Understanding Precious Metals Premium
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczNn5GVT6FM_W71xTdmYnDijVtQP19NwgHZZlM51MhTogOAdKpP_Uhjx1nIMnpbcMIKSbxJnpfCcQJqlLJwvWsuFtnI5bDqwwenxxLTkUnUz-SIxOcrrqt_Uhqc5Mf9Gg_zluJvPCSKe7JABp92KhFIs=w1200-h628-s-no-gm?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczO7eqCEaZSglFxer9x_cuu9NesXqcwvslFGVotqn5vF1IxyEnwtCMoXmiPSEDS0PeMxakAzgEZBz6KPn2p5VhjHL_HhgM0UUmdHvPV44-66Z6tc7A6vG78y-j3i1S5r5LThSKcOSi6yoKYdBkOd9FB6=w1200-h628-s-no?authuser=1
 ---
 
 When you buy **precious metals**, you need to think about the ***'Premium'***. This is the extra amount you pay above the metal's value at the current spot price. When you sell, you might get back some of this premium, but usually not as much as you paid. 
