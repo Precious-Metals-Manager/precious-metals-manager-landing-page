@@ -52,7 +52,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  color: rgba(#000000, 1);
+  color: var(--font-color);
 }
 
 .markdown-body h1:hover .anchor,
@@ -697,7 +697,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 }
 
 .markdown-body img {
-  background-color: #fff;
+  background-color: var(--hero-bg-color);
   box-sizing: content-box;
   max-width: 100%;
 }
