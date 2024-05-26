@@ -1,8 +1,8 @@
 ---
 layout: legal-page
 title: Terms and Conditions of Use
-sitemap: false
 include_in_header: false
+sitemap: false
 ---
 
 **Last updated**
