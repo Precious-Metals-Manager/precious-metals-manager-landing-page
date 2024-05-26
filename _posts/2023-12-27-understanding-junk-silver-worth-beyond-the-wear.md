@@ -110,7 +110,7 @@ Some of the most used online tools for calculating junk silver value are:
 
 When creating new Silver items within an order, you can toggle the "**Junk Silver**" button, and this will enable you to select from a list of popular US *Junk Silver* coins. Certain fields, such as name, purity, wear, and weight are prefilled. Additionally, you can specify the quantity of coins and instantly view the total face value associated with them in real-time. Subsequently, you have the option to set the unit price, which represents the cost per *junk silver* coin. Once the item is created, you can view its details or edit it at any time! 🚀
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMiako-N8qWpbjMo3Tg9efQaDtfe9WjAsSY5oiZy0P5gua38ZaoDnAPiN1kNffNLu4qu44E6r444t9zpWhR8ezYwxjMBJmyg-pagY7XLb651iCgGQ_pnbskOR0zOOSlfzcDg8c-2kiXqdUtzTDnuNXP=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczOhhVKk40w6sOlIVc7RPp4H6Qbp9nUtuaoqygHIXarnLWJl41zpJ3sUUZbdhF3RiaKxdp93c1SYdkNeEwRRCT35LAGNEe1qRkOuPG1CV2pzVaR0KYCEMh2Wi8isv24WlPO5XI9qqzOGYT4vkqRGHzJn=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
 
 {% include_cached downloadnowbutton.html %}
 
