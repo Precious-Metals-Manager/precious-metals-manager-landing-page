@@ -614,7 +614,7 @@ footer {
 	font-weight: bold;
 	color: var(--font-color);
 	text-align: center;
-    margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 .card {
@@ -626,7 +626,6 @@ footer {
 
 .card-title>span {
 	color: var(--font-color);
-	;
 }
 
 .card-body {
@@ -635,11 +634,20 @@ footer {
 	flex-direction: column;
 }
 
-.blogArticleButton {
+.card-body>button {
 	margin-top: auto;
 	font-weight: bold;
-	background-color: var(--font-color);
-	color: var(--bg-color)
+	background-color: var(--primary-color);
+	color: var(--bg-color);
+	padding: 10px 15px;
+	cursor: pointer;
+	transition: background-color 0.3s;
+}
+
+.card-body:hover+.btn,
+.card-body:hover .btn {
+	background-color: var(--accent-button-color);
+	color: white;
 }
 
 .pagination {

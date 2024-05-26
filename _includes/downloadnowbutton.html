@@ -2,10 +2,21 @@
     .buttonContainer {
         text-align: center;
     }
+
+    .buttonContainer>a {
+        background-color: var(--primary-color);
+        color: var(--bg-color);
+    }
+
+
+    .buttonContainer>a:hover {
+        background-color: var(--accent-button-color);
+        color: white;
+    }
 </style>
 
 <div class="buttonContainer">
-    <a class="btn btn-primary btn-lg text-decoration-none"
+    <a class="btn btn-lg text-decoration-none"
         href="https://apps.apple.com/us/app/precious-metals-manager/id{{ site.ios_app_id }}?uo=4" role="button"
         aria-pressed="true" target="_blank">Download Now</a>
 </div>

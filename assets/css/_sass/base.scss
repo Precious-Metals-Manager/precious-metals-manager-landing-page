@@ -10,6 +10,7 @@ $primary-text-color: #000000;
 	--primary-color: #00334F;
 	--secondary-color: #666666;
 	--accent-color: #007aff;
+	--accent-button-color: #27201d;
 	--font-color: #27201d;
 	--bg-color: white;
 	--hero-bg-color: #f0f1f2;
@@ -21,8 +22,9 @@ $primary-text-color: #000000;
 
 [data-theme="dark"] {
 	--primary-color: white;
-	--secondary-color: white;
+	--secondary-color: #E5E4E2;
 	--accent-color: #007aff;
+	--accent-button-color: #666666;
 	--font-color: white;
 	--bg-color: black;
 	--hero-bg-color: #161616;
