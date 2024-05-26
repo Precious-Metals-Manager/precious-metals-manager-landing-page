@@ -2,7 +2,7 @@
 title: Navigating Capital Gains Taxes on Precious Metals
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczOnrf5p49q-NKlXwrl4WgkJ3FcSRcpO0NHBZPYa2KshbQEyTWAjG4yvbRa9kPuywweky3uT0WV_3VkA_FzvK97zEnWSdQORkDdnsbd6zVd3UYNyxiKm0yRbEccs9TTxoSNhAwm8_b35soBlYIhDpzN-=w1200-h628-s-no-gm?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczN0nMsF47WE1sXTrsq-KSpnnVXATK5-G7d037RWZUakXxNgEOXM57rUvCmfr0dGeFqbNPlqB8M3x5wZFPhkaHN7ZGhcIXfQ8BLm3EMP4wQVo1x3tBN4qBUR_F8IM6YC0OEsmysMYCUo1DZR7L5X7imE=w1200-h628-s-no?authuser=1
 ---
 
 The IRS and other government bodies consider **physical gold**, **silver**, or **platinum** as assets for capital gains tax purposes, meaning they're taxed when you sell them for a profit.
