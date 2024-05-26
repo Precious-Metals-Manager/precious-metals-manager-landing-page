@@ -9,14 +9,6 @@
 	background-color: var(--heading-color);
 }
 
-@media only screen and (max-width: 600px) {
-
-	.subPageHeaderBackground {
-		padding-left: 30px;
-		padding-right: 30px;
-	}
-}
-
 .subPageContainer {
 	padding-bottom: 40px;
 }
@@ -116,9 +108,10 @@ header {
 	color: var(--font-color);
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
 
 	.logo {
+		margin-left: 10px;
 		margin-right: 0px;
 	}
 
@@ -212,6 +205,12 @@ nav>ul li a:active {
 
 .theme-switch input {
 	display: none;
+}
+
+@media only screen and (max-width: 600px) {
+	.theme-switch-wrapper {
+		padding-right: 30px;
+	}
 }
 
 .slider {
