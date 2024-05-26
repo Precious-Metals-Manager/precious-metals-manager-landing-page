@@ -2,7 +2,7 @@
 title: "Tracing Gold's Spot Price Over Time" 
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczOX6L2K6mnQ2f4nZ0OpSrZoyDYJhA5k1r5Q0Aq4ymUwTfC6BmGAbrwH3-WAz-g-IJSuJmQMocpxMXjpw9kvEIwvmNpXzrFI39Rdl_tbiLTQMI1g_OFXxQL8RMVmrWQETUi_gzDHPA2wYCttcqLFagxS=w1200-h628-s-no?authuser=1
+image: https://lh3.googleusercontent.com/pw/AP1GczOrZg2z3zDPyKqGQZbfbUMllz4BpaE512Tc5XPX4xSIapF7hf5KiiE_Lg0AB9itd8rcyUJPN2lrRfNvSafHBm2faghlpaf0hQb38qM1dpcwYeqYkBcM2sFsOOTtIXRc0uyfz7w0MgyiKHHazpn0fqIn=w1200-h628-s-no?authuser=1
 ---
 
 **The spot price for gold** is set by institutions like the [**London Bullion Market Association (LBMA)**](https://www.lbma.org.uk){:target="_blank"} or the [**CME's COMEX exchange**](https://www.cmegroup.com/company/comex.html){:target="_blank"}, as we already discussed in our [**comparison between the spot price and offer price**](https://preciousmetalsmanager.com/blog/precious-metals-valuation-spot-price-vs-offer-reference-price/). 💼📊

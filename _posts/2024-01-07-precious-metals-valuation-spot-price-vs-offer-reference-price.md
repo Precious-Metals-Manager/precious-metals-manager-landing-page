@@ -2,7 +2,7 @@
 title: "Precious Metals Valuation: Spot Price vs. Offer Price" 
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczNX-jInUS7H3ZQ1WM4s_krHDn_PVLw5r9ueJbFew1qgT9JPHwte5udGaZRq2mEtGvefR_qXvv8xmj1aywzOpSCz6SpJ8HPf3GI1JMhn4aI2-C-YnF8YQPCZwan1xeDU4EJ4zk8o5x5P3XW5k3Ft4yLJ=w1200-h628-s-no-gm?authuser=0
+image: https://lh3.googleusercontent.com/pw/AP1GczMZtZAYUZnN9x-5FjNhE1KQMir2L_rSHtSv0y-0dOJwzz22YqdwAyS3nrwqHVXQ34FBk-DtsA3sKqwQqlJhSMJH0fDvhqCyUfZ53CjLvhJT_mdG8Vh-TQjJ_WWAFRtKZGGUzh4HkSyDJ-Em5d8njxwi=w1200-h628-s-no?authuser=1
 ---
 
 **Investors** often use ***precious metals*** like 💰🪙 ***gold***, ***silver***, ***platinum***, or ***palladium*** to protect against inflation. Unlike money or stocks, which can be influenced by market feelings, these metals have their own worth. Plus, it's hard for institutions to control their supply because mining capacity is limited globally. 🌍🛠️
