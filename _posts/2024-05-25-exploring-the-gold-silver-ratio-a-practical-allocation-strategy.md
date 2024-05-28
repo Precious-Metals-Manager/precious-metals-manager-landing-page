@@ -2,7 +2,7 @@
 title: "Exploring the Gold-Silver Ratio: A Practical Allocation Strategy" 
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczMBdWyCDtytZx6MDH8CQpAa3iAyDPaDzycQGtZN4nK_4dyd3WEzMOK3Jrlx5Cpbu3K9YlGZHp3BBDpVX9coaOyG4NRgwOP_k5RvaEws0xXDd6RO440iUnNLidpc-NKNxZXOByFq8VzlKJDGMeCCnVg_=w1920-h1080-s-no?authuser=1
+image: https://lh3.googleusercontent.com/pw/AP1GczNDd2EhaaVRHRIXH1oySZp_eUaOKAtDDLkbZ03KLbBtcjNW4IeI3JR6h1xkjIaAAswysegQhG7-8pJFZY38ThFnN2JUiM2xpLqwtMXVd7eblROM0Li7lWVoKwMF8j2tyXjFcJ8deIALGhq4_3uUZn3Y=w1200-h628-s-no?authuser=1
 ---
 
 The **gold-silver ratio** has long been a topic of fascination 🤩 for investors. This powerful metric can reveal hidden insights about the state of the markets. But how can you use the gold-silver ratio in your day-to-day decisions? 🤔
@@ -35,7 +35,7 @@ Investors can employ various strategies to capitalize on the fluctuations in the
 
 The **Precious Metals Manager app** 📱 offers a **Gold to Silver Ratio tool** 🛠️ to track the historical and current gold-silver ratio. This tool can be used to indentify patterns and potential trading opportunities.
 
-<img class="img-fluid image-container" src="https://lh3.googleusercontent.com/pw/AP1GczOWYtFO74bu9_v5OeD1NiXY4Lcg60758LnZeXnqk9qKFAJPyHqTUDvCUURv01yPEEmE-aVkI0nGjDBfuJVcanuJfdLNXufQs_obvAUD28Sz3OIZOhNAOEkjlm2mhhgmE1miDmx9ARjjlZDDaonJhQjh=w1920-h1080-s-no?authuser=1" alt="Gold to Silver Ratio" />
+<img class="img-fluid image-container" src="https://lh3.googleusercontent.com/pw/AP1GczMBdWyCDtytZx6MDH8CQpAa3iAyDPaDzycQGtZN4nK_4dyd3WEzMOK3Jrlx5Cpbu3K9YlGZHp3BBDpVX9coaOyG4NRgwOP_k5RvaEws0xXDd6RO440iUnNLidpc-NKNxZXOByFq8VzlKJDGMeCCnVg_=w1920-h1080-s-no?authuser=1" alt="Gold to Silver Ratio" />
 
 {% include_cached downloadnowbutton.html %}
 
