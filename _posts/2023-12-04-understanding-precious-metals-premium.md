@@ -5,9 +5,9 @@ layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczO7eqCEaZSglFxer9x_cuu9NesXqcwvslFGVotqn5vF1IxyEnwtCMoXmiPSEDS0PeMxakAzgEZBz6KPn2p5VhjHL_HhgM0UUmdHvPV44-66Z6tc7A6vG78y-j3i1S5r5LThSKcOSi6yoKYdBkOd9FB6=w1200-h628-s-no?authuser=1
 ---
 
-When you buy **precious metals**, you need to think about the ***'Premium'***. This is the extra amount you pay above the metal's value at the current spot price. When you sell, you might get back some of this premium, but usually not as much as you paid. 
+When you buy **precious metals**, you need to think about the ***'Premium'***. This is the extra amount you pay above the metal's value at the current spot price. When you sell, you might get back some of this premium, but usually not as much as you paid.  
 
-The **premium** is usually shown as a percentage of the base cost. It covers things like making the metal, shipping it, marketing, dealer profits, taxes, storage, or transaction fees. So, the type of metal or the size of what you're buying matters. For example, the premium for a 1000-ounce bar is usually less than for a 100-ounce bar. Bars usually have lower premiums than coins or rounds because coins are easier to check without special tools. Also, bars are seen as less easy to sell because they need extra checks by dealers, which cost more and take time. 
+The **premium** is usually shown as a percentage of the base cost. It covers costs such as production, shipping, marketing, dealer profits, taxes, storage, and transaction fees. The type and size of the metal you’re buying also matter. For example, the premium for a 1,000-ounce bar is usually less than that for a 100-ounce bar. Bars typically have lower premiums than coins or rounds because coins are easier to verify without special tools. Additionally, bars are considered harder to sell since they require extra verification by dealers, which incurs additional costs and time.
 
 Lots of countries make their own gold and silver coins, like Canada's **Maple Leaf** 🍁, South Africa's **Krugerrand** 🦏, and the US's **American Eagle** 🦅. These coins usually have higher premiums because they're easier to check and harder to fake, which means they cost more to make. 
 
