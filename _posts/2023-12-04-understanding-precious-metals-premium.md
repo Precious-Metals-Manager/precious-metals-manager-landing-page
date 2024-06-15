@@ -21,6 +21,6 @@ Once the item is saved, you can see how much premium you paid for the item on th
 
 But that's not all. The total paid premium for each metal and the average premium ratio are displayed on the **Analytics** screen 📈🚀.
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczPL0V5o8uHXD6mxLEloGRYKpfHESjce4eeukqEyEV2WHeF6aQ2JKLOiwKZ3fjREEK0lFvPY5AuWfHrkmE1Uj1bAyPNClalSPlky7OMNmblJ60_aHRpQiyFsfPG6qy9x4fYwFmZx1lI6I-d41e9aQKO-=w1920-h1080-s-no-gm?authuser=0" alt="Item Details Premium" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczNwtdYZd7-wrBmRhK2VpIaj47Bq1tN8fkwP1VH693t7uiYVrC2TfbCdz2vaKSx0eWCZ1CJ778PyFyRDV9dJOGrrqAbb6Dd5lAzZ3Gzey6WgyqdNutD1BsiEL0PWFP3MwrfxMtb5T50VZdqxmjpB-WjK=w1920-h1080-s-no?authuser=1" alt="Premium" />
 
 {% include_cached downloadnowbutton.html %}
