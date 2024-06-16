@@ -2,13 +2,11 @@ const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"
 const icon = document.querySelector('.darkModeIcon i');
 
 function setLightIcon() {
-    icon.classList.remove('fa-moon');
-    icon.classList.add('fa-sun');
+    document.getElementById("darkmodeImage").src = "../../assets/sun.svg";
 }
 
 function setDarkIcon() {
-    icon.classList.remove('fa-sun');
-    icon.classList.add('fa-moon');
+    document.getElementById("darkmodeImage").src = "../../assets/moon.svg";
 }
 
 function switchTheme(e) {
