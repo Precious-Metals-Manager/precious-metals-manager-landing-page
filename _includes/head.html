@@ -2,12 +2,12 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- <base target="_blank"> -->
-
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
-
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
+
+	<!-- Prefetch DNS for faster page speed -->
+	<link rel="dns-prefetch" href="//google-analytics.com" />
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
@@ -22,10 +22,11 @@
 
 	<link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url }}" />
 
-	<!-- Prefetch DNS for faster page speed -->
-	<link rel="dns-prefetch" href="//google-analytics.com" />
-
 	{% if site.google-tag %}
 	{% include google-tag.html %}
 	{% endif %}
+
+	<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+		crossorigin="anonymous"></script>
 </head>
