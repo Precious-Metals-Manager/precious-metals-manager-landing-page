@@ -2,7 +2,7 @@
 title: Navigating Capital Gains Taxes on Precious Metals
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczO25frT0ERx_q9cPNGqO1IKgu1A78h4k3HeGzxW-iJR3mMVQwbI90qY34xJ3pQEdUfSt_Qhe4tAqAXQrQppbQEl7LA6Pow2kall7LGCs8j--qr07gx1bQgtBi_4XgBv61dXQC7NW8efq8chqCJM3F_9=w1920-h1080-s-no?authuser=1
+image: https://lh3.googleusercontent.com/pw/AP1GczN0nMsF47WE1sXTrsq-KSpnnVXATK5-G7d037RWZUakXxNgEOXM57rUvCmfr0dGeFqbNPlqB8M3x5wZFPhkaHN7ZGhcIXfQ8BLm3EMP4wQVo1x3tBN4qBUR_F8IM6YC0OEsmysMYCUo1DZR7L5X7imE=w1200-h628-s-no?authuser=1
 ---
 
 The IRS and other government bodies consider **physical gold**, **silver**, or **platinum** as assets for capital gains tax purposes, meaning they're taxed when you sell them for a profit.
@@ -35,7 +35,7 @@ Remember, your specific tax rules apply to all of this. This information isn't f
 
 You can use the Precious Metals Manager app on iOS to track your yearly **capital gains**, helping you meet your tax obligations. Just go to the Analytics tab and choose a metal (like gold, silver, platinum, or palladium). Then, tap on 'Annual Report' (you'll need a PRO subscription). The report gives you detailed info and can be exported to CSV for your records.
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczP_h1IRc2QMOzC3Fy-tR7ru4KdErqv0g5mK2tynsqdntbdazU-9L-7mX3m-dVwaDiyU1pSy2v939Ehk-DPisyuWjwoGI0eimYWoRuorF3C4e_BoHHDNcu9niXz1euU9JM6UDykAJKRc-jH7ziszqkdn=w1920-h1080-s-no-gm?authuser=0" alt="Annual Report" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczO25frT0ERx_q9cPNGqO1IKgu1A78h4k3HeGzxW-iJR3mMVQwbI90qY34xJ3pQEdUfSt_Qhe4tAqAXQrQppbQEl7LA6Pow2kall7LGCs8j--qr07gx1bQgtBi_4XgBv61dXQC7NW8efq8chqCJM3F_9=w1920-h1080-s-no?authuser=1" alt="Annual Report" />
 
 {% include_cached downloadnowbutton.html %}
 <br>
