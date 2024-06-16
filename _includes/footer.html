@@ -1,67 +1,119 @@
+<style>
+	.circle {
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		background: #ffffff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		transition: background 0.3s;
+		margin: 0 5px;
+	}
+
+	.icon-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+		height: 100%;
+	}
+
+	.icon-container>svg {
+		transition: fill 0.3s;
+	}
+
+	.twitterXIcon>svg {
+		width: 28px;
+		height: 28px;
+		margin-left: 8px;
+	}
+
+	.youtubeIcon>svg,
+	.linkedinIcon>svg,
+	.facebookIcon>svg,
+	.emailIcon>svg {
+		height: 28px;
+	}
+
+	.linkedinIcon>svg,
+	.facebookIcon>svg {
+		height: 25px;
+	}
+
+	.facebookIcon>svg {
+		margin-left: -3px;
+	}
+
+	.emailIcon>svg {
+		height: 20px;
+	}
+
+	.circle:hover {
+		background: var(--footer-social-circle-color);
+	}
+
+	.circle:hover .icon-container>svg {
+		fill: var(--footer-color);
+	}
+</style>
+
 <footer>
 	<div class="footerIcons">
 
 		{% if site.x_username %}
-		<a href="https://twitter.com/{{ site.x_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="X link"></i>
-				<i class="socialIconTop fa-brands fa-x-twitter fa-stack-1x" title="X link"></i>
-			</span>
-		</a>
-		{% endif %}
-
-		{% if site.instagram_username %}
-		<a href="https://instagram.com/{{ site.instagram_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Instagram link"></i>
-				<i class="socialIconTop fab fa-instagram fa-stack-1x" title="Instagram link"></i>
-			</span>
-		</a>
-		{% endif %}
-
-		{% if site.github_username %}
-		<a href="https://github.com/{{ site.github_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Github link"></i>
-				<i class="socialIconTop fab fa-github fa-stack-1x" title="Github link"></i>
-			</span>
+		<a href="https://twitter.com/{{ site.x_username }}" class="circle">
+			<div class="icon-container twitterXIcon">
+				<svg viewBox="0 -300 1792 1792" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="M 714.163,519.284 1160.89,0 H 1055.03 L 667.137,450.887 357.328,0 H 0 L 468.492,681.821 0,1226.37 H 105.866 L 515.491,750.218 842.672,1226.37 H 1200 L 714.137,519.284 Z M 569.165,687.828 521.697,619.934 144.011,79.6944 h 162.604 l 304.797,435.9906 47.468,67.894 396.2,566.721 H 892.476 L 569.165,687.854 Z" />
+				</svg>
+			</div>
 		</a>
 		{% endif %}
 
 		{% if site.youtube_username %}
-		<a href="https://youtube.com/@{{ site.youtube_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Youtube link"></i>
-				<i class="socialIconTop fab fa-youtube fa-stack-1x" title="Youtube link"></i>
-			</span>
+		<a href="https://youtube.com/@{{ site.youtube_username }}" class="circle">
+			<div class="icon-container youtubeIcon">
+				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
+					<path
+						d="M 44.898438 14.5 C 44.5 12.300781 42.601563 10.699219 40.398438 10.199219 C 37.101563 9.5 31 9 24.398438 9 C 17.800781 9 11.601563 9.5 8.300781 10.199219 C 6.101563 10.699219 4.199219 12.199219 3.800781 14.5 C 3.398438 17 3 20.5 3 25 C 3 29.5 3.398438 33 3.898438 35.5 C 4.300781 37.699219 6.199219 39.300781 8.398438 39.800781 C 11.898438 40.5 17.898438 41 24.5 41 C 31.101563 41 37.101563 40.5 40.601563 39.800781 C 42.800781 39.300781 44.699219 37.800781 45.101563 35.5 C 45.5 33 46 29.398438 46.101563 25 C 45.898438 20.5 45.398438 17 44.898438 14.5 Z M 19 32 L 19 18 L 31.199219 25 Z">
+					</path>
+				</svg>
+			</div>
 		</a>
 		{% endif %}
 
 		{% if site.linkedin_username %}
-		<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="LinkedIn link"></i>
-				<i class="socialIconTop fab fa-linkedin fa-stack-1x" title="LinkedIn link"></i>
-			</span>
+		<a href="https://www.linkedin.com/company/{{ site.linkedin_username }}" class="circle">
+			<div class="icon-container linkedinIcon">
+				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z" />
+				</svg>
+			</div>
 		</a>
 		{% endif %}
 
 		{% if site.facebook_username %}
-		<a href="https://facebook.com/{{ site.facebook_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="Facebook link"></i>
-				<i class="socialIconTop fab fa-facebook fa-stack-1x" title="Facebook link"></i>
-			</span>
+		<a href="https://facebook.com/{{ site.facebook_username }}" class="circle">
+			<div class="icon-container facebookIcon">
+				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z" />
+				</svg>
+			</div>
 		</a>
 		{% endif %}
 
 		{% if site.email_address %}
-		<a href="mailto:{{ site.email_address }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x" title="
-				Email link"></i>
-				<i class="socialIconTop fas fa-envelope fa-stack-1x" title="Email link"></i>
-			</span>
+		<a href="mailto:{{ site.email_address }}" class="circle">
+			<div class="icon-container emailIcon">
+				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z" />
+				</svg>
+			</div>
 		</a>
 		{% endif %}
 
