@@ -37,6 +37,6 @@ The **Precious Metals Manager app** 📱💼 lets you choose how much of each me
 
 <img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMsfe8aAOu0Fyu7LmpqJTMdIdnDqB-F86kjZbusAKLvU6DwPWavUT5LemTrWJmysWgQFW_WVxMGaotkfJoFakmCOg0m1Y-wx4DKSFtCMNpzz0IcN6196LZXXYuwJbSMxqUvN9X9IzM2dl-skiE2oZOr=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
 
-{% include youtube_embed.html id="DCGhDpx_2tY" %}
+{% include youtube_embed.html id="DCGhDpx_2tY" title="Allocation Rebalance" %}
 
 {% include_cached downloadnowbutton.html %}
