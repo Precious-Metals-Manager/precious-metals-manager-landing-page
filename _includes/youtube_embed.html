@@ -1,38 +1,21 @@
+<!-- Lite YouTube Embed: https://github.com/paulirish/lite-youtube-embed?tab=readme-ov-file -->
+<link rel="stylesheet" href="../../assets/css/lite-yt-embed.css" />
+
+<script src="../../assets/js/lite-yt-embed.js"></script>
+
 <style>
-    .responsive-iframe-container {
+    .iframe-container {
         margin-top: 20px;
         margin-bottom: 20px;
     }
-
-    .responsive-iframe {
-        position: relative;
-        padding-bottom: 56.25%;
-        /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
-
-    .responsive-iframe iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-
-    @media only screen and (max-width: 600px) {
-
-        /* Adjust for smaller screens */
-        .responsive-iframe {
-            padding-bottom: 75%;
-            /* 4:3 aspect ratio for smaller screens */
-        }
-    }
 </style>
 
-<div class="responsive-iframe-container">
-    <div class="responsive-iframe">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0"
-            allowfullscreen></iframe>
-    </div>
+<div class="iframe-container">
+    <lite-youtube videoid="{{ include.id }}"
+        style="background-image: url('https://lh3.googleusercontent.com/pw/AP1GczMsfe8aAOu0Fyu7LmpqJTMdIdnDqB-F86kjZbusAKLvU6DwPWavUT5LemTrWJmysWgQFW_WVxMGaotkfJoFakmCOg0m1Y-wx4DKSFtCMNpzz0IcN6196LZXXYuwJbSMxqUvN9X9IzM2dl-skiE2oZOr=w1920-h1080-s-no?authuser=1');">
+        <a href="https://youtube.com/watch?v={{ include.id }}" target="_blank class=" class="lty-playbtn"
+            title="Play Video">
+            <span class="lyt-visually-hidden">Play Video: {{ include.title }}</span>
+        </a>
+    </lite-youtube>
 </div>
