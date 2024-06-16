@@ -35,7 +35,7 @@ A **tactical allocation** 🔍📊 strategy is a more complicated method of dive
 
 The **Precious Metals Manager app** 📱💼 lets you choose how much of each metal you want in your portfolio. It then tells you how many ounces to sell or buy to balance your portfolio based on the current spot prices.
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczOLXDEcRG-3KT8my587__IjwVJfYnV41-VfkKwHgWbZ3Ay3dbjD8nUHJnmmEdoVQD0soDAjU6oW6dI0TdNaQdMI7l08hBEDW-UCpf87icum8ttXVIRZNfZ2AQsM4_nG8XlGUK9fH5TAfUWW0waVl5Hr=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMsfe8aAOu0Fyu7LmpqJTMdIdnDqB-F86kjZbusAKLvU6DwPWavUT5LemTrWJmysWgQFW_WVxMGaotkfJoFakmCOg0m1Y-wx4DKSFtCMNpzz0IcN6196LZXXYuwJbSMxqUvN9X9IzM2dl-skiE2oZOr=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
 
 {% include youtube_embed.html id="DCGhDpx_2tY" %}
 
