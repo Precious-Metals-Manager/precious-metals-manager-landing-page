@@ -41,7 +41,7 @@ The ***spot price valuation*** is shown in two ways: at the ***annual report lev
 
 Also, the app displays the ***reference price*** for popular bullion coins, which reflects the average price over the last 24 hours. You can see these prices for items in your inventory and for coins listed in the 'Bullion Catalog' section. 📈🔍
 
-<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczOOUXWpcJwLGBBUljLMtufMG4UkGVHx3YUKt7Ar_HScvWfLrAs-BvIrM9Jb9Ef5gtSCfUb_UDzwFpI-E8TFAGmbNZgXIjrXsOqCunN_nDG2ELq_M5E_a5HhiQFi1DYfnPCTaxMQbi3wZ8KAw0pMZQci=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
+<img class="img-fluid" src="https://lh3.googleusercontent.com/pw/AP1GczMgOU0eZIs2nSVBljKJRKFDwxH5XtXLogbWfuq6mHlgyULUT1Am_5N1JOO-Y3YLdqHmIHKc5gIGQAdBjp81BgOv2_3EICNCuthjbSTw_06lgRTgCXzuMEjZyy-TTN6QUqit5X_fMT2JCtghO_bJMKq-=w1920-h1080-s-no?authuser=1" alt="Junk Silver Selection" />
 
 {% include_cached downloadnowbutton.html %}
 
