@@ -62,7 +62,7 @@
 	<div class="footerIcons">
 
 		{% if site.x_username %}
-		<a href="https://twitter.com/{{ site.x_username }}" class="circle">
+		<a href="https://twitter.com/{{ site.x_username }}" class="circle" aria-label="Go to X (ex-Twitter) page">
 			<div class="icon-container twitterXIcon">
 				<svg viewBox="0 -300 1792 1792" xmlns="http://www.w3.org/2000/svg">
 					<path
@@ -73,7 +73,7 @@
 		{% endif %}
 
 		{% if site.youtube_username %}
-		<a href="https://youtube.com/@{{ site.youtube_username }}" class="circle">
+		<a href="https://youtube.com/@{{ site.youtube_username }}" class="circle" aria-label="Go to Youtube page">
 			<div class="icon-container youtubeIcon">
 				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
 					<path
@@ -85,7 +85,8 @@
 		{% endif %}
 
 		{% if site.linkedin_username %}
-		<a href="https://www.linkedin.com/company/{{ site.linkedin_username }}" class="circle">
+		<a href="https://www.linkedin.com/company/{{ site.linkedin_username }}" class="circle"
+			aria-label="Go to LinkedIn page">
 			<div class="icon-container linkedinIcon">
 				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
 					<path
@@ -96,7 +97,7 @@
 		{% endif %}
 
 		{% if site.facebook_username %}
-		<a href="https://facebook.com/{{ site.facebook_username }}" class="circle">
+		<a href="https://facebook.com/{{ site.facebook_username }}" class="circle" aria-label="Go to FaceBook page">
 			<div class="icon-container facebookIcon">
 				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
 					<path
@@ -107,7 +108,7 @@
 		{% endif %}
 
 		{% if site.email_address %}
-		<a href="mailto:{{ site.email_address }}" class="circle">
+		<a href="mailto:{{ site.email_address }}" class="circle" aria-label="Send email">
 			<div class="icon-container emailIcon">
 				<svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
 					<path
