@@ -8,16 +8,14 @@
 {% include head.html %}
 
 <body>
-    <div class="subPageHeaderBackground">
-        <div class="container subPageContainer">
-            {% include_cached header.html %}
-            <article class="page markdown-body">
-                {{ content }}
-            </article>
-        </div>
-        {% include appstoreimages.html %}
-        {% include_cached footer.html %}
+    {% include_cached header.html %}
+    <div class="container subPageContainer">
+        <article class="page markdown-body">
+            {{ content }}
+        </article>
     </div>
+    {% include appstoreimages.html %}
+    {% include_cached footer.html %}
     <script defer src="../../assets/js/darkmode.js"></script>
 </body>
 

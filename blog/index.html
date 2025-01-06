@@ -1,23 +1,25 @@
 ---
 layout: page
-title: Blog
+title: Our Articles
 include_in_header: true
 ---
 
-<p class="blogTitle">Our Articles</p>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  {% for post in paginator.posts %}
-  <div class="col mb-3">
-    <div class="card" style="max-width: 26rem;">
-      <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}">
-      <div class="card-body">
-        <h3 class="card-title"><span>{{post.title}}</span></h3>
-        <p class="description">{{post.content | strip_html | truncate: 180 }}</p>
-        <a href="{{post.url}}" class="stretched-link" aria-label="{{post.title}}"></a>
-        <button type="button" class="btn">Read article</button>
+<div class="markdown-body">
+  <h1>{{page.title}}</h1>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    {% for post in paginator.posts %}
+    <div class="col mb-3">
+      <div class="card" style="max-width: 26rem;">
+        <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}">
+        <div class="card-body">
+          <h3 class="card-title"><span>{{post.title}}</span></h3>
+          <p class="description">{{post.content | strip_html | truncate: 180 }}</p>
+          <a href="{{post.url}}" class="stretched-link" aria-label="{{post.title}}"></a>
+          <button type="button" class="btn">Read article</button>
+        </div>
       </div>
     </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>{% include pagination.html %}
+  {% include pagination.html %}
+</div>

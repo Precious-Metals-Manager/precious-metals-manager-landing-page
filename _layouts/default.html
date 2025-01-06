@@ -4,43 +4,38 @@
 {% include head.html %}
 
 <body>
-    <div>
-        <div class="headerBackground">
-            <div class="container bodyContainer">
-                {% include_cached header.html %}
-                <div class="iphonePreview">
-                    <img class="theme-image iphoneScreen" id="heroScreenshot"
-                        data-light="{{ site.github.baseurl }}/assets/images/light/screenshot1.webp"
-                        data-dark="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp"
-                        src="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp"
-                        alt="Precious Metals Manager">
-                </div>
-                <div class="appInfo">
-                    <div class="appDescriptionContainer">
-                        <p class="appDescription">
-                            {{ site.app_description }}
-                        </p>
-                    </div>
-                    <div class="appSloganContainer">
-                        <p class="appSlogan">
-                            Empowering your portfolio management.
-                        </p>
-                    </div>
-                    <div class="downloadButtonsContainer">
-                        {% if site.playstore_link %}
-                        <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore"
-                                src="assets/playstore.png"></a>
-                        {% endif %}
-                        <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStoreQR"
-                                src="assets/appstoreQR.svg" alt="Precious Metals Manager QR code"></a>
-                    </div>
-                </div>
-                {% include appstoreimages.html %}
-            </div>
-            {% include features.html %}
-            {% include_cached footer.html %}
+    {% include_cached header.html %}
+    <div class="mainPageContainer">
+        <div class="iphonePreview">
+            <img class="theme-image iphoneScreen" id="heroScreenshot"
+                data-light="{{ site.github.baseurl }}/assets/images/light/screenshot1.webp"
+                data-dark="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp"
+                src="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp" alt="Precious Metals Manager">
         </div>
+        <div class="appInfo">
+            <div class="appDescriptionContainer">
+                <p class="appDescription">
+                    {{ site.app_description }}
+                </p>
+            </div>
+            <div class="appSloganContainer">
+                <p class="appSlogan">
+                    Empowering your portfolio management.
+                </p>
+            </div>
+            <div class="downloadButtonsContainer">
+                {% if site.playstore_link %}
+                <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore"
+                        src="assets/playstore.png"></a>
+                {% endif %}
+                <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStoreQR"
+                        src="assets/appstoreQR.svg" alt="Precious Metals Manager QR code"></a>
+            </div>
+        </div>
+        {% include appstoreimages.html %}
     </div>
+    {% include features.html %}
+    {% include_cached footer.html %}
     <script defer src="assets/js/darkmode.js"></script>
 </body>
 
