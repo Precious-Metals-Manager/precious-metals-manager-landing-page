@@ -1,0 +1,80 @@
+---
+layout: page
+title: Help Center
+include_in_header: true
+---
+
+
+<style>
+    .articles-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .articles-list li {
+        padding: 10px 0;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .articles-list li:last-child {
+        border-bottom: none;
+    }
+
+    .articles-list a {
+        text-decoration: none;
+        color: var(--primary-color);
+    }
+
+    .articles-list a:hover {
+        text-decoration: underline;
+    }
+
+    .help-content .articles-list {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .help-content {
+        padding: 0;
+        margin: 0;
+    }
+</style>
+
+<div class="markdown-body">
+    <h1>{{page.title}}</h1>
+    <p>
+        Precious Metals Manager app requires iOS 16 or greater. We are no longer supporting iOS 15.
+        Please update to the latest iOS version to continue receiving updates and support.
+    </p>
+    <section class="help-content">
+        <h2>Getting Started</h2>
+        <ul class="articles-list">
+            {% for article in site.getting-started %}
+            <li>
+                🔗 <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="help-content">
+        <h2>Backup & Restore</h2>
+        <ul class="articles-list">
+            {% for article in site.backup-and-restore %}
+            <li>
+                🔗 <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="help-content">
+        <h2>Other Features</h2>
+        <ul class="articles-list">
+            {% for article in site.other-features %}
+            <li>
+                🔗 <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+</div>

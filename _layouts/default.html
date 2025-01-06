@@ -9,9 +9,11 @@
             <div class="container bodyContainer">
                 {% include_cached header.html %}
                 <div class="iphonePreview">
-                    <img class="iphoneScreen" id="heroScreenshot"
-                        src="{{ site.github.baseurl }}/assets/screenshot/screenshot1.webp"
-                        alt="Precious Metals Manager Analytics">
+                    <img class="theme-image iphoneScreen" id="heroScreenshot"
+                        data-light="{{ site.github.baseurl }}/assets/images/light/screenshot1.webp"
+                        data-dark="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp"
+                        src="{{ site.github.baseurl }}/assets/images/dark/screenshot1dark.webp"
+                        alt="Precious Metals Manager">
                 </div>
                 <div class="appInfo">
                     <div class="appDescriptionContainer">
@@ -39,7 +41,7 @@
             {% include_cached footer.html %}
         </div>
     </div>
-    <script defer src="assets/js/darkmodehome.js"></script>
+    <script defer src="assets/js/darkmode.js"></script>
 </body>
 
 </html>
