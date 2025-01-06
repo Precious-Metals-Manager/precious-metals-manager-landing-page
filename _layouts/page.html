@@ -7,19 +7,15 @@
 
 {% include head.html %}
 
-<link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url }}" />
-
 <body>
-    <div class="subPageHeaderBackground">
-        <div class="container">
-            {% include_cached header.html %}
-            <article class="page">
-                {{ content }}
-            </article>
-        </div>
+    {% include_cached header.html %}
+    <div class="subPageContainer">
+        <article class="page">
+            {{ content }}
+        </article>
         {% include appstoreimages.html %}
-        {% include_cached footer.html %}
     </div>
+    {% include_cached footer.html %}
     <script defer src="../../assets/js/darkmode.js"></script>
 </body>
 

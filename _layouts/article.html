@@ -5,16 +5,13 @@
     .icon-svg {
         width: 20px;
         height: 20px;
-
         fill: var(--font-color);
     }
 
-    /* Center the container using flexbox */
     .image-container {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
         width: 100%;
         margin: 0;
     }
@@ -25,20 +22,16 @@
         align-items: center;
     }
 
-    /* Default size for smaller screens */
     .theme-image {
         width: 100%;
-        height: auto;
         max-width: 200px !important;
     }
 
     .under-construction-image {
         width: 100%;
-        height: auto;
         max-width: 200px !important;
     }
 
-    /* Adjust size for medium screens (tablets and up) */
     @media (min-width: 768px) {
         .theme-image {
             max-width: 250px !important;
@@ -49,7 +42,6 @@
         }
     }
 
-    /* Adjust size for large screens (desktops and up) */
     @media (min-width: 1200px) {
         .theme-image {
             max-width: 300px !important;
@@ -64,37 +56,35 @@
 {% include head.html %}
 
 <body>
-    <div class="subPageHeaderBackground">
-        <div class="container subPageContainer">
-            {% include_cached header.html %}
-            <article class="page markdown-body">
-                {% include breadcrumbs.html %}
-                {% if page.under_construction %}
-                <div class="construction-message">
-                    <h1>{{ page.title | default: "Page Under Construction" }}</h1>
-                    <p>
-                        {{ page.message | default: "We're working hard to bring you this content. Check back soon!" }}
-                    </p>
-                    <form action="{{ '/help' | relative_url }}" method="get">
-                        <button class="btn btn-warning btn-lg">Return to Help Center</button>
-                    </form>
-                </div>
-                <div class="under-construction-image-container">
-                    <img class="img-fluid under-construction-image"
-                        src="{{ page.dark_image | default: '/assets/images/under-construction-symbol-icon.webp' }}"
-                        alt="{{ page.alt_text | default: 'Under Construction' }}" />
-                </div>
-                {% else %}
-                <h1>{{ page.title }}</h1>
-                <div>
-                    {{ content }}
-                </div>
-                {% endif %}
-            </article>
-        </div>
-        {% include_cached appstoreimages.html %}
-        {% include_cached footer.html %}
+    {% include_cached header.html %}
+    <div class="subPageContainer">
+        <article class="page markdown-body">
+            {% include breadcrumbs.html %}
+            {% if page.under_construction %}
+            <div class="construction-message">
+                <h1>{{ page.title | default: "Page Under Construction" }}</h1>
+                <p>
+                    {{ page.message | default: "We're working hard to bring you this content. Check back soon!" }}
+                </p>
+                <form action="{{ '/help' | relative_url }}" method="get">
+                    <button class="btn btn-warning btn-lg">Return to Help Center</button>
+                </form>
+            </div>
+            <div class="under-construction-image-container">
+                <img class="img-fluid under-construction-image"
+                    src="{{ page.dark_image | default: '/assets/images/under-construction-symbol-icon.webp' }}"
+                    alt="{{ page.alt_text | default: 'Under Construction' }}" />
+            </div>
+            {% else %}
+            <h1>{{ page.title }}</h1>
+            <div>
+                {{ content }}
+            </div>
+            {% endif %}
+        </article>
     </div>
+    {% include_cached appstoreimages.html %}
+    {% include_cached footer.html %}
     <script defer src="../../assets/js/darkmode.js"></script>
 </body>
 

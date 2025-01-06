@@ -12,6 +12,7 @@ $primary-text-color: #000000;
 	--accent-color: #007aff;
 	--accent-button-color: #27201d;
 	--font-color: #27201d;
+	--font-highlight: #007aff;
 	--bg-color: white;
 	--hero-bg-color: #f0f1f2;
 	--heading-color: white;
@@ -19,6 +20,8 @@ $primary-text-color: #000000;
 	--footer-bg-color: #00334F;
 	--footer-social-color: black;
 	--footer-social-circle-color: #27201d;
+	--toggler-icon-color: #000000;
+	--pagination-button-bg-color: #E5E4E2;
 }
 
 [data-theme="dark"] {
@@ -34,6 +37,7 @@ $primary-text-color: #000000;
 	--footer-bg-color: #00334F;
 	--footer-social-color: black;
 	--footer-social-circle-color: #27201d;
+	--pagination-button-bg-color: #27201d;
 }
 
 html {
