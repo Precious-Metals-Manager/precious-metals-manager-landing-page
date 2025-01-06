@@ -76,10 +76,20 @@ exclude:
   - README.md
   - CNAME
 
+# Docs: https://jekyllrb.com/docs/collections/
 collections:
   pages:
     output: true
     permalink: /:path/
+  getting-started:
+    output: true
+    permalink: /help/:path/
+  backup-and-restore:
+    output: true
+    permalink: /help/:path/
+  other-features:
+    output: true
+    permalink: /help/:path/
 
 # Markdown rendering
 markdown: kramdown
