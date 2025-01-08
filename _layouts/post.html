@@ -58,6 +58,9 @@
     </div>
     {% include_cached appstoreimages.html %}
     {% include_cached footer.html %}
+    {% if jekyll.environment != 'development' %}
+    {% include cookie-consent.html %}
+    {% endif %}
     <script defer src="../../assets/js/darkmode.js"></script>
 </body>
 

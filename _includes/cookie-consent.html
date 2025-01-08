@@ -1,0 +1,113 @@
+<style>
+    #cookie-notice {
+        width: 100%;
+        background: #222;
+        color: rgba(255, 255, 255, 0.8);
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 2147483645;
+        box-sizing: border-box;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .cookie-notice-inner {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 24px 0;
+    }
+
+    .cookie-notice-description {
+        font-family: "CeraPRO-Regular", sans-serif, arial;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .cookie-consent-banner-actions {
+        padding-top: 12px;
+    }
+
+    #cookie-notice a {
+        box-sizing: border-box;
+        display: inline-block;
+        min-width: 164px;
+        padding: 11px 13px;
+        border-radius: 2px;
+        color: #FFF;
+        text-decoration: none;
+        text-align: center;
+        font-family: "CeraPRO-Regular", sans-serif, arial;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    @media (max-width: 767px) {
+        #cookie-notice span {
+            display: block;
+            padding-top: 3px;
+            margin-bottom: 1rem;
+        }
+
+        #cookie-notice a {
+            position: relative;
+            bottom: 4px;
+        }
+    }
+
+    .privacy-policy-button {
+        color: white !important;
+    }
+</style>
+
+
+<div id="cookie-notice">
+    <div class="cookie-notice-inner">
+        <span class="cookie-notice-description">We would like to use third party cookies to improve the functionality of this website.</span>
+        <div class="cookie-consent-banner-actions">
+            <a id="cookie-notice-accept" class="btn btn-success btn-sm">Approve</a>
+            <a href="/privacypolicy" class="btn btn-secondary btn-sm privacy-policy-button">More info</a>
+        </div>
+    </div>
+</div>
+<script>
+    function createCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name, "", -1);
+    }
+
+    if (readCookie('cookie-notice-dismissed') == 'true') {
+        {% include google-tag.js %}
+        document.getElementById('cookie-notice').style.display = 'none';
+    } else {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click", function () {
+        createCookie('cookie-notice-dismissed', 'true', 31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        {% include google-tag.js %}
+        location.reload();
+    });
+
+</script>
