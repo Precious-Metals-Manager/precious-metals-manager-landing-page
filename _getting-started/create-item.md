@@ -34,7 +34,7 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 * Mint (Optional): only avaiable if a preset is not selected.
 * Year (Optional)
 * Quantity
-* Weight: metal content exluding alloy in troy ounces or grams.
+* Metal Content: weight exluding alloy in troy ounces or grams.
 * Purity (aka fineness): it represents the karat as a ratio.
 * Wear (Optional): percentage of loss due to circulation. It's commonly used for junk silver.
 * Unit price (Optional)
@@ -52,6 +52,7 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 
 
 4) Tap on "Save" to register the item.
+
 5) Review your items.
 
 Once you have saved an item, you can review it from an "Order" or from the "Inventory" tab.
@@ -61,7 +62,7 @@ Once you have saved an item, you can review it from an "Order" or from the "Inve
    data_dark_1="/assets/images/dark/order_details_dark.webp"
    data_light_2="/assets/images/light/inventory_with_item_light.webp"
    data_dark_2="/assets/images/dark/inventory_with_item_dark.webp"
-   alt="Create item screen" %}
+   alt="Order details and inventory" %}
 
 The item screen shows all the details about the item.
 
@@ -70,4 +71,4 @@ The item screen shows all the details about the item.
    data_dark_1="/assets/images/dark/item_details_1_dark.webp"
    data_light_2="/assets/images/light/item_details_2_light.webp"
    data_dark_2="/assets/images/dark/item_details_2_dark.webp"
-   alt="Create item screen" %}
+   alt="Item details" %}
