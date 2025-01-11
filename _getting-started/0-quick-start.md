@@ -7,10 +7,10 @@ layout: article
 
 2. [Create an item](https://preciousmetalsmanager.com/help/create-item/)
 
-3. [Create a custom bullion preset](http://127.0.0.1:4000/help/create-bullion/)
+3. [Create a custom bullion preset](https://preciousmetalsmanager.com/help/create-bullion/)
 
-4. [Create a sale](http://127.0.0.1:4000/help/create-sale/)
+4. [Create a sale](https://preciousmetalsmanager.com/help/create-sale/)
 
-5. [Navigate inventory](http://127.0.0.1:4000/help/navigate-inventory/)
+5. [Navigate inventory](https://preciousmetalsmanager.com/help/navigate-inventory/)
 
-6. [Visualize portofio summary](http://127.0.0.1:4000/help/summary/)
+6. [Visualize portofio summary](https://preciousmetalsmanager.com/help/summary/)
