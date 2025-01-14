@@ -17,12 +17,12 @@ function updateImages(theme) {
 
 // Set Light Mode Icon
 function setLightIcon() {
-    document.getElementById("darkmodeImage").src = "../../assets/sun.svg";
+    document.getElementById("darkmodeImage").src = "/assets/images/sun.svg";
 }
 
 // Set Dark Mode Icon
 function setDarkIcon() {
-    document.getElementById("darkmodeImage").src = "../../assets/moon.svg";
+    document.getElementById("darkmodeImage").src = "/assets/images/moon.svg";
 }
 
 // Theme switch logic
