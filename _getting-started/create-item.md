@@ -9,7 +9,7 @@ The concept of "Item" in Precious Metals Manager represents a specific product, 
 
 When you make a purchase at a coin shop or from another individual, you are buying items that form part of an order.
 
-1) Tap on an order on the Orders tab.
+1) Tap on an order on the "Orders" tab.
 
 {% include theme-image.html
    data_light="/assets/images/light/orders_one_order_light.webp"
