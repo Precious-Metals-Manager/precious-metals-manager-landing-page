@@ -20,7 +20,7 @@ You can modify or delete orders after they are created. To learn how to create a
 {% include theme-image.html
    data_light="/assets/images/light/edit_and_delete_order_buttons_light.webp"
    data_dark="/assets/images/dark/edit_and_delete_order_buttons_dark.webp"
-   alt="Tap on edit or delete button" %}
+   alt="Edit or delete order buttons screen" %}
 
 3) In case of modification, the input screen for updating an existing order consists of:
 

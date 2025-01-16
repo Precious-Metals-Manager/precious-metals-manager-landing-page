@@ -25,24 +25,24 @@ You can modify or delete items after they are created. To learn how to create an
 {% include theme-image.html
    data_light="/assets/images/light/edit_and_delete_item_buttons_light.webp"
    data_dark="/assets/images/dark/edit_and_delete_item_buttons_dark.webp"
-   alt="Tap on edit or delete button" %}
+   alt="Edit or delete item buttons screen" %}
 
 4) In case of modification, the input screen for updating an existing item consists of:
 
 * Form Factor: Bar, Coin, Round
 * Metal: "Gold", "Silver", "Platinum", "Palladium". When "Silver" is selected, a "Junk Silver" toggle is shown that allows you to choose from one of the "Junk Silver" presets.
-* Coin (Optional): Select from one of the included presets, or create your own one.
-* Name (Optional): only avaiable if a preset is not selected. Only present when a preset is not selected.
-* Mint (Optional): only avaiable if a preset is not selected. Only present when a preset is not selected.
-* Year (Optional)
+* Coin: Select from one of the included presets, or create your own one.
+* Name: only avaiable if a preset is not selected. Only present when a preset is not selected.
+* Mint: only avaiable if a preset is not selected. Only present when a preset is not selected.
+* Year
 * Quantity
 * Metal Content: weight exluding alloy in troy ounces or grams. Only present when a preset is not selected.
 * Purity (aka fineness): it represents the karat as a ratio. Only present when a preset is not selected.
-* Wear (Optional): percentage of loss due to circulation. It's commonly used for junk silver. Only present when a preset is not selected.
-* Unit price (Optional)
-* Tax (Optional)
+* Wear: percentage of loss due to circulation. It's commonly used for junk silver. Only present when a preset is not selected.
+* Unit price
+* Tax
 * Spot Price
-* Note (Optional)
+* Note
 
 {% include theme-image.html
    data_light="/assets/images/light/edit_item_light.webp"
