@@ -17,7 +17,7 @@ layout: article
 * Dealer
 * Invoice number
 * Shipping cost
-* Order data
+* Order date
 * Note
 
 All fields are optional. If you skip them, the order will be creted as New Order with zero shipping cost and today's date. 

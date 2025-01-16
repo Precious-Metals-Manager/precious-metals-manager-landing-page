@@ -12,11 +12,11 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 1) Tap on an order on the "Orders" tab.
 
 {% include theme-image.html
-   data_light="/assets/images/light/orders_one_order_light.webp"
-   data_dark="/assets/images/dark/orders_one_order_dark.webp"
+   data_light="/assets/images/light/tap_on_order_light.webp"
+   data_dark="/assets/images/dark/tap_on_order_dark.webp"
    alt="Tap on order" %}
 
-2) Tap on "+ Add item" button on the top right.
+2) Tap on "+ Add item" button.
 
 {% include theme-image.html
    data_light="/assets/images/light/add_order_button_light.webp"
@@ -30,13 +30,13 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 * Form Factor: Bar, Coin, Round
 * Metal: "Gold", "Silver", "Platinum", "Palladium". When "Silver" is selected, a "Junk Silver" toggle is shown that allows you to choose from one of the "Junk Silver" presets.
 * Coin (Optional): Select from one of the included presets, or create your own one.
-* Name (Optional): only avaiable if a preset is not selected.
-* Mint (Optional): only avaiable if a preset is not selected.
+* Name (Optional): only avaiable if a preset is not selected. Only present when a preset is not selected.
+* Mint (Optional): only avaiable if a preset is not selected. Only present when a preset is not selected.
 * Year (Optional)
 * Quantity
-* Metal Content: weight exluding alloy in troy ounces or grams.
-* Purity (aka fineness): it represents the karat as a ratio.
-* Wear (Optional): percentage of loss due to circulation. It's commonly used for junk silver.
+* Metal Content: weight exluding alloy in troy ounces or grams. Only present when a preset is not selected.
+* Purity (aka fineness): it represents the karat as a ratio. Only present when a preset is not selected.
+* Wear (Optional): percentage of loss due to circulation. It's commonly used for junk silver. Only present when a preset is not selected.
 * Unit price (Optional)
 * Tax (Optional)
 * Spot Price: the market price at the time of the purchase. By default it's using the order date. Tap on "On order date" for manual input.
