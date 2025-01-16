@@ -37,6 +37,6 @@ You can modify or delete sales after they are created. To learn how to create a 
 {% include theme-image.html
    data_light="/assets/images/light/edit_sale_light.webp"
    data_dark="/assets/images/dark/edit_sale_dark.webp"
-   alt="Create sale screen" %}
+   alt="Edit sale screen" %}
 
 5) Update the desired fields and save.
