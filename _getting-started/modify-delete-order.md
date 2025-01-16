@@ -15,6 +15,8 @@ You can modify or delete orders after they are created. To learn how to create a
 
 2) Tap on "Edit" button on the top right for modifying an order, or the "Delete Order" button at the bottom of the page for deletion.
 
+> You can also delete orders from the "Orders" page by swiping left, long-pressing the order, or tapping the options button (three dots) and selecting "Edit Orders.
+
 {% include theme-image.html
    data_light="/assets/images/light/edit_and_delete_order_buttons_light.webp"
    data_dark="/assets/images/dark/edit_and_delete_order_buttons_dark.webp"
