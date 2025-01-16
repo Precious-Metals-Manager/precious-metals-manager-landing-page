@@ -16,14 +16,14 @@ When you make a purchase at a coin shop or from another individual, you are buyi
    data_dark="/assets/images/dark/orders_one_order_dark.webp"
    alt="Tap on order" %}
 
-2) Tap on "Add item" button on the top right.
+2) Tap on "+ Add item" button on the top right.
 
 {% include theme-image.html
    data_light="/assets/images/light/add_order_button_light.webp"
    data_dark="/assets/images/dark/add_order_button_dark.webp"
    alt="Add item button" %}
 
-> Alternatively, you can create an item from the list of orders by long-pressing on an order or from the list of order items screen.
+> Alternatively, you can create an item from the list of orders by long-pressing on an order.
 
 3) The input screen for registering a new item consists of:
 
