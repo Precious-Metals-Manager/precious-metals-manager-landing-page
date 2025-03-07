@@ -24,7 +24,7 @@ You can modify or delete orders after they are created. To learn how to create a
 
 3) In case of modification, the input screen for updating an existing order consists of:
 
-* Dealer
+* Seller
 * Invoice number
 * Shipping cost
 * Order date
