@@ -5,11 +5,13 @@ layout: article
 
 The concept of "Bullion" in Precious Metals Manager represents either a coin, bar or round.
 
-1) Tap on the Catalog tab.
+1) Tap on the Orders tab.
 
-2) Select metal (Gold, Silver, Patinum, or Palladium) and form factor (Coin, Bar, or Round).
+3) Tap on the book icon on the top left.
 
-3) Tap on the "+" button to open up the page to create a bullion preset.
+4) Select metal (Gold, Silver, Patinum, or Palladium) and form factor (Coin, Bar, Round, or Jewelry).
+
+5) Tap on the "+" button to open up the page to create a bullion preset.
 
 {% include theme-image.html
    data_light="/assets/images/light/catalog_light.webp"
@@ -23,7 +25,7 @@ Alternatively, you can create a bullion preset while [creating an item](https://
    data_dark="/assets/images/dark/create_item_bullion_selection_dark.webp"
    alt="Create item screen" %}
 
-4) The input screen for registering a new bullion consists of:
+6) The input screen for registering a new bullion consists of:
 
 * Name (Optional)
 * Mint (Optional)
@@ -38,9 +40,9 @@ Alternatively, you can create a bullion preset while [creating an item](https://
    data_dark="/assets/images/dark/create_bullion_dark.webp"
    alt="Create bullion screen" %}
 
-5) Tap on "Save" to register the bullion.
+7) Tap on "Save" to register the bullion.
 
-6) Review your bullion presets.
+8) Review your bullion presets.
 
 Once you have saved a bullion, you can selected as a preset when you create a new item and review it from the "Catalog" tab.
 
