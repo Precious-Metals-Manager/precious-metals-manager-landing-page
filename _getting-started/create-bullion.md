@@ -9,13 +9,18 @@ The concept of "Bullion" in Precious Metals Manager represents either a coin, ba
 
 3) Tap on the book icon on the top left.
 
+{% include theme-image.html
+   data_light="/assets/images/light/orders_presets_button_light.webp"
+   data_dark="/assets/images/dark/orders_presets_button_dark.webp"
+   alt="Catalog screen" %}
+
 4) Select metal (Gold, Silver, Patinum, or Palladium) and form factor (Coin, Bar, Round, or Jewelry).
 
 5) Tap on the "+" button to open up the page to create a bullion preset.
 
 {% include theme-image.html
-   data_light="/assets/images/light/catalog_light.webp"
-   data_dark="/assets/images/dark/catalog_dark.webp"
+   data_light="/assets/images/light/presets_light.webp"
+   data_dark="/assets/images/dark/presets_dark.webp"
    alt="Catalog screen" %}
 
 Alternatively, you can create a bullion preset while [creating an item](https://preciousmetalsmanager.com/help/create-item/). The metal and form factor are selected during the item creation process.
@@ -48,8 +53,8 @@ Once you have saved a bullion, you can selected as a preset when you create a ne
 
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/catalog_with_custom_bullion_light.webp"
-   data_dark_1="/assets/images/dark/catalog_with_custom_bullion_dark.webp"
+   data_light_1="/assets/images/light/presets_with_entry_light.webp"
+   data_dark_1="/assets/images/dark/presets_with_entry_dark.webp"
    data_light_2="/assets/images/light/bullion_details_light.webp"
    data_dark_2="/assets/images/dark/bullion_details_dark.webp"
    alt="Bullion details" %}
