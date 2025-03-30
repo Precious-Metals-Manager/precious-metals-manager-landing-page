@@ -12,7 +12,7 @@ The concept of "Bullion" in Precious Metals Manager represents either a coin, ba
 {% include theme-image.html
    data_light="/assets/images/light/orders_presets_button_light.webp"
    data_dark="/assets/images/dark/orders_presets_button_dark.webp"
-   alt="Catalog screen" %}
+   alt="Orders presets button" %}
 
 4) Select metal (Gold, Silver, Patinum, or Palladium) and form factor (Coin, Bar, Round, or Jewelry).
 
@@ -21,7 +21,7 @@ The concept of "Bullion" in Precious Metals Manager represents either a coin, ba
 {% include theme-image.html
    data_light="/assets/images/light/presets_light.webp"
    data_dark="/assets/images/dark/presets_dark.webp"
-   alt="Catalog screen" %}
+   alt="Bullion presets" %}
 
 Alternatively, you can create a bullion preset while [creating an item](https://preciousmetalsmanager.com/help/create-item/). The metal and form factor are selected during the item creation process.
 
