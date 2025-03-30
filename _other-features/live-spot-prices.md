@@ -20,3 +20,10 @@ The concept of "Live Spot Price" in Precious Metals Manager represents the curre
    data_light="/assets/images/light/historical_spot_price_light.webp"
    data_dark="/assets/images/dark/historical_spot_price_dark.webp"
    alt="Create bullion screen" %}
+
+3) You can also add an iOS widget to see live spot prices directly on your home screen. The widget updates automatically and allows you to track the latest market prices without opening the app. To add the widget, long-press on your home screen, tap the "+" button, search for "PM Manager," and select "Precious Metals Manager Widget".
+
+{% include theme-image.html
+   data_light="/assets/images/dark/spot_prices_widget_dark.webp"
+   data_dark="/assets/images/dark/spot_prices_widget_dark.webp"
+   alt="Create bullion screen" %}
