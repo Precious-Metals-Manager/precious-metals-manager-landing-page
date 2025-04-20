@@ -19,8 +19,8 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 2) Tap on "+ Add item" button.
 
 {% include theme-image.html
-   data_light="/assets/images/light/add_order_button_light.webp"
-   data_dark="/assets/images/dark/add_order_button_dark.webp"
+   data_light="/assets/images/light/add_item_button_light.webp"
+   data_dark="/assets/images/dark/add_item_button_dark.webp"
    alt="Add item button" %}
 
 > Alternatively, you can create an item from the list of orders by long-pressing on an order.
