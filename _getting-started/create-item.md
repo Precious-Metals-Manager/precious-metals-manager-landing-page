@@ -60,11 +60,18 @@ Once you have saved an item, you can review it from an "Order" or from the "Inve
 {% include theme-two-images.html
    data_light_1="/assets/images/light/order_details_light.webp"
    data_dark_1="/assets/images/dark/order_details_dark.webp"
-   data_light_2="/assets/images/light/inventory_with_item_light.webp"
-   data_dark_2="/assets/images/dark/inventory_with_item_dark.webp"
+   data_light_2="/assets/images/light/order_items_light.webp"
+   data_dark_2="/assets/images/dark/order_items_dark.webp"
    alt="Order details and inventory" %}
 
-The item screen shows all the details about the item.
+or from the "Inventory" tab.
+
+{% include theme-image.html
+   data_light="/assets/images/light/inventory_with_item_light.webp"
+   data_dark="/assets/images/dark/inventory_with_item_dark.webp"
+   alt="Add item button" %}
+
+The item screen shows all the details about the item. Additinally, you can attach up to two photos, mark the item as verified or add sales.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/item_details_1_light.webp"
