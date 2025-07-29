@@ -12,7 +12,7 @@ App Lock adds an extra layer of security by requiring Face ID, Touch ID, or a pa
 {% include theme-image.html
 data_light="/assets/images/light/tools_settings_light.webp"
 data_dark="/assets/images/dark/tools_settings_dark.webp"
-alt="Summary settings button" %}
+alt="Tools settings button" %}
 
 2) Scroll down and tap on App Lock.
 
