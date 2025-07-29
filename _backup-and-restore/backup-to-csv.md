@@ -49,9 +49,16 @@ Each row in the CSV represents a specific transaction involving a bullion item.
 
 Follow these steps inside the app:
 
-1. Tap "Tools" tab and then tap on "Settings". Finally scroll down until you see the "BACKUP" section and tap on Export data to CSV.
+1. **Go to Settings**
+   Tap the settings button on the "Tools" tab or on the sidebar if you are using the app from an iPad or Mac.
 
-2. Select the location where the CSV file will be saved.
+2. **Scroll to the “Backup” section**
+   This is where you'll find all import/export options.
+
+3. **Tap “Export Data to CSV**
+   Look for the option labeled **“Export data to CSV**.
+
+4. Select the location where the CSV file will be saved.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/tools_settings_light.webp"
