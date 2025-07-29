@@ -41,6 +41,7 @@ All fields are optional. If you skip them, the order will be creted as New Order
 * Type (Dealer, Individual, Refiner)
 * Name (required)
 * Website/Forum link
+* Add tags
 
 {% include theme-image.html
    data_light="/assets/images/light/create_seller_light.webp"
