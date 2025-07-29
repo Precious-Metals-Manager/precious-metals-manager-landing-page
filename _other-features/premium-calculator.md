@@ -6,8 +6,8 @@ layout: article
 1) In the Tools tab, open the Premium Calculator by selecting 'Premium' under the 'Calculators' section.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_calculator_light.webp"
-   data_dark_1="/assets/images/dark/tools_calculator_dark.webp"
+   data_light_1="/assets/images/light/tools_premium_light.webp"
+   data_dark_1="/assets/images/dark/tools_premium_dark.webp"
    data_light_2="/assets/images/light/premium_calculator_light.webp"
    data_dark_2="/assets/images/dark/premium_calculator_dark.webp"
    alt="Create item screen" %}
