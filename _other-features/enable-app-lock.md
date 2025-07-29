@@ -7,11 +7,11 @@ App Lock adds an extra layer of security by requiring Face ID, Touch ID, or a pa
 
 ## How to Enable App Lock
 
-1) Open the Summary tab and tap the gear icon ⚙️ in the top-right corner to open Settings.
+1) Open the Tools tab and tap the Settings button.
 
 {% include theme-image.html
-data_light="/assets/images/light/summary_settings_button_light.webp"
-data_dark="/assets/images/dark/summary_settings_button_dark.webp"
+data_light="/assets/images/light/tools_settings_light.webp"
+data_dark="/assets/images/dark/tools_settings_dark.webp"
 alt="Summary settings button" %}
 
 2) Scroll down and tap on App Lock.
