@@ -65,7 +65,7 @@ Follow these steps inside the app:
    data_dark_1="/assets/images/dark/tools_settings_dark.webp"
    data_light_2="/assets/images/light/settings_export_to_csv_light.webp"
    data_dark_2="/assets/images/dark/settings_export_to_csv_dark.webp"
-   alt="Sale details screens" %}
+   alt="Export to CSV from settings screen" %}
 
 ---
 
@@ -107,5 +107,7 @@ You can use the exported file to:
 ## 🎉 You're Ready to Export!
 
 Exporting your data is a powerful way to stay organized and informed about your precious metals portfolio. Whether you're a casual collector or a serious investor, CSV export makes your data more portable and useful.
+
+---
 
 Have questions or feedback? Reach out via the app’s Send feedback section!

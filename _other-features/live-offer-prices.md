@@ -33,7 +33,7 @@ When you open the **Offer Prices** screen, you’ll see:
    data_dark_1="/assets/images/dark/tools_offer_prices_dark.webp"
    data_light_2="/assets/images/light/offer_prices_light.webp"
    data_dark_2="/assets/images/dark/offer_prices_dark.webp"
-   alt="Sale details screens" %}
+   alt="Live offer prices" %}
 
 Each row shows:
 
@@ -79,5 +79,7 @@ This view is ideal for:
 ## 🎉 You’re Now an Offer Prices Pro
 
 The **Offer Prices** view makes it easy to stay informed with up-to-date retail prices for your metals — no manual refreshes, no guesswork. Just open the view and get clarity in seconds.
+
+---
 
 Have questions or feedback? Reach out via the app’s Send feedback section!

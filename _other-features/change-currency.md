@@ -41,7 +41,7 @@ By default, the app uses your **device's system currency**. But you may want to 
    data_dark_1="/assets/images/dark/tools_settings_dark.webp"
    data_light_2="/assets/images/light/settings_change_currency_light.webp"
    data_dark_2="/assets/images/dark/settings_change_currency_dark.webp"
-   alt="Sale details screens" %}
+   alt="Change currency settings screen" %}
 
 ---
 
@@ -76,5 +76,7 @@ Once you’ve selected a currency, it will be applied across:
 ## 🎉 That’s It!
 
 Switching currencies in Precious Metals Manager is quick, simple, and powerful. Set your preferred currency and manage your collection with confidence.
+
+---
 
 Have questions or feedback? Reach out via the app’s Send feedback section!

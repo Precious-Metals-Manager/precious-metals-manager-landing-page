@@ -88,7 +88,7 @@ If you’ve exported your data and attachments, you can restore them anytime:
    data_dark_1="/assets/images/dark/tools_settings_dark.webp"
    data_light_2="/assets/images/light/settings_import_from_json_light.webp"
    data_dark_2="/assets/images/dark/settings_import_from_json_dark.webp"
-   alt="Sale details screens" %}
+   alt="Export/Import to/from JSON from settings screen" %}
 
 ---
 
@@ -110,5 +110,7 @@ Yes — your data never leaves your device unless you explicitly export it. All 
 ## 🎉 That’s It!
 
 You now know how to export and secure your entire precious metals portfolio using the JSON format. Whether you're a casual collector or a serious investor, this feature ensures your records are safe, portable, and future-proof.
+
+---
 
 Have questions or feedback? Reach out via the app’s Send feedback section!

@@ -150,4 +150,6 @@ Combine Spot Prices with:
 
 Now that you know how to use the **Live Spot Prices** view, you’re better equipped to stay informed, make smarter moves, and get the most out of your metals portfolio.
 
+---
+
 Have questions or feedback? Reach out via the app’s Send feedback section!
