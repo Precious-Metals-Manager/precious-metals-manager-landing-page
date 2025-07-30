@@ -20,7 +20,7 @@ The **Gold to Silver Ratio** chart helps you compare the relative value of gold 
    data_dark_1="/assets/images/dark/tools_gold_silver_ratio_dark.webp"
    data_light_2="/assets/images/light/gold_silver_ratio_light.webp"
    data_dark_2="/assets/images/dark/gold_silver_ratio_dark.webp"
-   alt="Spot prices" %}
+   alt="Gold to silver ratio from settings" %}
 
 ### 📈 What You’ll See
 
