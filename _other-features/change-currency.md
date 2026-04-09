@@ -10,7 +10,7 @@ Here’s how to **change the app’s currency setting** and what to expect when 
 
 ---
 
-## 🌍 Why Change Currency?
+## Why Change Currency?
 
 By default, the app uses your **device's system currency**. But you may want to change it if:
 
@@ -21,7 +21,7 @@ By default, the app uses your **device's system currency**. But you may want to 
 
 ---
 
-## 🧭 How to Change the Currency
+## How to Change the Currency
 
 1. **Go to Settings**
    Tap the settings button on the "Tools" tab or on the sidebar if you are using the app from an iPad or Mac.
@@ -37,15 +37,15 @@ By default, the app uses your **device's system currency**. But you may want to 
 
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_settings_light.webp"
-   data_dark_1="/assets/images/dark/tools_settings_dark.webp"
-   data_light_2="/assets/images/light/settings_change_currency_light.webp"
-   data_dark_2="/assets/images/dark/settings_change_currency_dark.webp"
+   data_light_1="/assets/images/light/shared/tools_settings_light.webp"
+   data_dark_1="/assets/images/dark/shared/tools_settings_dark.webp"
+   data_light_2="/assets/images/light/other-features/change-currency/settings_change_currency_light.webp"
+   data_dark_2="/assets/images/dark/other-features/change-currency/settings_change_currency_dark.webp"
    alt="Change currency settings screen" %}
 
 ---
 
-## 🔄 How to Reset to System Currency
+## How to Reset to System Currency
 
 Changed your mind? To return to your **system default**:
 
@@ -54,26 +54,26 @@ Changed your mind? To return to your **system default**:
 
 ---
 
-## 🧾 Where the New Currency Will Appear
+## Where the New Currency Will Appear
 
 Once you’ve selected a currency, it will be applied across:
 
-* 💰 Spot price views
-* 📈 Premium calculators
-* 🧾 Item details and summaries
-* 📊 Reports and export files
-* 🛒 Orders and sales
+* Spot price views
+* Premium calculators
+* Item details and summaries
+* Reports and export files
+* Orders and sales
 
 ---
 
-## 📌 Important Notes
+## Important Notes
 
 * The app **does not convert historical data**. It only updates how values are *displayed*.
 * Prices you entered manually will remain unchanged — only the currency symbol and formatting are updated.
 
 ---
 
-## 🎉 That’s It!
+## That’s It!
 
 Switching currencies in Precious Metals Manager is quick, simple, and powerful. Set your preferred currency and manage your collection with confidence.
 

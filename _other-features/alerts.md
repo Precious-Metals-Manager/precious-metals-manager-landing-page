@@ -9,7 +9,7 @@ Here’s how to use this feature and what it can help you do.
 
 ---
 
-## 📌 What Is It For?
+## What Is It For?
 
 Alerts are ideal if you want to:
 
@@ -20,7 +20,7 @@ Alerts are ideal if you want to:
 
 ---
 
-## 🛠️ How to Set Up Alerts
+## How to Set Up Alerts
 
 1. **Go to Tools → Alerts**
    Tap on the **Tools** tab in the bottom navigation bar, then select **Alerts** to view or manage your notifications.
@@ -35,15 +35,15 @@ Alerts are ideal if you want to:
    * **Metal Ratio** — Monitor the price ratio between two metals
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_alerts_light.webp"
-   data_dark_1="/assets/images/dark/tools_alerts_dark.webp"
-   data_light_2="/assets/images/light/alerts_create_light.webp"
-   data_dark_2="/assets/images/dark/alerts_create_dark.webp"
+   data_light_1="/assets/images/light/other-features/alerts/tools_alerts_light.webp"
+   data_dark_1="/assets/images/dark/other-features/alerts/tools_alerts_dark.webp"
+   data_light_2="/assets/images/light/other-features/alerts/alerts_create_light.webp"
+   data_dark_2="/assets/images/dark/other-features/alerts/alerts_create_dark.webp"
    alt="Create Alerts" %}
 
 ---
 
-### 🟡 Spot Price Alert
+### Spot Price Alert
 
 1. **Select Metal**
    Choose from Gold, Silver, and other supported metals.
@@ -62,13 +62,13 @@ Alerts are ideal if you want to:
 
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_spot_price_light.webp"
-   data_dark="/assets/images/dark/alerts_spot_price_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_spot_price_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_spot_price_dark.webp"
    alt="Create spot price alert" %}
 
 ---
 
-### ⚖️ Metal Ratio Alert
+### Metal Ratio Alert
 
 1. **Select Base and Counter Metal**
    For example, **Gold to Silver**.
@@ -86,13 +86,13 @@ Alerts are ideal if you want to:
    Your alert will be saved and start monitoring immediately.
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_metal_ratio_light.webp"
-   data_dark="/assets/images/dark/alerts_metal_ratio_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_metal_ratio_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_metal_ratio_dark.webp"
    alt="Create metal ratio alert" %}
 
 ---
 
-## 🔄 How to Refresh Alerts
+## How to Refresh Alerts
 
 Need to ensure your data is up-to-date?
 
@@ -101,7 +101,7 @@ Need to ensure your data is up-to-date?
 
 ---
 
-## 🧾 Understanding the Alert List
+## Understanding the Alert List
 
 After creating alerts, you’ll see them organized by type:
 
@@ -112,17 +112,17 @@ After creating alerts, you’ll see them organized by type:
 If no alerts exist, you'll see a message encouraging you to create one.
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_list_light.webp"
-   data_dark="/assets/images/dark/alerts_list_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_list_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_list_dark.webp"
    alt="Alerts list" %}
 
 ---
 
-## 📱 Push Notifications
+## Push Notifications
 
 {% include theme-image.html
-   data_light="/assets/images/light/alert_notification_light.webp"
-   data_dark="/assets/images/dark/alert_notification_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alert_notification_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alert_notification_dark.webp"
    alt="Alert notification" %}
 
 * Alerts use push notifications to notify you when your conditions are met.
@@ -131,7 +131,7 @@ If no alerts exist, you'll see a message encouraging you to create one.
 
 ---
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 
 * Alerts are informational only — **not investment advice**.
 * Live prices and ratios are updated regularly but may not be instant.
@@ -139,7 +139,7 @@ If no alerts exist, you'll see a message encouraging you to create one.
 
 ---
 
-## 🎉 That’s It!
+## That’s It!
 
 The **Alerts** feature gives you peace of mind by tracking your price and ratio targets for you. Whether you're planning a buy, sale, or trade, alerts keep you one step ahead — hands-free.
 

@@ -9,7 +9,7 @@ Here’s how to use this feature and what it can help you do.
 
 ---
 
-## ⚖️ What Is It For?
+## What Is It For?
 
 The Purity Value Calculator is perfect if you want to:
 
@@ -20,7 +20,7 @@ The Purity Value Calculator is perfect if you want to:
 
 ---
 
-## 🔢 How to Use the Calculator
+## How to Use the Calculator
 
 1. **Go to Tools → Purity Value Calculator**
    Tap on the **Tools** tab, then scroll to the **Calculators** section and select **Purity**.
@@ -45,15 +45,15 @@ The Purity Value Calculator is perfect if you want to:
    * Melt value based on live spot price
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_purity_value_calculator_light.webp"
-   data_dark_1="/assets/images/dark/tools_purity_value_calculator_dark.webp"
-   data_light_2="/assets/images/light/purity_value_calculator_light.webp"
-   data_dark_2="/assets/images/dark/purity_value_calculator_dark.webp"
+   data_light_1="/assets/images/light/other-features/purity-value-calculator/tools_purity_value_calculator_light.webp"
+   data_dark_1="/assets/images/dark/other-features/purity-value-calculator/tools_purity_value_calculator_dark.webp"
+   data_light_2="/assets/images/light/other-features/purity-value-calculator/purity_value_calculator_light.webp"
+   data_dark_2="/assets/images/dark/other-features/purity-value-calculator/purity_value_calculator_dark.webp"
    alt="Purity value calculator" %}
 
 ---
 
-## 🧹 How to Reset All Fields
+## How to Reset All Fields
 
 Need to start fresh?
 
@@ -62,7 +62,7 @@ Need to start fresh?
 
 ---
 
-## 💡 Tips & Notes
+## Tips & Notes
 
 * Spot prices update automatically and reflect your **selected currency**.
 * The calculator does **not account for wear, refining losses, or dealer fees** — use it as a base valuation.
@@ -70,17 +70,17 @@ Need to start fresh?
 
 ---
 
-## 🚀 Pro Features
+## Pro Features
 
 Upgrade to **Pro** to unlock:
 
 * Manual entry for custom purities
-* Support for more weight units
-* Advanced batch calculations
+* Switching between metals
+* Switching between troy ounces and grams
 
 ---
 
-## 🎉 That’s It!
+## That’s It!
 
 The **Purity Value Calculator** is a fast, flexible way to calculate melt value on the go. Whether you're evaluating a purchase or pricing a sale, it's a must-have tool in your precious metals toolbox.
 

@@ -1,60 +1,61 @@
 ---
 title: Create a bullion preset
 layout: article
+order: 3
 ---
 
 The concept of "Bullion" in Precious Metals Manager represents either a coin, bar or round.
 
-1) Tap on the Orders tab.
-
-3) Tap on the book icon on the top left.
+1) Tap on the "Presets" tab.
 
 {% include theme-image.html
-   data_light="/assets/images/light/orders_presets_button_light.webp"
-   data_dark="/assets/images/dark/orders_presets_button_dark.webp"
-   alt="Orders presets button" %}
+   data_light="/assets/images/light/getting-started/create-bullion/presets_light.webp"
+   data_dark="/assets/images/dark/getting-started/create-bullion/presets_dark.webp"
+   alt="Presets" %}
 
-4) Select metal (Gold, Silver, Patinum, or Palladium) and form factor (Coin, Bar, Round, or Jewelry).
-
-5) Tap on the "+" button to open up the page to create a bullion preset.
+2) Tap on the "+" button to open up the page to create a bullion preset.
 
 {% include theme-image.html
-   data_light="/assets/images/light/presets_light.webp"
-   data_dark="/assets/images/dark/presets_dark.webp"
+   data_light="/assets/images/light/getting-started/create-bullion/presets_bullions_light.webp"
+   data_dark="/assets/images/dark/getting-started/create-bullion/presets_bullions_dark.webp"
    alt="Bullion presets" %}
 
 Alternatively, you can create a bullion preset while [creating an item](https://preciousmetalsmanager.com/help/create-item/). The metal and form factor are selected during the item creation process.
 
-{% include theme-image.html
-   data_light="/assets/images/light/create_item_bullion_selection_light.webp"
-   data_dark="/assets/images/dark/create_item_bullion_selection_dark.webp"
-   alt="Create item screen" %}
+{% include theme-two-images.html
+   data_light_1="/assets/images/light/getting-started/create-bullion/create_item_bullion_selection_light.webp"
+   data_dark_1="/assets/images/dark/getting-started/create-bullion/create_item_bullion_selection_dark.webp"
+   data_light_2="/assets/images/light/getting-started/create-bullion/bullion_selection_light.webp"
+   data_dark_2="/assets/images/dark/getting-started/create-bullion/bullion_selection_dark.webp"
+   alt="Presets Bullions" %}
 
-6) The input screen for registering a new bullion consists of:
+3) The input screen for registering a new bullion consists of:
 
 * Name (Optional)
 * Mint (Optional)
-* Purity (aka fineness): it represents the karat as a ratio.
+* Purity (aka fineness): represents the karat as a ratio. For Gold or Silver jewelry, shown as a picker (e.g. 24K, Sterling).
 * Wear (Optional): percentage of loss due to circulation. It's commonly used for junk silver.
-* Metal Content: weight exluding alloy in troy ounces or grams.
+* Metal Content: weight excluding alloy in troy ounces or grams.
+* Finish (Optional): Bullion, Brilliant Uncirculated, Proof, or Colorized. Not shown for Jewelry.
+* Face Value (Optional): nominal face value of the coin or bar.
+* Face Value Currency (Optional): currency of the face value (e.g. USD).
 
 > Creating an item without selecting a bullion preset automatically creates a bullion using the item's attributes.
 
 {% include theme-image.html
-   data_light="/assets/images/light/create_bullion_light.webp"
-   data_dark="/assets/images/dark/create_bullion_dark.webp"
+   data_light="/assets/images/light/getting-started/create-bullion/create_bullion_light.webp"
+   data_dark="/assets/images/dark/getting-started/create-bullion/create_bullion_dark.webp"
    alt="Create bullion screen" %}
 
-7) Tap on "Save" to register the bullion.
+4) Tap on "Save" to register the bullion.
 
-8) Review your bullion presets.
+5) Review your bullion presets.
 
-Once you have saved a bullion, you can selected as a preset when you create a new item and review it from the "Catalog" tab.
-
+Once you have saved a bullion, you can select it as a preset when you create a new item and review it from the "Presets" tab.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/presets_with_entry_light.webp"
-   data_dark_1="/assets/images/dark/presets_with_entry_dark.webp"
-   data_light_2="/assets/images/light/bullion_details_light.webp"
-   data_dark_2="/assets/images/dark/bullion_details_dark.webp"
+   data_light_1="/assets/images/light/getting-started/shared/presets_with_entry_light.webp"
+   data_dark_1="/assets/images/dark/getting-started/shared/presets_with_entry_dark.webp"
+   data_light_2="/assets/images/light/getting-started/shared/bullion_details_light.webp"
+   data_dark_2="/assets/images/dark/getting-started/shared/bullion_details_dark.webp"
    alt="Bullion details" %}
