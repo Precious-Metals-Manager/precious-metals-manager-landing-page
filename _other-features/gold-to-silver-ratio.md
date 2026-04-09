@@ -4,10 +4,6 @@ layout: article
 under_construction: false
 ---
 
-Here’s a user-friendly, tutorial-style write-up that explains how to access and use the **Gold to Silver Ratio** chart in the Precious Metals Manager app, based on your SwiftUI implementation and the screenshot:
-
----
-
 The **Gold to Silver Ratio** chart helps you compare the relative value of gold and silver over time. It shows how many ounces of silver are needed to buy one ounce of gold. When the ratio is high, silver may be undervalued—some investors see this as a buying opportunity.
 
 ### 🔍 How to Access This Screen

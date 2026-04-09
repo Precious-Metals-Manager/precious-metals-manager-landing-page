@@ -6,7 +6,7 @@ under_construction: false
 
 ## 🔄 Rolling Correlation
 
-The **Rolling Correlation** chart lets you measure how closely gold and Bitcoin (BTC) prices move together over time. This tool can help you spot changes in market behavior, diversification opportunities, and hidden trends.
+The **Rolling Correlation** chart lets you measure how closely a precious metal and a market asset move together over time. This tool can help you spot changes in market behavior, diversification opportunities, and hidden trends.
 
 ### 🧭 How to Access This Screen
 
@@ -35,7 +35,9 @@ At the top of the screen, you'll find:
 
 ### 📊 Understanding the Chart
 
-The line chart shows how the correlation between **Gold** and **BTC** has changed over time:
+Use the toolbar to select the **metal** (Gold, Silver, or Platinum) and the **comparison asset** (S&P 500, Bitcoin, or Ethereum).
+
+The line chart shows how the correlation between the selected metal and asset has changed over time:
 
 * A value near **+100%** means the assets moved together closely.
 * A value near **–100%** means they moved in opposite directions.
@@ -49,9 +51,9 @@ You can **tap and drag** on the chart to see the correlation at specific dates. 
 
 Correlation data helps you:
 
-* Understand if gold and BTC prices tend to move together.
-* Evaluate diversification—low correlation might reduce portfolio risk.
-* Spot changing dynamics in the relationship between traditional and digital assets.
+* Understand if your selected metal and asset tend to move together.
+* Evaluate diversification — low correlation might reduce portfolio risk.
+* Spot changing dynamics in the relationship between metals and other markets.
 
 ---
 

@@ -75,8 +75,8 @@ Need to start fresh?
 Upgrade to **Pro** to unlock:
 
 * Manual entry for custom purities
-* Support for more weight units
-* Advanced batch calculations
+* Switching between metals
+* Switching between troy ounces and grams
 
 ---
 

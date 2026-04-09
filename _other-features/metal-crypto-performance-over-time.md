@@ -4,7 +4,7 @@ layout: article
 under_construction: false
 ---
 
-Compare how your favorite metal performs against Bitcoin (BTC) or Ethereum (ETH) over time. This chart visualizes percentage changes side-by-side so you can spot trends, evaluate potential, and make informed decisions.
+Compare how a precious metal performs against a market asset (S&P 500, Bitcoin, or Ethereum) over time. This chart visualizes percentage changes side-by-side so you can spot trends, evaluate potential, and make informed decisions.
 
 ### 🧭 How to Access This Screen
 
@@ -43,15 +43,15 @@ These are available to **Pro users only**. If you’re not a subscriber, you’l
 
 * The chart below shows the percentage change for each asset (metal and crypto) over time.
 * **Blue line**: The selected metal (e.g. Gold)
-* **Green line**: The selected crypto (e.g. BTC or ETH)
+* **Green line**: The selected comparison asset (e.g. S&P 500, BTC, or ETH)
 * Y-axis labels are formatted as percentages to help you quickly spot outperformance.
 
 ### ⚙️ Customize Your Comparison
 
-Tap the **••• menu** in the top-right to change:
+Use the toolbar to change:
 
-* **Metal**: Choose from gold, silver, platinum, or palladium.
-* **Crypto**: Switch between BTC and ETH.
+* **Metal**: Gold, Silver, or Platinum.
+* **Comparison asset**: S&P 500, Bitcoin (BTC), or Ethereum (ETH).
 
 ### 📝 About the Chart
 

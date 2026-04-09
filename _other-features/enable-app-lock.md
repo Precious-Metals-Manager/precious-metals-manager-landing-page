@@ -29,3 +29,5 @@ data_dark="/assets/images/dark/other-features/enable-app-lock/app_lock_dark.webp
 alt="App Lock toggle in settings" %}
 
 Once enabled, authentication is required only when reopening the app from a fully closed state.
+
+> App Lock is a Pro feature.
