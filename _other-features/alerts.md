@@ -9,7 +9,7 @@ Here’s how to use this feature and what it can help you do.
 
 ---
 
-## 📌 What Is It For?
+## What Is It For?
 
 Alerts are ideal if you want to:
 
@@ -20,7 +20,7 @@ Alerts are ideal if you want to:
 
 ---
 
-## 🛠️ How to Set Up Alerts
+## How to Set Up Alerts
 
 1. **Go to Tools → Alerts**
    Tap on the **Tools** tab in the bottom navigation bar, then select **Alerts** to view or manage your notifications.
@@ -43,7 +43,7 @@ Alerts are ideal if you want to:
 
 ---
 
-### 🟡 Spot Price Alert
+### Spot Price Alert
 
 1. **Select Metal**
    Choose from Gold, Silver, and other supported metals.
@@ -68,7 +68,7 @@ Alerts are ideal if you want to:
 
 ---
 
-### ⚖️ Metal Ratio Alert
+### Metal Ratio Alert
 
 1. **Select Base and Counter Metal**
    For example, **Gold to Silver**.
@@ -92,7 +92,7 @@ Alerts are ideal if you want to:
 
 ---
 
-## 🔄 How to Refresh Alerts
+## How to Refresh Alerts
 
 Need to ensure your data is up-to-date?
 
@@ -101,7 +101,7 @@ Need to ensure your data is up-to-date?
 
 ---
 
-## 🧾 Understanding the Alert List
+## Understanding the Alert List
 
 After creating alerts, you’ll see them organized by type:
 
@@ -118,7 +118,7 @@ If no alerts exist, you'll see a message encouraging you to create one.
 
 ---
 
-## 📱 Push Notifications
+## Push Notifications
 
 {% include theme-image.html
    data_light="/assets/images/light/other-features/alerts/alert_notification_light.webp"
@@ -131,7 +131,7 @@ If no alerts exist, you'll see a message encouraging you to create one.
 
 ---
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 
 * Alerts are informational only — **not investment advice**.
 * Live prices and ratios are updated regularly but may not be instant.
@@ -139,7 +139,7 @@ If no alerts exist, you'll see a message encouraging you to create one.
 
 ---
 
-## 🎉 That’s It!
+## That’s It!
 
 The **Alerts** feature gives you peace of mind by tracking your price and ratio targets for you. Whether you're planning a buy, sale, or trade, alerts keep you one step ahead — hands-free.
 

@@ -1,6 +1,7 @@
 ---
 title: Create an order
 layout: article
+order: 1
 ---
 
 > Orders must be created before adding items to your inventory.

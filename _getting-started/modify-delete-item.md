@@ -1,6 +1,7 @@
 ---
 title: Modify/delete item
 layout: article
+order: 8
 ---
 
 You can modify or delete items after they are created. To learn how to create an item, refer to the [Create an Item](https://preciousmetalsmanager.com/help/create-item/) guide.

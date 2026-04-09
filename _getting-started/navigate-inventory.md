@@ -1,6 +1,7 @@
 ---
 title: Navigate inventory
 layout: article
+order: 5
 ---
 
 The "Inventory" tab gives you a consolidated view of everything you own, grouped by bullion type. Each row shows the bullion name, mint, metal, form factor, and a stock indicator with the number of units still in stock out of the total purchased.

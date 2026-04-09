@@ -1,6 +1,7 @@
 ---
 title: Create a sale
 layout: article
+order: 4
 ---
 
 > An item is required before you can record a sale. Follow the [Create an Item](https://preciousmetalsmanager.com/help/create-item/) steps and come back if you haven't created an item yet.

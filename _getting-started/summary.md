@@ -1,6 +1,7 @@
 ---
 title: Portfolio summary
 layout: article
+order: 6
 ---
 
 The "Summary" tab is the first tab in the app and gives you a live overview of your entire portfolio: current valuation, acquisition cost breakdown, holdings per metal, and sales performance.

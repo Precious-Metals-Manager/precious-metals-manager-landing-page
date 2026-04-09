@@ -1,6 +1,7 @@
 ---
 title: Create a bullion preset
 layout: article
+order: 3
 ---
 
 The concept of "Bullion" in Precious Metals Manager represents either a coin, bar or round.

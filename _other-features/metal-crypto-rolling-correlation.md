@@ -4,11 +4,11 @@ layout: article
 under_construction: false
 ---
 
-## 🔄 Rolling Correlation
+## Rolling Correlation
 
 The **Rolling Correlation** chart lets you measure how closely a precious metal and a market asset move together over time. This tool can help you spot changes in market behavior, diversification opportunities, and hidden trends.
 
-### 🧭 How to Access This Screen
+### How to Access This Screen
 
 1. Open the app and tap the **Tools** tab at the bottom.
 2. Scroll down and tap **Rolling Correlation**.
@@ -22,7 +22,7 @@ The **Rolling Correlation** chart lets you measure how closely a precious metal 
 
 ---
 
-### 📈 What You’ll See
+### What You’ll See
 
 At the top of the screen, you'll find:
 
@@ -33,7 +33,7 @@ At the top of the screen, you'll find:
 
 ---
 
-### 📊 Understanding the Chart
+### Understanding the Chart
 
 Use the toolbar to select the **metal** (Gold, Silver, or Platinum) and the **comparison asset** (S&P 500, Bitcoin, or Ethereum).
 
@@ -47,7 +47,7 @@ You can **tap and drag** on the chart to see the correlation at specific dates. 
 
 ---
 
-### 🧠 Why Use This?
+### Why Use This?
 
 Correlation data helps you:
 

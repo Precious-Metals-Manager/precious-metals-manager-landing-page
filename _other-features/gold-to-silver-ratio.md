@@ -6,7 +6,7 @@ under_construction: false
 
 The **Gold to Silver Ratio** chart helps you compare the relative value of gold and silver over time. It shows how many ounces of silver are needed to buy one ounce of gold. When the ratio is high, silver may be undervalued—some investors see this as a buying opportunity.
 
-### 🔍 How to Access This Screen
+### How to Access This Screen
 
 1. Open the app and tap the **Tools** tab at the bottom.
 2. Scroll down and select **Gold to Silver Ratio**.
@@ -18,14 +18,14 @@ The **Gold to Silver Ratio** chart helps you compare the relative value of gold 
    data_dark_2="/assets/images/dark/other-features/gold-to-silver-ratio/gold_silver_ratio_dark.webp"
    alt="Gold to silver ratio from settings" %}
 
-### 📈 What You’ll See
+### What You’ll See
 
 * A dynamic chart showing the ratio’s trend over time.
 * The **current ratio** (NOW) on the right side.
 * The **change** in ratio (↑ or ↓) and percentage difference for the selected period.
 * A historical view starting from a date like "Jan 31, 2025" to "Now". The starting day will change based on the selected period range.
 
-### 🕒 Choose a Time Period
+### Choose a Time Period
 
 At the top of the chart, you can switch between different timeframes:
 
@@ -35,12 +35,12 @@ At the top of the chart, you can switch between different timeframes:
 
 These are available to **Pro users** only. If you're not subscribed, you’ll see a prompt to upgrade when trying to change the date range.
 
-### 📊 Chart Features
+### Chart Features
 
 * **Interactive chart**: Tap and hold the chart to explore the ratio at specific dates. The value and date update live as you move your finger.
 * **Color-coded change indicator**: The app shows green or red highlights depending on whether the ratio has increased or decreased.
 
-### 📘 About the Ratio (Below the Chart)
+### About the Ratio (Below the Chart)
 
 The bottom of the screen includes a detailed explanation of what the gold-silver ratio means, how it’s calculated, and why investors track it.
 

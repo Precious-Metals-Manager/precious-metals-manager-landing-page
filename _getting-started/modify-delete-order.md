@@ -1,6 +1,7 @@
 ---
 title: Modify/delete order
 layout: article
+order: 7
 ---
 
 You can modify or delete orders after they are created. To learn how to create an order, refer to the [Create an Order](https://preciousmetalsmanager.com/help/create-order/) guide.

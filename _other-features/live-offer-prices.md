@@ -10,7 +10,7 @@ Here’s a quick walkthrough of how to use this powerful view and what each elem
 
 ---
 
-## 🪙 What Are Offer Prices?
+## What Are Offer Prices?
 
 **Offer prices** reflect typical dealer asking prices — what you’d pay if buying from a reputable source. These are different from **spot prices**, which are market-based and don’t include retail markups.
 
@@ -22,11 +22,11 @@ This view lets you:
 
 ---
 
-## 👀 What You’ll See in the Offer Prices View
+## What You’ll See in the Offer Prices View
 
 When you open the **Offer Prices** screen, you’ll see:
 
-### 🔁 Live Price Rows (Per Metal)
+### Live Price Rows (Per Metal)
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/other-features/live-offer-prices/tools_offer_prices_light.webp"
@@ -43,11 +43,11 @@ Each row shows:
 | **Spot Price**  | The current market value (per ounce)            |
 | **Offer Price** | The typical dealer retail price (per ounce)     |
 
-🧮 These values help you calculate the **real-world premium**.
+These values help you calculate the **real-world premium**.
 
 ---
 
-## 🔍 What If There’s an Error?
+## What If There’s an Error?
 
 If live prices fail to load (due to internet issues or server delays), you’ll see:
 
@@ -58,7 +58,7 @@ You can also manually trigger an update by returning to the screen or adjusting 
 
 ---
 
-## 🌐 Currency Support
+## Currency Support
 
 Prices are shown in the currency you’ve selected in the app’s **Settings**. Supported currencies include USD, EUR, GBP, and more.
 
@@ -66,7 +66,7 @@ Prices are shown in the currency you’ve selected in the app’s **Settings**. 
 
 ---
 
-## 🧠 Why It’s Useful
+## Why It’s Useful
 
 This view is ideal for:
 
@@ -76,7 +76,7 @@ This view is ideal for:
 
 ---
 
-## 🎉 You’re Now an Offer Prices Pro
+## You’re Now an Offer Prices Pro
 
 The **Offer Prices** view makes it easy to stay informed with up-to-date retail prices for your metals — no manual refreshes, no guesswork. Just open the view and get clarity in seconds.
 

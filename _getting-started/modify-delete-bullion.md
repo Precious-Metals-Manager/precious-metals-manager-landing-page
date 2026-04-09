@@ -1,6 +1,7 @@
 ---
 title: Modify/delete bullion preset
 layout: article
+order: 9
 ---
 
 You can modify or delete bullion presets after they are created. To learn how to create a bullion preset, refer to the [Create a Bullion](https://preciousmetalsmanager.com/help/create-bullion/) guide.

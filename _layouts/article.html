@@ -8,6 +8,45 @@
         fill: var(--font-color);
     }
 
+    .reading-time {
+        color: #888;
+        font-size: 0.85em;
+        margin-top: -8px;
+        margin-bottom: 20px;
+    }
+
+    .markdown-body blockquote {
+        background-color: rgba(29, 99, 234, 0.07);
+        border-left: 4px solid #1d63ea;
+        border-radius: 4px;
+        padding: 10px 16px;
+        margin: 16px 0;
+        color: inherit;
+    }
+
+    .markdown-body blockquote p {
+        margin: 0;
+    }
+
+    .article-nav {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 48px;
+        padding-top: 20px;
+        border-top: 1px solid rgba(128, 128, 128, 0.2);
+        gap: 12px;
+    }
+
+    .article-nav a {
+        font-size: 0.9em;
+        max-width: 48%;
+    }
+
+    .article-nav-next {
+        margin-left: auto;
+        text-align: right;
+    }
+
     .image-container {
         display: flex;
         flex-wrap: wrap;
@@ -95,9 +134,28 @@
             </div>
             {% else %}
             <h1>{{ page.title }}</h1>
+            <p class="reading-time">{% include reading-time.html %}</p>
             <div>
                 {{ content }}
             </div>
+            {% if page.collection == 'getting-started' and page.order %}
+            {% assign gs_articles = site.getting-started | sort: 'order' %}
+            {% for article in gs_articles %}
+              {% if article.url == page.url %}
+                {% if forloop.index0 > 0 %}
+                  {% assign prev_idx = forloop.index0 | minus: 1 %}
+                  {% assign prev_article = gs_articles[prev_idx] %}
+                {% endif %}
+                {% unless forloop.last %}
+                  {% assign next_article = gs_articles[forloop.index] %}
+                {% endunless %}
+              {% endif %}
+            {% endfor %}
+            <nav class="article-nav">
+              {% if prev_article %}<a class="article-nav-prev" href="{{ prev_article.url }}">← {{ prev_article.title }}</a>{% endif %}
+              {% if next_article %}<a class="article-nav-next" href="{{ next_article.url }}">{{ next_article.title }} →</a>{% endif %}
+            </nav>
+            {% endif %}
             {% endif %}
         </article>
     </div>

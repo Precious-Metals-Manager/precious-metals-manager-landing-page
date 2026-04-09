@@ -1,6 +1,7 @@
 ---
 title: Create an item
 layout: article
+order: 2
 ---
 
 > An order is required before you can create an item. Follow the [Create an Order](https://preciousmetalsmanager.com/help/create-order/) steps and come back if you haven't created an order yet.

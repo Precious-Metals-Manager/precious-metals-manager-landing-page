@@ -9,7 +9,7 @@ Here’s a quick guide to help you make the most of this screen.
 
 ---
 
-## 🌍 What Are Spot Prices?
+## What Are Spot Prices?
 
 **Spot prices** reflect the current market value of precious metals — the price at which they are bought or sold “on the spot.” These prices change constantly based on:
 
@@ -23,7 +23,7 @@ Unlike dealer prices (which include premiums), spot prices show the **raw market
 ---
 
 
-## 🚪 How to Access the Live Spot Prices Screen
+## How to Access the Live Spot Prices Screen
 
 You can access the **Live Spot Prices** screen from anywhere in the app with just a few taps:
 
@@ -42,11 +42,11 @@ You’ll be taken to a screen showing current market prices, updated automatical
 
 ---
 
-## 👀 What You’ll See in the Spot Prices View
+## What You’ll See in the Spot Prices View
 
 When you open the Live Spot Prices screen, you’ll see:
 
-### 📊 One Row per Metal
+### One Row per Metal
 
 Each metal (Gold, Silver, Platinum, Palladium) shows:
 
@@ -61,20 +61,20 @@ Colors and arrows help you quickly see whether a metal is **up or down** today.
 
 ---
 
-## 📅 Tap to View Historical Prices
+## Tap to View Historical Prices
 
 Want to see how prices have moved over time?
 
-### 👉 Just tap on any metal's box to open a **historical price chart**.
+### Just tap on any metal's box to open a **historical price chart**.
 
 You’ll be able to:
 
-* 🗓 Select a **time period**:
+* Select a **time period**:
   • 1 Week (1W)
   • 1 Month (1M)
   • 3 Months (3M)
 
-* ⚖️ Choose your preferred **unit**:
+* Choose your preferred **unit**:
   • **Troy ounces (oz t)**
   • **Grams (g)**
 
@@ -85,7 +85,7 @@ This lets you analyze short-term trends and make smarter decisions about buying 
    data_dark="/assets/images/dark/other-features/live-spot-prices/historical_spot_price_dark.webp"
    alt="Historical spot prices" %}
 
-## 📱 Add a Widget to Your iOS Home Screen
+## Add a Widget to Your iOS Home Screen
 
 Track spot prices without even opening the app!
 
@@ -107,13 +107,13 @@ The widget will:
    data_dark="/assets/images/dark/spot_prices_widget_dark.webp"
    alt="Spot prices widget" %}
 
-## 🧭 Currency Support
+## Currency Support
 
 Spot prices are displayed in the **currency you selected** in app settings. Don’t worry — changing currency triggers an automatic refresh with correct prices in your selected unit.
 
 ---
 
-## 🧠 Why It Matters
+## Why It Matters
 
 Use Live Spot Prices to:
 
@@ -124,7 +124,7 @@ Use Live Spot Prices to:
 
 ---
 
-## 🛡️ Accuracy & Source
+## Accuracy & Source
 
 Prices are pulled from a trusted third-party provider and include:
 
@@ -136,17 +136,17 @@ While ideal for personal insights and tracking, these prices are not a substitut
 
 ---
 
-## 🧪 Pro Tip: Use With Other Tools
+## Pro Tip: Use With Other Tools
 
 Combine Spot Prices with:
 
-* 📦 **Premium Calculator** – to check over/under market
-* 💰 **Alerts** – to get notified when prices reach your targets
-* 🗂 **Inventory** – to see what your collection is worth at current rates
+* **Premium Calculator** – to check over/under market
+* **Alerts** – to get notified when prices reach your targets
+* **Inventory** – to see what your collection is worth at current rates
 
 ---
 
-## 🎉 You're All Set
+## You're All Set
 
 Now that you know how to use the **Live Spot Prices** view, you’re better equipped to stay informed, make smarter moves, and get the most out of your metals portfolio.
 
