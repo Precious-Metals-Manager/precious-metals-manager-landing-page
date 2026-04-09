@@ -34,10 +34,10 @@ You can access the **Live Spot Prices** screen from anywhere in the app with jus
 You’ll be taken to a screen showing current market prices, updated automatically.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_spot_prices_light.webp"
-   data_dark_1="/assets/images/dark/tools_spot_prices_dark.webp"
-   data_light_2="/assets/images/light/spot_prices_light.webp"
-   data_dark_2="/assets/images/dark/spot_prices_dark.webp"
+   data_light_1="/assets/images/light/other-features/live-spot-prices/tools_spot_prices_light.webp"
+   data_dark_1="/assets/images/dark/other-features/live-spot-prices/tools_spot_prices_dark.webp"
+   data_light_2="/assets/images/light/other-features/live-spot-prices/spot_prices_light.webp"
+   data_dark_2="/assets/images/dark/other-features/live-spot-prices/spot_prices_dark.webp"
    alt="Spot prices" %}
 
 ---
@@ -81,8 +81,8 @@ You’ll be able to:
 This lets you analyze short-term trends and make smarter decisions about buying or selling.
 
 {% include theme-image.html
-   data_light="/assets/images/light/historical_spot_price_light.webp"
-   data_dark="/assets/images/dark/historical_spot_price_dark.webp"
+   data_light="/assets/images/light/other-features/live-spot-prices/historical_spot_price_light.webp"
+   data_dark="/assets/images/dark/other-features/live-spot-prices/historical_spot_price_dark.webp"
    alt="Historical spot prices" %}
 
 ## 📱 Add a Widget to Your iOS Home Screen

@@ -37,10 +37,10 @@ By default, the app uses your **device's system currency**. But you may want to 
 
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_settings_light.webp"
-   data_dark_1="/assets/images/dark/tools_settings_dark.webp"
-   data_light_2="/assets/images/light/settings_change_currency_light.webp"
-   data_dark_2="/assets/images/dark/settings_change_currency_dark.webp"
+   data_light_1="/assets/images/light/shared/tools_settings_light.webp"
+   data_dark_1="/assets/images/dark/shared/tools_settings_dark.webp"
+   data_light_2="/assets/images/light/other-features/change-currency/settings_change_currency_light.webp"
+   data_dark_2="/assets/images/dark/other-features/change-currency/settings_change_currency_dark.webp"
    alt="Change currency settings screen" %}
 
 ---

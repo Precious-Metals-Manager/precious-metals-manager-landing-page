@@ -35,10 +35,10 @@ Alerts are ideal if you want to:
    * **Metal Ratio** — Monitor the price ratio between two metals
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_alerts_light.webp"
-   data_dark_1="/assets/images/dark/tools_alerts_dark.webp"
-   data_light_2="/assets/images/light/alerts_create_light.webp"
-   data_dark_2="/assets/images/dark/alerts_create_dark.webp"
+   data_light_1="/assets/images/light/other-features/alerts/tools_alerts_light.webp"
+   data_dark_1="/assets/images/dark/other-features/alerts/tools_alerts_dark.webp"
+   data_light_2="/assets/images/light/other-features/alerts/alerts_create_light.webp"
+   data_dark_2="/assets/images/dark/other-features/alerts/alerts_create_dark.webp"
    alt="Create Alerts" %}
 
 ---
@@ -62,8 +62,8 @@ Alerts are ideal if you want to:
 
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_spot_price_light.webp"
-   data_dark="/assets/images/dark/alerts_spot_price_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_spot_price_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_spot_price_dark.webp"
    alt="Create spot price alert" %}
 
 ---
@@ -86,8 +86,8 @@ Alerts are ideal if you want to:
    Your alert will be saved and start monitoring immediately.
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_metal_ratio_light.webp"
-   data_dark="/assets/images/dark/alerts_metal_ratio_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_metal_ratio_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_metal_ratio_dark.webp"
    alt="Create metal ratio alert" %}
 
 ---
@@ -112,8 +112,8 @@ After creating alerts, you’ll see them organized by type:
 If no alerts exist, you'll see a message encouraging you to create one.
 
 {% include theme-image.html
-   data_light="/assets/images/light/alerts_list_light.webp"
-   data_dark="/assets/images/dark/alerts_list_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alerts_list_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alerts_list_dark.webp"
    alt="Alerts list" %}
 
 ---
@@ -121,8 +121,8 @@ If no alerts exist, you'll see a message encouraging you to create one.
 ## 📱 Push Notifications
 
 {% include theme-image.html
-   data_light="/assets/images/light/alert_notification_light.webp"
-   data_dark="/assets/images/dark/alert_notification_dark.webp"
+   data_light="/assets/images/light/other-features/alerts/alert_notification_light.webp"
+   data_dark="/assets/images/dark/other-features/alerts/alert_notification_dark.webp"
    alt="Alert notification" %}
 
 * Alerts use push notifications to notify you when your conditions are met.

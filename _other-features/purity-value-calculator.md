@@ -45,10 +45,10 @@ The Purity Value Calculator is perfect if you want to:
    * Melt value based on live spot price
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_purity_value_calculator_light.webp"
-   data_dark_1="/assets/images/dark/tools_purity_value_calculator_dark.webp"
-   data_light_2="/assets/images/light/purity_value_calculator_light.webp"
-   data_dark_2="/assets/images/dark/purity_value_calculator_dark.webp"
+   data_light_1="/assets/images/light/other-features/purity-value-calculator/tools_purity_value_calculator_light.webp"
+   data_dark_1="/assets/images/dark/other-features/purity-value-calculator/tools_purity_value_calculator_dark.webp"
+   data_light_2="/assets/images/light/other-features/purity-value-calculator/purity_value_calculator_light.webp"
+   data_dark_2="/assets/images/dark/other-features/purity-value-calculator/purity_value_calculator_dark.webp"
    alt="Purity value calculator" %}
 
 ---

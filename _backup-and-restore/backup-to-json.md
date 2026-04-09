@@ -54,10 +54,10 @@ If you choose to, you can **also export your file attachments**, such as:
 4. Select the location where the CSV file or attachments will be saved.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_settings_light.webp"
-   data_dark_1="/assets/images/dark/tools_settings_dark.webp"
-   data_light_2="/assets/images/light/settings_export_to_json_light.webp"
-   data_dark_2="/assets/images/dark/settings_export_to_json_dark.webp"
+   data_light_1="/assets/images/light/shared/tools_settings_light.webp"
+   data_dark_1="/assets/images/dark/shared/tools_settings_dark.webp"
+   data_light_2="/assets/images/light/backup-and-restore/backup-to-json/settings_export_to_json_light.webp"
+   data_dark_2="/assets/images/dark/backup-and-restore/backup-to-json/settings_export_to_json_dark.webp"
    alt="Sale details screens" %}
 
 ---
@@ -84,10 +84,10 @@ If you’ve exported your data and attachments, you can restore them anytime:
 3. Then tap **“Import Data from JSON”**
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_settings_light.webp"
-   data_dark_1="/assets/images/dark/tools_settings_dark.webp"
-   data_light_2="/assets/images/light/settings_import_from_json_light.webp"
-   data_dark_2="/assets/images/dark/settings_import_from_json_dark.webp"
+   data_light_1="/assets/images/light/shared/tools_settings_light.webp"
+   data_dark_1="/assets/images/dark/shared/tools_settings_dark.webp"
+   data_light_2="/assets/images/light/backup-and-restore/backup-to-json/settings_import_from_json_light.webp"
+   data_dark_2="/assets/images/dark/backup-and-restore/backup-to-json/settings_import_from_json_dark.webp"
    alt="Export/Import to/from JSON from settings screen" %}
 
 ---

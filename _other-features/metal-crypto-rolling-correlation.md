@@ -14,10 +14,10 @@ The **Rolling Correlation** chart lets you measure how closely gold and Bitcoin 
 2. Scroll down and tap **Rolling Correlation**.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_rolling_correlation_light.webp"
-   data_dark_1="/assets/images/dark/tools_rolling_correlation_dark.webp"
-   data_light_2="/assets/images/light/rolling_correlation_light.webp"
-   data_dark_2="/assets/images/dark/rolling_correlation_dark.webp"
+   data_light_1="/assets/images/light/other-features/metal-crypto-rolling-correlation/tools_rolling_correlation_light.webp"
+   data_dark_1="/assets/images/dark/other-features/metal-crypto-rolling-correlation/tools_rolling_correlation_dark.webp"
+   data_light_2="/assets/images/light/other-features/metal-crypto-rolling-correlation/rolling_correlation_light.webp"
+   data_dark_2="/assets/images/dark/other-features/metal-crypto-rolling-correlation/rolling_correlation_dark.webp"
    alt="Rolling correlation form settings" %}
 
 ---

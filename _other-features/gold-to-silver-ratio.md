@@ -16,10 +16,10 @@ The **Gold to Silver Ratio** chart helps you compare the relative value of gold 
 2. Scroll down and select **Gold to Silver Ratio**.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_gold_silver_ratio_light.webp"
-   data_dark_1="/assets/images/dark/tools_gold_silver_ratio_dark.webp"
-   data_light_2="/assets/images/light/gold_silver_ratio_light.webp"
-   data_dark_2="/assets/images/dark/gold_silver_ratio_dark.webp"
+   data_light_1="/assets/images/light/other-features/gold-to-silver-ratio/tools_gold_silver_ratio_light.webp"
+   data_dark_1="/assets/images/dark/other-features/gold-to-silver-ratio/tools_gold_silver_ratio_dark.webp"
+   data_light_2="/assets/images/light/other-features/gold-to-silver-ratio/gold_silver_ratio_light.webp"
+   data_dark_2="/assets/images/dark/other-features/gold-to-silver-ratio/gold_silver_ratio_dark.webp"
    alt="Gold to silver ratio from settings" %}
 
 ### 📈 What You’ll See

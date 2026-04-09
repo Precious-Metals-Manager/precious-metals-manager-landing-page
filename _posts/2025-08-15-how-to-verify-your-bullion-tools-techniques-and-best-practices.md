@@ -9,8 +9,8 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNCwoei0yHiYYJNsw5oLkB14zHSyJZP
 When buying silver or gold bullion, authenticity is everything. Counterfeits can look convincing, but a careful buyer has several tools and methods to confirm a coin or bar is genuine. In this article, we’ll go through a combination of professional and simple at-home techniques—using Canadian Silver Maple Leafs as an example—so you can protect your investment.
 
 {% include theme-image.html
-data_light="/assets/images/light/verification_devices_light.webp"
-data_dark="/assets/images/light/verification_devices_light.webp"
+data_light="/assets/images/light/posts/verification_devices_light.webp"
+data_dark="/assets/images/light/posts/verification_devices_light.webp"
 alt="Tools settings button" %}
 
 ---

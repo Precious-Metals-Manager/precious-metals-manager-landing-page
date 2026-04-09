@@ -61,10 +61,10 @@ Follow these steps inside the app:
 4. Select the location where the CSV file will be saved.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_settings_light.webp"
-   data_dark_1="/assets/images/dark/tools_settings_dark.webp"
-   data_light_2="/assets/images/light/settings_export_to_csv_light.webp"
-   data_dark_2="/assets/images/dark/settings_export_to_csv_dark.webp"
+   data_light_1="/assets/images/light/shared/tools_settings_light.webp"
+   data_dark_1="/assets/images/dark/shared/tools_settings_dark.webp"
+   data_light_2="/assets/images/light/backup-and-restore/backup-to-csv/settings_export_to_csv_light.webp"
+   data_dark_2="/assets/images/dark/backup-and-restore/backup-to-csv/settings_export_to_csv_dark.webp"
    alt="Export to CSV from settings screen" %}
 
 ---

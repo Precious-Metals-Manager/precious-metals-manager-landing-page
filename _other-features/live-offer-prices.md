@@ -29,10 +29,10 @@ When you open the **Offer Prices** screen, you’ll see:
 ### 🔁 Live Price Rows (Per Metal)
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_offer_prices_light.webp"
-   data_dark_1="/assets/images/dark/tools_offer_prices_dark.webp"
-   data_light_2="/assets/images/light/offer_prices_light.webp"
-   data_dark_2="/assets/images/dark/offer_prices_dark.webp"
+   data_light_1="/assets/images/light/other-features/live-offer-prices/tools_offer_prices_light.webp"
+   data_dark_1="/assets/images/dark/other-features/live-offer-prices/tools_offer_prices_dark.webp"
+   data_light_2="/assets/images/light/other-features/live-offer-prices/offer_prices_light.webp"
+   data_dark_2="/assets/images/dark/other-features/live-offer-prices/offer_prices_dark.webp"
    alt="Live offer prices" %}
 
 Each row shows:

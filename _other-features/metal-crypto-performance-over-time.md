@@ -12,10 +12,10 @@ Compare how your favorite metal performs against Bitcoin (BTC) or Ethereum (ETH)
 2. Tap **Performance Over Time** in the list.
 
 {% include theme-two-images.html
-   data_light_1="/assets/images/light/tools_performance_over_time_light.webp"
-   data_dark_1="/assets/images/dark/tools_performance_over_time_dark.webp"
-   data_light_2="/assets/images/light/performance_over_time_light.webp"
-   data_dark_2="/assets/images/dark/performance_over_time_dark.webp"
+   data_light_1="/assets/images/light/other-features/metal-crypto-performance-over-time/tools_performance_over_time_light.webp"
+   data_dark_1="/assets/images/dark/other-features/metal-crypto-performance-over-time/tools_performance_over_time_dark.webp"
+   data_light_2="/assets/images/light/other-features/metal-crypto-performance-over-time/performance_over_time_light.webp"
+   data_dark_2="/assets/images/dark/other-features/metal-crypto-performance-over-time/performance_over_time_dark.webp"
    alt="Performance over time form settings" %}
 
 ### 🔍 What You’ll See
