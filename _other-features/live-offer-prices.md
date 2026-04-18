@@ -4,7 +4,7 @@ layout: article
 under_construction: false
 ---
 
-Want to see what dealers are actually charging for gold, silver, platinum, and palladium? The **Offer Prices** view in *Precious Metals Manager* gives you real-time insight into the **retail side** of the market — not just [spot prices](http://127.0.0.1:4000/help/live-spot-prices/).
+Want to see what dealers are actually charging for gold, silver, platinum, and palladium? The **Offer Prices** view in *Precious Metals Manager* gives you real-time insight into the **retail side** of the market — not just [spot prices](https://preciousmetalsmanager.com/help/live-spot-prices/).
 
 Here’s a quick walkthrough of how to use this powerful view and what each element means.
 
