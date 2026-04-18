@@ -588,6 +588,138 @@ footer {
 
 }
 
+// Social icon circles (footer)
+
+.circle {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: background 0.3s;
+	margin: 0 5px;
+}
+
+.icon-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+
+.icon-container > svg {
+	transition: fill 0.3s;
+}
+
+.twitterXIcon > svg {
+	width: 28px;
+	height: 28px;
+	margin-left: 8px;
+}
+
+.youtubeIcon > svg,
+.linkedinIcon > svg,
+.facebookIcon > svg,
+.emailIcon > svg {
+	height: 28px;
+}
+
+.linkedinIcon > svg,
+.facebookIcon > svg {
+	height: 25px;
+}
+
+.facebookIcon > svg {
+	margin-left: -3px;
+}
+
+.emailIcon > svg {
+	height: 20px;
+}
+
+.circle:hover {
+	background: var(--footer-social-circle-color);
+}
+
+.circle:hover .icon-container > svg {
+	fill: var(--footer-color);
+}
+
+// Cookie consent banner
+
+#cookie-notice {
+	width: 100%;
+	background: #222;
+	color: rgba(255, 255, 255, 0.8);
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 2147483645;
+	box-sizing: border-box;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+.cookie-notice-inner {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 24px 0;
+}
+
+.cookie-notice-description {
+	font-family: "CeraPRO-Regular", sans-serif, arial;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.cookie-consent-banner-actions {
+	padding-top: 12px;
+}
+
+#cookie-notice a {
+	box-sizing: border-box;
+	display: inline-block;
+	min-width: 164px;
+	padding: 11px 13px;
+	border-radius: 2px;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	font-family: "CeraPRO-Regular", sans-serif, arial;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+@media (max-width: 767px) {
+	#cookie-notice span {
+		display: block;
+		padding-top: 3px;
+		margin-bottom: 1rem;
+	}
+
+	#cookie-notice a {
+		position: relative;
+		bottom: 4px;
+	}
+}
+
+.privacy-policy-button {
+	color: white !important;
+}
+
+// Blog post meta icon
+
+.icon-svg {
+	width: 20px;
+	height: 20px;
+	fill: var(--font-color);
+}
+
 // Blog
 
 .socialIconBack {
