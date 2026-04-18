@@ -5,7 +5,7 @@
 
 <body>
     {% include_cached header.html %}
-    <div class="mainPageContainer">
+    <main class="mainPageContainer">
         <div class="iphonePreview">
             <img class="theme-image iphoneScreen" id="heroScreenshot"
                 data-light="{{ site.github.baseurl }}/assets/images/light/screenshot1_light.webp"
@@ -26,20 +26,20 @@
             <div class="downloadButtonsContainer">
                 {% if site.playstore_link %}
                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore"
-                        src="assets/playstore.png"></a>
+                        src="assets/playstore.png" alt="Get it on Google Play"></a>
                 {% endif %}
                 <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStoreQR"
                         src="assets/images/appstoreQR.webp" alt="Precious Metals Manager QR code"></a>
             </div>
         </div>
         {% include appstoreimages.html %}
-    </div>
+    </main>
     {% include features.html %}
     {% include_cached footer.html %}
     {% if jekyll.environment != 'development' %}
     {% include cookie-consent.html %}
     {% endif %}
-    <script defer src="assets/js/darkmode.js"></script>
+    <script defer src="/assets/js/darkmode.js"></script>
 </body>
 
 </html>

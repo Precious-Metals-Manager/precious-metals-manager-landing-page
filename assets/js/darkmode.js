@@ -1,5 +1,4 @@
 const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
-const icon = document.querySelector('.darkModeIcon i');
 
 // Update all theme-related images
 function updateImages(theme) {
@@ -17,12 +16,14 @@ function updateImages(theme) {
 
 // Set Light Mode Icon
 function setLightIcon() {
-    document.getElementById("darkmodeImage").src = "/assets/images/sun.svg";
+    const img = document.getElementById("darkmodeImage");
+    if (img) img.src = "/assets/images/sun.svg";
 }
 
 // Set Dark Mode Icon
 function setDarkIcon() {
-    document.getElementById("darkmodeImage").src = "/assets/images/moon.svg";
+    const img = document.getElementById("darkmodeImage");
+    if (img) img.src = "/assets/images/moon.svg";
 }
 
 // Theme switch logic
@@ -31,58 +32,55 @@ function switchTheme(e) {
         document.documentElement.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
         setDarkIcon();
-        updateImages('dark'); // Update images for dark mode
+        updateImages('dark');
     } else {
         document.documentElement.setAttribute('data-theme', 'light');
         localStorage.setItem('theme', 'light');
         setLightIcon();
-        updateImages('light'); // Update images for light mode
+        updateImages('light');
     }
 }
 
-// Initial theme setup
+// Initial theme setup (data-theme is already set by inline script in <head>)
 const savedTheme = localStorage.getItem('theme');
 if (savedTheme) {
-    document.documentElement.setAttribute('data-theme', savedTheme);
     if (savedTheme === 'dark') {
-        toggleSwitch.checked = true;
+        if (toggleSwitch) toggleSwitch.checked = true;
         setDarkIcon();
-        updateImages('dark'); // Update images for saved dark mode
+        updateImages('dark');
     } else {
-        toggleSwitch.checked = false;
+        if (toggleSwitch) toggleSwitch.checked = false;
         setLightIcon();
-        updateImages('light'); // Update images for saved light mode
+        updateImages('light');
     }
 } else {
-    // Detect system preference if no saved theme
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        toggleSwitch.checked = true;
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (prefersDark) {
+        if (toggleSwitch) toggleSwitch.checked = true;
         setDarkIcon();
-        updateImages('dark'); // Update images for system dark mode
+        updateImages('dark');
     } else {
-        document.documentElement.setAttribute('data-theme', 'light');
-        toggleSwitch.checked = false;
+        if (toggleSwitch) toggleSwitch.checked = false;
         setLightIcon();
-        updateImages('light'); // Update images for system light mode
+        updateImages('light');
     }
 
     // Listen for changes in system preference
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
         const newColorScheme = event.matches ? "dark" : "light";
-        if (newColorScheme === "dark") {
-            document.documentElement.setAttribute('data-theme', 'dark');
-            toggleSwitch.checked = true;
+        document.documentElement.setAttribute('data-theme', newColorScheme);
+        if (toggleSwitch) toggleSwitch.checked = event.matches;
+        if (event.matches) {
             setDarkIcon();
-            updateImages('dark'); // Update images for system dark mode
+            updateImages('dark');
         } else {
-            document.documentElement.setAttribute('data-theme', 'light');
-            toggleSwitch.checked = false;
             setLightIcon();
-            updateImages('light'); // Update images for system light mode
+            updateImages('light');
         }
     });
 }
 
 // Add event listener to the toggle switch
-toggleSwitch.addEventListener('change', switchTheme, false);
+if (toggleSwitch) {
+    toggleSwitch.addEventListener('change', switchTheme, false);
+}
