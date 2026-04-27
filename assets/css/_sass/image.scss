@@ -24,28 +24,33 @@
     }
 }
 
+@keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
 .markdown-body img {
     background-color: var(--skeleton-base);
     aspect-ratio: 16 / 9;
     object-fit: cover;
     width: 100%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
 
-    &.img-loaded {
-        opacity: 1;
-    }
+    &.img-loading { opacity: 0; }
+    &.img-loaded { animation: fade-in 0.5s ease-in-out; }
+}
+
+.card-img-wrapper {
+    aspect-ratio: 1200 / 628;
+    overflow: hidden;
+    background-color: var(--skeleton-base);
 }
 
 .card-img-top {
-    aspect-ratio: 1200 / 628;
-    object-fit: cover;
     width: 100%;
-    background-color: var(--skeleton-base);
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 
-    &.img-loaded {
-        opacity: 1;
-    }
+    &.img-loading { opacity: 0; }
+    &.img-loaded { animation: fade-in 0.5s ease-in-out; }
 }

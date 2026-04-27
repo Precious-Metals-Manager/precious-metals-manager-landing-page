@@ -1,12 +1,16 @@
 document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.markdown-body img, .card-img-top').forEach(function (img) {
         if (img.complete && img.naturalWidth > 0) {
-            img.classList.add('img-loaded');
-        } else {
-            img.addEventListener('load', function () {
-                img.classList.add('img-loaded');
-            });
+            return; // already loaded and visible — do nothing
         }
+        img.classList.add('img-loading');
+        img.addEventListener('load', function () {
+            img.classList.remove('img-loading');
+            img.classList.add('img-loaded');
+        });
+        img.addEventListener('error', function () {
+            img.style.display = 'none';
+        });
     });
 
     var featured = document.querySelector('.featured-image');
