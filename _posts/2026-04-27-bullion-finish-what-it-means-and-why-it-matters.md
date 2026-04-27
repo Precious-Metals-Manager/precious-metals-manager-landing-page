@@ -2,7 +2,7 @@
 title: "Bullion Finish: What It Means and Why It Matters"
 author: Sergio Martin Rubio
 layout: post
-image: https://lh3.googleusercontent.com/pw/AP1GczNG5fnGeKXI1pwUyWfc8-CZ9FSHLaJjLIxC6NgtLGkuxgfq8lJmdi6vUCWqMa68WMGPvj92xT_lIfuPoSbm4ZSJu8hszNB5l5NKo5un21ibNDpSNypscVsIis6sSR9vlOXYNHS-YpRnTSD0tGfPIn7a=w1200-h628-s-no?authuser=1
+image: https://lh3.googleusercontent.com/pw/AP1GczNCwoei0yHiYYJNsw5oLkB14zHSyJZPmXF0-JS_ZQNAYNv8c0t91vd3vtx3MfxgZ49N0lMuIP6NzfboowlxUvX_XyAjkRFWauizPsD1qGtsFoYRWtreQSw_fkwK05GHcW2BB1ZLGL_yPVQZnSlFor-j=w1200-h628-s-no?authuser=1
 description: "Learn what bullion finish means, how it compares to proof and other finishes, and how surface quality affects the premium and collectible value of gold and silver coins."
 categories: [fundamentals]
 tags: [bullion, finish, proof, coins, gold, silver, premium, collecting]
@@ -73,7 +73,7 @@ If your goal is to **maximize metal per dollar**, bullion finish coins are the r
 
 For investment-grade bullion, the finish has minimal impact on resale value. Dealers buy back bullion coins based on **spot price plus a modest spread**, regardless of whether the surface is perfect. This is one reason why bullion coins are considered **liquid assets**.
 
-Proof coins, on the other hand, are graded by services like **PCGS** or **NGC**. A PR70 (perfect proof) coin can command a significant premium over melt value, but that premium can also disappear if the collector market shifts or if the coin is removed from its original packaging.
+Proof coins, on the other hand, are graded by services like **PCGS** or **NGC**. A PR70 (perfect proof) coin can command a significant premium over melt value, but that premium can also disappear if the collector market shifts or if the coin is removed from its original packaging. See our [guide to third-party grading services](/2026/04/27/bullion-grading-third-party-services/) for more detail.
 
 ---
 
