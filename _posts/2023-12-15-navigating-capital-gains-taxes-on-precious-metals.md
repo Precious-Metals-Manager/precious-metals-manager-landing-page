@@ -3,11 +3,15 @@ title: Navigating Capital Gains Taxes on Precious Metals
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczN0nMsF47WE1sXTrsq-KSpnnVXATK5-G7d037RWZUakXxNgEOXM57rUvCmfr0dGeFqbNPlqB8M3x5wZFPhkaHN7ZGhcIXfQ8BLm3EMP4wQVo1x3tBN4qBUR_F8IM6YC0OEsmysMYCUo1DZR7L5X7imE=w1200-h628-s-no?authuser=1
+description: "Understand how capital gains taxes apply to precious metals sales, including short-term vs long-term rates and strategies to reduce your tax burden."
+categories: [taxation]
+tags: [capital-gains, tax, gold, silver, platinum, IRS, investing]
+last_modified_at: 2026-04-27
 ---
 
 The IRS and other government bodies consider **physical gold**, **silver**, or **platinum** as assets for capital gains tax purposes, meaning they're taxed when you sell them for a profit.
 
-In most countries, the capital gain tax is only owed after the sale is made. The **capital gain** or loss is calculated by subtracting the sale price from the acquisition cost. When it comes to gifts or inheritances, the calculation of capital gain is based on the market value.
+In most countries, the capital gain tax is only owed after the sale is made. The **capital gain** or loss is calculated by subtracting the acquisition cost from the sale price. When it comes to gifts or inheritances, the calculation of capital gain is based on the market value.
 
 **Capital gains** are typically taxed at a lower rate than earned income. However, in countries like the US, if you 📈[sell precious metals in less than 12 months, the IRS considers this a short-term capital gain](https://www.irs.gov/taxtopics/tc409){:target="_blank"} and taxes it as ordinary income. This might result in paying higher taxes. For example, if you have a job that pays you $70,000 and you sell gold at a net gain of $10,000 within 12 months of its purchase, your total taxable income will be $80,000 for the year.
 

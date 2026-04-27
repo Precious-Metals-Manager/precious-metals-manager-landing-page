@@ -10,7 +10,9 @@ include_in_header: true
     {% for post in paginator.posts %}
     <div class="col mb-3">
       <div class="card" style="max-width: 26rem;">
-        <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}" loading="lazy">
+        <div class="card-img-wrapper">
+          <img src="{{post.image}}" class="card-img-top img-fluid" alt="{{post.title}}" loading="lazy">
+        </div>
         <div class="card-body">
           <h3 class="card-title"><span>{{post.title}}</span></h3>
           <p class="description">{{post.content | strip_html | truncate: 180 }}</p>

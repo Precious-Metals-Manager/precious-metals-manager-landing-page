@@ -3,6 +3,10 @@ title: Understanding Precious Metals Premium
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczO7eqCEaZSglFxer9x_cuu9NesXqcwvslFGVotqn5vF1IxyEnwtCMoXmiPSEDS0PeMxakAzgEZBz6KPn2p5VhjHL_HhgM0UUmdHvPV44-66Z6tc7A6vG78y-j3i1S5r5LThSKcOSi6yoKYdBkOd9FB6=w1200-h628-s-no?authuser=1
+description: "Learn what the premium is when buying precious metals, how it is calculated as a percentage of spot price, and why it varies by metal type and form factor."
+categories: [fundamentals]
+tags: [gold, silver, premium, bullion, coins, bars, investing]
+last_modified_at: 2026-04-27
 ---
 
 When you buy **precious metals**, you need to think about the ***'Premium'***. This is the extra amount you pay above the metal's value at the current spot price. When you sell, you might get back some of this premium, but usually not as much as you paid.  
