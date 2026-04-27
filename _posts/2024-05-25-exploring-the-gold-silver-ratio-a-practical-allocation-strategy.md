@@ -19,7 +19,7 @@ Nowadays, factors like mining ⛏️ production, industrial 🏭 demand, and inv
 
 ## The Role of the Gold-Silver Ratio in Portfolio Allocation
 
-Holding both gold and silver in a portfolio can provide **diversification benefits** 💡. Gold and silver often move in opposite directions, helping to hedge against market volatility. The optimal gold-silver ratio for portfolio construction depends on an investor's risk tolerance and investment objectives. Some investors may choose to maintain a fixed ratio, while others may adjust it dynamically based on market conditions and their outlook.
+Holding both gold and silver in a portfolio can provide **diversification benefits** 💡. Gold and silver are positively correlated and generally move in the same direction, though silver tends to amplify gold's moves with higher volatility. The optimal gold-silver ratio for portfolio construction depends on an investor's risk tolerance and investment objectives. Some investors may choose to maintain a fixed ratio, while others may adjust it dynamically based on market conditions and their outlook.
 
 The **gold-silver ratio allocation history** and strategy can serve as useful tools for investors seeking to enhance the risk-return profile of their portfolio. More risk-averse investors may choose a higher gold allocation, around 80%-20%, whereas risk-takers may lean towards 60%-40%.
 
@@ -33,7 +33,7 @@ Investors can employ various strategies to capitalize on the fluctuations in the
 
 ### Tools and Resources for Analyzing the Gold-Silver Ratio
 
-The **Precious Metals Manager app** 📱 offers a **Gold to Silver Ratio tool** 🛠️ to track the historical and current gold-silver ratio. This tool can be used to indentify patterns and potential trading opportunities.
+The **Precious Metals Manager app** 📱 offers a **Gold to Silver Ratio tool** 🛠️ to track the historical and current gold-silver ratio. This tool can be used to identify patterns and potential trading opportunities.
 
 <img class="img-fluid image-container" src="https://lh3.googleusercontent.com/pw/AP1GczMBdWyCDtytZx6MDH8CQpAa3iAyDPaDzycQGtZN4nK_4dyd3WEzMOK3Jrlx5Cpbu3K9YlGZHp3BBDpVX9coaOyG4NRgwOP_k5RvaEws0xXDd6RO440iUnNLidpc-NKNxZXOByFq8VzlKJDGMeCCnVg_=w1920-h1080-s-no?authuser=1" alt="Gold to Silver Ratio" />
 

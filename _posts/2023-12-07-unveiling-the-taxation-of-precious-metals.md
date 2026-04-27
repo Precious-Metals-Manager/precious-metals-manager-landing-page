@@ -47,7 +47,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPvSxfAdsrjxtSCbSvtu3GirBMdtSew
 | [New York](#new-york-info)             | 4%    | All*                                      | 1000             | All                                               |
 | [North Carolina](#north-carolina-info) | 4.75% | Collectibles                              |                  | All                                               |
 | [North Dakota](#north-dakota-info)     | 5%    | Bullion**<br>Collectibles                 |                  | 0.999                                             |
-| [Ohio](#ohio-info)                     | 5.75% | Bullion**<br>Collectibles<br>Legal Tender |                  | AU: 0.995<br>AG: 0.999<br>PT: 0.9995<br>PD: 99995 |
+| [Ohio](#ohio-info)                     | 5.75% | Collectibles                              |                  | All                                                 |
 | [Oklahoma](#oklahoma-info)             | 0%    |                                           |                  |                                                   |
 | [Oregon](#oregon-info)                 | 0%    |                                           |                  |                                                   |
 | [Pennsylvania](#pennsylvania-info)     | 6%    | Collectibles                              |                  | All                                               |
@@ -58,7 +58,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPvSxfAdsrjxtSCbSvtu3GirBMdtSew
 | [Texas](#texas-info)                   | 0%    |                                           |                  |                                                   |
 | [Utah](#utah-info)                     | 4.75% |                                           |                  | 0.500                                             |
 | [Vermont](#vermont-info)               | 6%    | All                                       |                  | All                                               |
-| [Virginia](#virginia-info)             | 5.3%  | Bullion<br>Excl. PD                       |                  | All                                               |
+| [Virginia](#virginia-info)             | 5.3%  | Palladium                                 |                  | All                                               |
 | [Washington](#washington-info)         | 7.5%  | Collectibles                              |                  | All                                               |
 | [West Virginia](#west-virginia-info)   | 6%    | Collectibles                              |                  | All                                               |
 | [Wisconsin](#wisconsin-info)           | 5%    | All                                       |                  | All                                               |
@@ -71,9 +71,7 @@ No additional sales tax information available for Alabama.
 No additional sales tax information available for Alaska.
 
 ### Arizona {#arizona-info}
-No additional sales tax
-
- information available for Arizona.
+No additional sales tax information available for Arizona.
 
 ### Arkansas {#arkansas-info}
 No sales tax on bullion since May 3 2021 (SB336). Gold and silver were approved as legal tender [(HB1718) on 2023/03/30](https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FHB1718.pdf).
@@ -91,7 +89,7 @@ No additional sales tax information available for Connecticut.
 No additional sales tax information available for Delaware.
 
 ### Florida {#florida-info}
-US bullion; numismatic coins or currency that are legal tender are exempt [§212.05(1)](https://www.flsenate.gov/Laws/Statutes/2021/212.05).
+US bullion; numismatic coins or currency that are legal tender are exempt for transactions of $500 or more [§212.05(1)](https://www.flsenate.gov/Laws/Statutes/2021/212.05). Transactions below $500 are subject to the standard 6% sales tax.
 
 ### Georgia {#georgia-info}
 No additional sales tax information available for Georgia.
@@ -136,7 +134,7 @@ No sales tax on high-purity bullion and legal tender with a market value greater
 Bullion and legal tender are exempt since June 20, 2021 [Analysis of H.F 2481 (Olson) / S.F. 2419 (Rosen)](https://www.revenue.state.mn.us/sites/default/files/2021-05/hf2481%28sf2419%29_1%20bullion%20coins.pdf).
 
 ### Mississippi {#mississippi-info}
-Coins, currency and bullion are excempt since July 1, 2023 [Senate Bill 2862](https://billstatus.ls.state.ms.us/documents/2023/html/SB/2800-2899/SB2862SG.htm).
+Coins, currency and bullion are exempt since July 1, 2023 [Senate Bill 2862](https://billstatus.ls.state.ms.us/documents/2023/html/SB/2800-2899/SB2862SG.htm).
 
 ### Missouri {#missouri-info}
 No sales tax on high-purity bullion and legal tender with market value greater than the face value of the coin [STATUTE 144.815](https://www.revisor.mo.gov/main/OneSection.aspx?section=144.815).
@@ -187,7 +185,7 @@ Tax applies only to metal bullion for industrial professional or artistic uses [
 Bullion valued by its metal content and legal tender coins are exempt [SC Code Section 12-36-2120 (70)](https://www.scstatehouse.gov/code/t12c036.php).
 
 ### South Dakota {#south-dakota-info}
-High purity bullion and legal tender coins are exempt 57-39.2-04(31).
+High purity bullion (at least .999 fineness) and legal tender coins are exempt from sales tax.
 
 ### Tennessee {#tennessee-info}
 No additional sales tax information available for Tennessee.
@@ -218,7 +216,7 @@ No additional sales tax information available for Wyoming.                      
 
 ## Europe
 
-🇪🇺 **In the European Union**, instead of sales tax, it is named VAT (Value-added tax). Countries in the European Union always apply VAT to *silver*, which can range from 19% to 25%. However, there are countries in Europe, like Switzerland, where the VAT on silver is 7.7%, and in Norway, coins are VAT exempt. Norway is also part of the EEA, making it easier to move goods to the European Union. However, delivering silver to your country within the EU could still be subject to tax upon receiving it. In the UK, which is not part of the European Union anymore, the VAT is 20% on silver.
+🇪🇺 **In the European Union**, instead of sales tax, it is named VAT (Value-added tax). Countries in the European Union generally apply VAT to *silver*, with standard rates typically ranging from 17% to 27% depending on the member state. Some countries allow differential taxation (margin schemes) that can lower the effective rate for dealers. However, there are countries in Europe, like Switzerland, where the VAT on silver is 7.7%, and in Norway, coins are VAT exempt. Norway is also part of the EEA, making it easier to move goods to the European Union. However, delivering silver to your country within the EU could still be subject to tax upon receiving it. In the UK, which is not part of the European Union anymore, the VAT is 20% on silver.
 
 Fortunately, in the European Union and the [UK](https://www.gov.uk/guidance/gold-acquisitions-imports-investments-and-vat-notice-70121#sect2){:target="_blank"} or Switzerland, investment-grade gold bullion is exempt from VAT as it is considered an investment asset.
 
@@ -232,7 +230,7 @@ As of January 2022, in 🇦🇺 **Australia**, investment-grade *gold* and *silv
 
 ## Canada
 
-In 🇨🇦 **Canada**, most 💰 precious 💎 metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for **Gold** and **Platinum**, and 0.999 for **silver**, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 7% or 15%. 📜🔍📊
+In 🇨🇦 **Canada**, most 💰 precious 💎 metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for **Gold** and **Platinum**, and 0.999 for **silver**, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 5% (GST) or up to 15% (HST, depending on the province). 📜🔍📊
   
 ## Effortless Sales Tax and VAT Tracking with the Precious Metals Manager iOS App
 
