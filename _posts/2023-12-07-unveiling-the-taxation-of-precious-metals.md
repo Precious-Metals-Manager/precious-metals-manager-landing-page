@@ -3,6 +3,10 @@ title: Unveiling the Taxation of Precious Metals
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczPvSxfAdsrjxtSCbSvtu3GirBMdtSewx6KvwMNn4KkyZv_mdCqzbVDXc4XUDpWETfUY4e1nK7GBVwsCqyE-e_c4uOKBAH5D7OE40Q--SjDh4Zki2feQHPcJjk8R2cZFsT_ckV-0PgMAXysCb8Y307oz=w1200-h628-s-no?authuser=1
+description: "A comprehensive guide to sales tax and VAT on precious metals purchases across US states, Europe, Australia, and Canada."
+categories: [taxation]
+tags: [tax, sales-tax, VAT, gold, silver, US, Europe, Australia, Canada]
+last_modified_at: 2026-04-27
 ---
 
 **Sales tax** or VAT (Value-added tax) is sometimes applied to *precious metals* when purchasing from a registered dealer, such as APMEX or StoneX Bullion. Depending on the country, the type of metal, or the fineness of the metal, a different tax percentage might be applied to the markup price (**spot price** + [**premium**](https://preciousmetalsmanager.com/blog/understanding-precious-metals-premium/)). 📊✨💰
@@ -212,7 +216,7 @@ Tax only applies to collectibles [§11-15-9r](https://code.wvlegislature.gov/11-
 No additional sales tax information available for Wisconsin.
 
 ### Wyoming {#wyoming-info}
-No additional sales tax information available for Wyoming.                                                           |
+No additional sales tax information available for Wyoming.
 
 ## Europe
 
@@ -230,7 +234,7 @@ As of January 2022, in 🇦🇺 **Australia**, investment-grade *gold* and *silv
 
 ## Canada
 
-In 🇨🇦 **Canada**, most 💰 precious 💎 metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for **Gold** and **Platinum**, and 0.999 for **silver**, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 5% (GST) or up to 15% (HST, depending on the province). 📜🔍📊
+In 🇨🇦 **Canada**, most precious metals are exempt from GST (Goods and Services Tax), HST (Harmonized Sales Tax), and PST (Provincial Sales Tax) when they are in the form of a bar, ingot, coin, or wafer and possess a purity level of 0.995 for **Gold** and **Platinum**, and 0.999 for **silver**, as outlined in [GST/HST memorandum 17.1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-1/definition-financial-instrument.html){:target="_blank"}. Any other gold, silver, or platinum not meeting these criteria is taxable at either 5% (GST) or up to 15% (HST, depending on the province). 📜🔍📊
   
 ## Effortless Sales Tax and VAT Tracking with the Precious Metals Manager iOS App
 

@@ -3,6 +3,10 @@ title: "Exploring the Gold-Silver Ratio: A Practical Allocation Strategy"
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczNDd2EhaaVRHRIXH1oySZp_eUaOKAtDDLkbZ03KLbBtcjNW4IeI3JR6h1xkjIaAAswysegQhG7-8pJFZY38ThFnN2JUiM2xpLqwtMXVd7eblROM0Li7lWVoKwMF8j2tyXjFcJ8deIALGhq4_3uUZn3Y=w1200-h628-s-no?authuser=1
+description: "How the gold-silver ratio works, its historical range from 14:1 to over 100:1, and how investors can use it as an allocation signal."
+categories: [strategy, market-analysis]
+tags: [gold-silver-ratio, gold, silver, allocation, strategy, portfolio]
+last_modified_at: 2026-04-27
 ---
 
 The **gold-silver ratio** has long been a topic of fascination 🤩 for investors. This powerful metric can reveal hidden insights about the state of the markets. But how can you use the gold-silver ratio in your day-to-day decisions? 🤔

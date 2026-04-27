@@ -3,6 +3,10 @@ title: "Tracing Gold's Spot Price Over Time"
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczOrZg2z3zDPyKqGQZbfbUMllz4BpaE512Tc5XPX4xSIapF7hf5KiiE_Lg0AB9itd8rcyUJPN2lrRfNvSafHBm2faghlpaf0hQb38qM1dpcwYeqYkBcM2sFsOOTtIXRc0uyfz7w0MgyiKHHazpn0fqIn=w1200-h628-s-no?authuser=1
+description: "A historical overview of gold's spot price, how it compares to inflation, stocks, and Bitcoin, and what long-term trends suggest for investors."
+categories: [market-analysis]
+tags: [gold, spot-price, inflation, Bitcoin, Ethereum, history, LBMA, COMEX]
+last_modified_at: 2026-04-27
 ---
 
 **The spot price for gold** is set by institutions like the [**London Bullion Market Association (LBMA)**](https://www.lbma.org.uk){:target="_blank"} or the [**CME's COMEX exchange**](https://www.cmegroup.com/company/comex.html){:target="_blank"}, as we already discussed in our [**comparison between the spot price and offer price**](https://preciousmetalsmanager.com/blog/precious-metals-valuation-spot-price-vs-offer-reference-price/). 💼📊

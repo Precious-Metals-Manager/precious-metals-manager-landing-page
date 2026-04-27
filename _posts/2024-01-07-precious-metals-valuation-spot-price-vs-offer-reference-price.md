@@ -3,6 +3,10 @@ title: "Precious Metals Valuation: Spot Price vs. Offer Price"
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczMZtZAYUZnN9x-5FjNhE1KQMir2L_rSHtSv0y-0dOJwzz22YqdwAyS3nrwqHVXQ34FBk-DtsA3sKqwQqlJhSMJH0fDvhqCyUfZ53CjLvhJT_mdG8Vh-TQjJ_WWAFRtKZGGUzh4HkSyDJ-Em5d8njxwi=w1200-h628-s-no?authuser=1
+description: "The difference between spot price and dealer offer price, and how each is used to estimate the value of a precious metals portfolio."
+categories: [fundamentals]
+tags: [spot-price, offer-price, gold, silver, valuation, portfolio, LBMA, COMEX]
+last_modified_at: 2026-04-27
 ---
 
 **Investors** often use ***precious metals*** like 💰🪙 ***gold***, ***silver***, ***platinum***, or ***palladium*** to protect against inflation. Unlike money or stocks, which can be influenced by market feelings, these metals have their own worth. Plus, it's hard for institutions to control their supply because mining capacity is limited globally. 🌍🛠️

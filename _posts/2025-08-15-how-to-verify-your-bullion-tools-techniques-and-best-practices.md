@@ -3,6 +3,10 @@ title: "How to Verify Your Bullion: Tools, Techniques, and Best Practices"
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczNCwoei0yHiYYJNsw5oLkB14zHSyJZPmXF0-JS_ZQNAYNv8c0t91vd3vtx3MfxgZ49N0lMuIP6NzfboowlxUvX_XyAjkRFWauizPsD1qGtsFoYRWtreQSw_fkwK05GHcW2BB1ZLGL_yPVQZnSlFor-j=w1200-h628-s-no?authuser=1
+description: "A practical guide to verifying the authenticity of gold and silver bullion using weight tests, calipers, electronic verifiers, magnet tests, and more."
+categories: [fundamentals]
+tags: [verification, authenticity, bullion, gold, silver, counterfeits, sigma-metalytics]
+last_modified_at: 2026-04-27
 ---
 
 

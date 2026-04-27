@@ -44,6 +44,13 @@
             <div>
                 {{ content }}
             </div>
+            {% if page.tags.size > 0 %}
+            <div class="post-tags">
+                {% for tag in page.tags %}
+                <span class="post-tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
             {% include sharebuttons.html %}
         </article>
     </div>

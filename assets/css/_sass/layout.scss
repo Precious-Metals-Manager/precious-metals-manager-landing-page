@@ -839,3 +839,24 @@ footer {
 .page-item .page-link {
 	background-color: var(--bg-color);
 }
+
+// Post tags
+
+.post-tags {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+}
+
+.post-tag {
+	display: inline-block;
+	padding: 0.2rem 0.7rem;
+	border-radius: 1rem;
+	background-color: var(--bg-color);
+	color: var(--font-color);
+	font-size: 0.8rem;
+	border: 1px solid var(--font-color);
+	opacity: 0.65;
+}

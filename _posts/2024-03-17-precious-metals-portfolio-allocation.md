@@ -3,6 +3,10 @@ title: "Precious Metals Portfolio Allocation"
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczMGRLqG6gEYrYZ9ugrlEPCJ_TNOisqppNd8beTR4eClIzPAJKWBtS40kHlVOFFjYPeREK1xpk5No8HhQ1m6IX6iSX8Q66osUn_SfYLkurchiZbpdwbg1pLS_iTg-Eh7QR8VDzGDrUb3elcKkn8bU5rd=w1200-h628-s-no?authuser=1
+description: "Strategies for allocating gold, silver, platinum, and palladium in an investment portfolio, including fixed percentage and tactical approaches."
+categories: [strategy]
+tags: [portfolio, allocation, gold, silver, platinum, palladium, diversification, DCA]
+last_modified_at: 2026-04-27
 ---
 
 People often wonder, "***How much gold or silver should I buy?***" 🤔, but there's no perfect answer ❌👌. It depends on factors like ***risk***, ***speculation***, or ***value storage***. Also, don't forget about other metals like ***platinum*** and ***palladium*** for further portfolio diversification. 📈💰🔒

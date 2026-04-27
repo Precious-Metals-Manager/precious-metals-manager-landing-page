@@ -3,6 +3,10 @@ title: Strategic Stacking with Dollar Cost Averaging in Precious Metals
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczNG5fnGeKXI1pwUyWfc8-CZ9FSHLaJjLIxC6NgtLGkuxgfq8lJmdi6vUCWqMa68WMGPvj92xT_lIfuPoSbm4ZSJu8hszNB5l5NKo5un21ibNDpSNypscVsIis6sSR9vlOXYNHS-YpRnTSD0tGfPIn7a=w1200-h628-s-no?authuser=1
+description: "How to apply dollar-cost averaging to precious metals investing to reduce market timing risk and gradually build a portfolio of gold, silver, and other metals."
+categories: [strategy]
+tags: [DCA, dollar-cost-averaging, gold, silver, platinum, strategy, investing]
+last_modified_at: 2026-04-27
 ---
 
 **💵Dollar-Cost Averaging (DCA)** is a strategy used in various investments, like **stocks** or **crypto**. It involves investing a set amount at regular times, which helps lower risk, especially in assets with volatile prices.

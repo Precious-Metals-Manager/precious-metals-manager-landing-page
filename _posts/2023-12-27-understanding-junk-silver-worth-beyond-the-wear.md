@@ -3,6 +3,10 @@ title: Understanding Junk Silver Worth Beyond the Wear
 author: Sergio Martin Rubio
 layout: post
 image: https://lh3.googleusercontent.com/pw/AP1GczNe9PVsGlpQxP2ufWt8KOUkWe7ehTthL2I7pEPYJXlLhfeCxFMcMDHwgGE7kM_mJXbJbP2Nj5dBW3sd_mNevsXgpp-QVpO3UxdNvzRAiyuN5-mf3zwF08XLuJfMuTnUUyov5EFv2YXA_u6r2u8-HBS-=w1200-h628-s-no?authuser=1
+description: "What junk silver is, how to calculate its melt value, and why pre-1965 US silver coins remain a popular way to buy silver at low premiums."
+categories: [fundamentals]
+tags: [junk-silver, silver, coins, melt-value, war-nickels, kennedy-half-dollar, barber]
+last_modified_at: 2026-04-27
 ---
 
 🔍 **Junk Silver** refers to old coins circulated as legal currency in the United States, containing **silver**. Also called **‘Old US Silver’** or **‘scrap Silver,’** these coins are historically and economically important because they represent real money. If there were an economic collapse, their value would likely remain stable.
