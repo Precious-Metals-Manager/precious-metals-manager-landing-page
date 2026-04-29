@@ -31,9 +31,8 @@
 
 .markdown-body img {
     background-color: var(--skeleton-base);
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
     width: 100%;
+    height: auto;
 
     &.img-loading { opacity: 0; }
     &.img-loaded { animation: fade-in 0.5s ease-in-out; }
