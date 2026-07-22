@@ -32,6 +32,14 @@ pro_price_yearly                          : "$29.99"                            
 pro_has_free_trial                        : true                                      # Set false to hide the free-trial badge/CTA.
 
 
+# Social proof — shown in the "Loved by stackers" section.
+# Rating values are the US App Store storefront; refresh occasionally.
+app_rating                                : "4.4"                                      # Average star rating.
+app_rating_count                          : "81"                                       # Number of ratings.
+app_users                                 : "10,000+"                                  # Total App Store downloads (rounded down). Blank hides the line.
+# Featured testimonials live in _data/testimonials.yml (real App Store reviews).
+
+
 
 # Information About Yourself
 your_name                                 : Precious Metals Manager                                

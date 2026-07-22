@@ -1,0 +1,35 @@
+{% comment %}
+  Social proof — App Store rating + real review testimonials.
+  Rating from _config.yml (app_rating, app_rating_count, app_users).
+  Testimonials from _data/testimonials.yml. Section hides gracefully
+  if no testimonials are defined.
+{% endcomment %}
+<section class="socialProof" id="reviews">
+  <div class="socialProof__head">
+    <p class="socialProof__rating" data-app-rating
+       data-app-id="{{ site.ios_app_id }}" data-country="{{ site.ios_app_country | default: 'us' }}">
+      <span class="socialProof__score" data-rating-score>{{ site.app_rating }}</span><span class="socialProof__star" aria-hidden="true">★</span>
+      <span class="socialProof__count">average &middot; <span data-rating-count>{{ site.app_rating_count }}</span> App Store ratings</span>
+    </p>
+    <h2 class="socialProof__title">Loved by stackers</h2>
+    {% if site.app_users %}
+    <p class="socialProof__users">Downloaded by {{ site.app_users }} stackers worldwide.</p>
+    {% endif %}
+  </div>
+
+  {% assign reviews = site.data.testimonials %}
+  {% if reviews and reviews.size > 0 %}
+  <div class="socialProof__grid">
+    {% for r in reviews %}
+    <figure class="testimonial">
+      <div class="testimonial__stars" aria-label="{{ r.rating | default: 5 }} out of 5 stars">★★★★★</div>
+      {% if r.title %}<p class="testimonial__title">{{ r.title }}</p>{% endif %}
+      <blockquote class="testimonial__quote">{{ r.quote }}</blockquote>
+      <figcaption class="testimonial__author">
+        {{ r.author }}<span class="testimonial__source"> &middot; App Store review</span>
+      </figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>

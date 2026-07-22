@@ -861,6 +861,118 @@ footer {
 	opacity: 0.65;
 }
 
+// Social proof — rating + testimonials
+
+.socialProof {
+	background-color: var(--bg-color);
+	padding: 4rem 1.5rem;
+}
+
+.socialProof__head {
+	max-width: 720px;
+	margin: 0 auto 2.5rem;
+	text-align: center;
+}
+
+.socialProof__rating {
+	display: flex;
+	align-items: baseline;
+	justify-content: center;
+	gap: 0.35rem;
+	margin-bottom: 0.5rem;
+}
+
+.socialProof__score {
+	font-size: 1.9rem;
+	font-weight: bold;
+	color: var(--primary-color);
+}
+
+.socialProof__star {
+	color: #f5a623;
+	font-size: 1.5rem;
+}
+
+.socialProof__count {
+	color: var(--secondary-color);
+	font-size: 1rem;
+	align-self: center;
+	margin-left: 0.3rem;
+}
+
+.socialProof__title {
+	color: var(--primary-color);
+	font-size: 2.5rem;
+	font-weight: bold;
+	line-height: 1.15;
+}
+
+.socialProof__users {
+	color: var(--secondary-color);
+	font-size: 1.15rem;
+	margin-top: 0.6rem;
+}
+
+.socialProof__grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+	gap: 1.5rem;
+	max-width: $content-width;
+	margin: 0 auto;
+}
+
+.testimonial {
+	background-color: var(--hero-bg-color);
+	border: 1px solid rgba(127, 127, 127, 0.15);
+	border-radius: 16px;
+	padding: 1.75rem;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+.testimonial__stars {
+	color: #f5a623;
+	letter-spacing: 2px;
+	margin-bottom: 0.75rem;
+}
+
+.testimonial__title {
+	color: var(--primary-color);
+	font-weight: bold;
+	font-size: 1.1rem;
+	margin: 0 0 0.5rem;
+}
+
+.testimonial__quote {
+	color: var(--font-color);
+	font-size: 1.05rem;
+	line-height: 1.55;
+	margin: 0 0 1.25rem;
+}
+
+.testimonial__author {
+	color: var(--primary-color);
+	font-weight: bold;
+	font-size: 0.95rem;
+	margin-top: auto;
+}
+
+.testimonial__source {
+	color: var(--secondary-color);
+	font-weight: normal;
+}
+
+@media (max-width: 768px) {
+	.socialProof {
+		padding: 2.5rem 1.25rem;
+	}
+
+	.socialProof__title {
+		font-size: 1.9rem;
+	}
+}
+
 // Pricing — Free vs Pro
 
 .pricing {

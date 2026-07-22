@@ -1,0 +1,27 @@
+# Featured testimonials — real public App Store reviews (US storefront).
+# Keep quotes faithful; trim with … only. Attribute to the reviewer's handle.
+# To feature a different review, replace an entry below.
+
+- title: Best app to track all your precious metals
+  quote: >-
+    The best app available for tracking a precious metals portfolio. The user
+    interface is clean and modern… It excels at its core function: tracking live
+    spot prices to provide a real-time valuation of your holdings.
+  author: jones50187
+  rating: 5
+
+- title: There's nothing that compares to this…
+  quote: >-
+    Superb app; lots of flexibility and now you can add attachments. There's
+    nothing that matches the functionality out there, and the user interface is
+    modern unlike others.
+  author: SWSellers
+  rating: 5
+
+- title: Exactly what I needed.
+  quote: >-
+    Easy to use, very straightforward. Support is great — I suggested adding an
+    average paid-per-item cost, and a couple days later the update was made. It
+    would be nice if more apps were this useful.
+  author: wade-BlueshieldInspections
+  rating: 5
