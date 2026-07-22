@@ -1156,3 +1156,82 @@ footer {
 		padding: 1.5rem;
 	}
 }
+
+// FAQ
+
+.faq {
+	background-color: var(--hero-bg-color);
+	padding: 4rem 1.5rem;
+}
+
+.faq__title {
+	text-align: center;
+	color: var(--primary-color);
+	font-size: 2.5rem;
+	font-weight: bold;
+	margin-bottom: 2.5rem;
+}
+
+.faq__list {
+	max-width: 820px;
+	margin: 0 auto;
+}
+
+.faq__item {
+	border-bottom: 1px solid rgba(127, 127, 127, 0.2);
+}
+
+.faq__q {
+	list-style: none;
+	cursor: pointer;
+	position: relative;
+	padding: 1.25rem 2.75rem 1.25rem 0;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: var(--primary-color);
+}
+
+.faq__q::-webkit-details-marker {
+	display: none;
+}
+
+.faq__q::after {
+	content: "+";
+	position: absolute;
+	right: 0.4rem;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 1.7rem;
+	font-weight: 400;
+	line-height: 1;
+	color: var(--accent-color);
+}
+
+.faq__item[open] .faq__q::after {
+	content: "\2013"; // en dash
+}
+
+.faq__a {
+	padding: 0 0 1.4rem;
+	color: var(--secondary-color);
+	font-size: 1.05rem;
+	line-height: 1.6;
+}
+
+.faq__a p {
+	margin: 0;
+}
+
+@media (max-width: 768px) {
+	.faq {
+		padding: 2.5rem 1.25rem;
+	}
+
+	.faq__title {
+		font-size: 1.9rem;
+	}
+
+	.faq__q {
+		font-size: 1.05rem;
+	}
+}

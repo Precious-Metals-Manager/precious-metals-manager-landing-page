@@ -1,0 +1,35 @@
+{% comment %}
+  FAQ — accessible <details> accordion (no JS) + FAQPage structured data.
+  Content lives in _data/faq.yml. Renders nothing if that file is empty.
+{% endcomment %}
+{% if site.data.faq and site.data.faq.size > 0 %}
+<section class="faq" id="faq">
+  <h2 class="faq__title">Frequently asked questions</h2>
+  <div class="faq__list">
+    {% for item in site.data.faq %}
+    <details class="faq__item">
+      <summary class="faq__q">{{ item.question }}</summary>
+      <div class="faq__a">{{ item.answer | markdownify }}</div>
+    </details>
+    {% endfor %}
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in site.data.faq %}{
+      "@type": "Question",
+      "name": {{ item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.answer | strip_newlines | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
