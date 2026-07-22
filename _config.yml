@@ -110,3 +110,19 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Social sharing card (Open Graph / Twitter) — used by jekyll-seo-tag.
+twitter:
+  username: metalsmanager
+  card: summary_large_image
+
+# Default share image for every page (individual posts can override `image`).
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/og-image.png
+        width: 1200
+        height: 630
+        alt: "Precious Metals Manager — track gold, silver, platinum & palladium"
