@@ -1,0 +1,56 @@
+{% comment %}
+  Freemium pricing — Free vs Pro cards.
+  Values come from _config.yml (free_item_limit, free_order_limit,
+  pro_price_monthly, pro_price_yearly, pro_has_free_trial).
+  Both CTAs point at the App Store (purchase happens in-app).
+{% endcomment %}
+<section class="pricing" id="pricing">
+  <div class="pricing__head">
+    <h2 class="pricing__title">Free to start. Go Pro when you're ready.</h2>
+    <p class="pricing__subtitle">
+      Download and track your stack for free &mdash; no account, no credit card. Upgrade only if you want more.
+    </p>
+  </div>
+
+  <div class="pricing__cards">
+    <!-- Free -->
+    <div class="priceCard">
+      <p class="priceCard__name">Free</p>
+      <p class="priceCard__price">$0<span class="priceCard__per"> to download</span></p>
+      <p class="priceCard__tagline">Everything you need to start stacking with confidence.</p>
+      <ul class="priceCard__features">
+        <li>Track gold, silver, platinum &amp; palladium</li>
+        <li>Up to {{ site.free_item_limit }} items</li>
+        <li>Up to {{ site.free_order_limit }} orders</li>
+        <li>Core portfolio metrics &amp; average cost</li>
+        <li>Private &mdash; data stays on your device</li>
+      </ul>
+      <a class="priceCard__cta priceCard__cta--outline" href="{{ site.appstore_link }}">Download free</a>
+    </div>
+
+    <!-- Pro -->
+    <div class="priceCard priceCard--pro">
+      {% if site.pro_has_free_trial %}<span class="priceCard__badge">Free trial</span>{% endif %}
+      <p class="priceCard__name">Pro</p>
+      <p class="priceCard__price">
+        {{ site.pro_price_monthly }}<span class="priceCard__per">/mo</span>
+        <span class="priceCard__or">or</span>
+        {{ site.pro_price_yearly }}<span class="priceCard__per">/yr</span>
+      </p>
+      <p class="priceCard__region">{{ site.pricing_currency | default: "USD" }} &middot; your local price is shown in the App Store</p>
+      <p class="priceCard__tagline">Full portfolio control with no limits.</p>
+      <ul class="priceCard__features">
+        <li>Everything in Free</li>
+        <li>Unlimited items, orders &amp; sales</li>
+        <li>Live spot &amp; dealer offer prices</li>
+        <li>Price &amp; ratio alerts</li>
+        <li>Annual tax reports &amp; CSV export</li>
+      </ul>
+      <a class="priceCard__cta priceCard__cta--fill" href="{{ site.appstore_link }}">
+        {% if site.pro_has_free_trial %}Start free trial{% else %}Get Pro{% endif %}
+      </a>
+    </div>
+  </div>
+
+  <p class="pricing__note">Subscriptions are billed through the App Store. Cancel anytime.</p>
+</section>

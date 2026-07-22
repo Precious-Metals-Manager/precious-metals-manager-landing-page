@@ -23,6 +23,15 @@ app_description                           : Track your precious metals with ease
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
+# Pricing (freemium) — powers the Free vs Pro section on the home page.
+# Confirm these match App Store Connect before each release.
+free_item_limit                           : 10                                        # Items allowed on the free tier.
+free_order_limit                          : 3                                         # Orders allowed on the free tier.
+pro_price_monthly                         : "$2.99"                                    # Pro monthly price (display string).
+pro_price_yearly                          : "$29.99"                                   # Pro yearly price (display string).
+pro_has_free_trial                        : true                                      # Set false to hide the free-trial badge/CTA.
+
+
 
 # Information About Yourself
 your_name                                 : Precious Metals Manager                                
