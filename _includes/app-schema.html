@@ -1,0 +1,35 @@
+{% comment %}
+  SoftwareApplication + AggregateRating structured data (home page only).
+  Rating values come from _config.yml (app_rating / app_rating_count) and are
+  also shown visibly in the social-proof section, satisfying Google's guideline
+  that marked-up ratings be visible to users.
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": {{ site.app_name | default: site.title | jsonify }},
+  "operatingSystem": "iOS",
+  "applicationCategory": "FinanceApplication",
+  "description": {{ site.description | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "downloadUrl": {{ site.appstore_link | jsonify }},
+  "image": {{ "/assets/images/og-image.png" | absolute_url | jsonify }},
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": {{ site.your_name | default: site.title | jsonify }}
+  }{% if site.app_rating and site.app_rating_count %},
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ site.app_rating | jsonify }},
+    "ratingCount": {{ site.app_rating_count | remove: "," }},
+    "bestRating": "5",
+    "worstRating": "1"
+  }{% endif %}
+}
+</script>
