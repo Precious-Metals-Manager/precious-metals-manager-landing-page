@@ -1,9 +1,22 @@
-<div id="cookie-notice">
+<div id="cookie-notice" role="dialog" aria-modal="false" aria-live="polite" aria-label="Cookie consent">
     <div class="cookie-notice-inner">
-        <span class="cookie-notice-description">We would like to use third party cookies to improve the functionality of this website.</span>
+        <div class="cookie-notice-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2a10 10 0 1 0 10 10 4 4 0 0 1-5-5 4 4 0 0 1-5-5Z"></path>
+                <circle cx="8.5" cy="12.5" r="0.6" fill="currentColor"></circle>
+                <circle cx="12.5" cy="16" r="0.6" fill="currentColor"></circle>
+                <circle cx="15.5" cy="12" r="0.6" fill="currentColor"></circle>
+                <circle cx="9" cy="8.5" r="0.6" fill="currentColor"></circle>
+            </svg>
+        </div>
+        <div class="cookie-notice-text">
+            <span class="cookie-notice-title">We value your privacy</span>
+            <span class="cookie-notice-description">We use third party cookies to analyse traffic and improve your experience on this website. You can accept or decline them below.</span>
+            <a href="/privacypolicy" class="cookie-notice-link">Read our privacy policy</a>
+        </div>
         <div class="cookie-consent-banner-actions">
-            <a id="cookie-notice-accept" class="btn btn-success btn-sm" role="button" aria-label="Approve cookies and close banner">Approve</a>
-            <a href="/privacypolicy" class="btn btn-secondary btn-sm privacy-policy-button">Our privacy policy</a>
+            <button type="button" id="cookie-notice-decline" class="cookie-btn cookie-btn-secondary" aria-label="Decline non-essential cookies">Decline</button>
+            <button type="button" id="cookie-notice-accept" class="cookie-btn cookie-btn-primary" aria-label="Accept cookies">Accept</button>
         </div>
     </div>
 </div>
@@ -15,7 +28,7 @@
             date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
@@ -31,18 +44,45 @@
         createCookie(name, "", -1);
     }
 
-    if (readCookie('cookie-notice-dismissed') == 'true') {
-        {% include google-tag.js %}
-        document.getElementById('cookie-notice').style.display = 'none';
-    } else {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
+    (function () {
+        var notice = document.getElementById('cookie-notice');
+        var consent = readCookie('cookie-consent');
+        // Backwards compatibility with the previous banner's cookie
+        if (!consent && readCookie('cookie-notice-dismissed') == 'true') {
+            consent = 'accepted';
+        }
 
-    document.getElementById('cookie-notice-accept').addEventListener("click", function () {
-        createCookie('cookie-notice-dismissed', 'true', 31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        {% include google-tag.js %}
-        location.reload();
-    });
+        function hideNotice() {
+            notice.classList.remove('is-visible');
+            window.setTimeout(function () {
+                notice.style.display = 'none';
+            }, 350);
+        }
 
+        if (consent == 'accepted') {
+            {% include google-tag.js %}
+            notice.style.display = 'none';
+        } else if (consent == 'declined') {
+            notice.style.display = 'none';
+        } else {
+            notice.style.display = 'block';
+            // Trigger the slide-up transition after the element is painted
+            window.requestAnimationFrame(function () {
+                window.requestAnimationFrame(function () {
+                    notice.classList.add('is-visible');
+                });
+            });
+        }
+
+        document.getElementById('cookie-notice-accept').addEventListener("click", function () {
+            createCookie('cookie-consent', 'accepted', 365);
+            hideNotice();
+            {% include google-tag.js %}
+        });
+
+        document.getElementById('cookie-notice-decline').addEventListener("click", function () {
+            createCookie('cookie-consent', 'declined', 365);
+            hideNotice();
+        });
+    })();
 </script>

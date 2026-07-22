@@ -651,65 +651,138 @@ footer {
 // Cookie consent banner
 
 #cookie-notice {
-	width: 100%;
-	background: #222;
-	color: rgba(255, 255, 255, 0.8);
+	display: none;
 	position: fixed;
-	bottom: 0;
-	left: 0;
+	bottom: 24px;
+	left: 24px;
+	right: 24px;
+	max-width: 440px;
 	z-index: 2147483645;
 	box-sizing: border-box;
-	padding-left: 24px;
-	padding-right: 24px;
+	background: var(--bg-color);
+	color: var(--font-color);
+	border: 1px solid rgba(128, 128, 128, 0.18);
+	border-radius: 16px;
+	box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
+	// Start off-screen for the slide-up entrance
+	opacity: 0;
+	transform: translateY(24px);
+	transition: opacity 0.35s ease, transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+#cookie-notice.is-visible {
+	opacity: 1;
+	transform: translateY(0);
 }
 
 .cookie-notice-inner {
-	max-width: 960px;
-	margin: 0 auto;
-	padding: 24px 0;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	gap: 14px;
+	padding: 22px 24px;
+}
+
+.cookie-notice-icon {
+	flex: 0 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 44px;
+	height: 44px;
+	border-radius: 12px;
+	background: var(--hero-bg-color);
+	color: var(--accent-color);
+}
+
+.cookie-notice-text {
+	flex: 1 1 220px;
+	min-width: 0;
+}
+
+.cookie-notice-title {
+	display: block;
+	font-family: "CeraPRO-Regular", sans-serif, arial;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 22px;
+	margin-bottom: 4px;
 }
 
 .cookie-notice-description {
+	display: block;
 	font-family: "CeraPRO-Regular", sans-serif, arial;
 	font-weight: normal;
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 14px;
+	line-height: 21px;
+	color: var(--secondary-color);
+}
+
+.cookie-notice-link {
+	display: inline-block;
+	margin-top: 6px;
+	font-family: "CeraPRO-Regular", sans-serif, arial;
+	font-size: 14px;
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+.cookie-notice-link:hover {
+	text-decoration: underline;
 }
 
 .cookie-consent-banner-actions {
-	padding-top: 12px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	width: 100%;
+	margin-top: 4px;
 }
 
-#cookie-notice a {
+.cookie-btn {
+	flex: 1 1 auto;
 	box-sizing: border-box;
-	display: inline-block;
-	min-width: 164px;
-	padding: 11px 13px;
-	border-radius: 2px;
-	color: #fff;
-	text-decoration: none;
+	padding: 11px 18px;
+	border-radius: 10px;
+	border: 1px solid transparent;
+	cursor: pointer;
 	text-align: center;
 	font-family: "CeraPRO-Regular", sans-serif, arial;
-	font-weight: normal;
-	font-size: 16px;
+	font-weight: 600;
+	font-size: 15px;
 	line-height: 20px;
+	transition: opacity 0.15s ease, background 0.15s ease;
 }
 
-@media (max-width: 767px) {
-	#cookie-notice span {
-		display: block;
-		padding-top: 3px;
-		margin-bottom: 1rem;
-	}
+.cookie-btn:hover {
+	opacity: 0.88;
+}
 
-	#cookie-notice a {
-		position: relative;
-		bottom: 4px;
+.cookie-btn-primary {
+	background: var(--accent-color);
+	color: #fff;
+}
+
+.cookie-btn-secondary {
+	background: transparent;
+	color: var(--font-color);
+	border-color: rgba(128, 128, 128, 0.35);
+}
+
+@media (max-width: 480px) {
+	#cookie-notice {
+		left: 12px;
+		right: 12px;
+		bottom: 12px;
+		max-width: none;
 	}
 }
 
-.privacy-policy-button {
-	color: white !important;
+@media (prefers-reduced-motion: reduce) {
+	#cookie-notice {
+		transition: none;
+		transform: none;
+	}
 }
 
 // Blog post meta icon
