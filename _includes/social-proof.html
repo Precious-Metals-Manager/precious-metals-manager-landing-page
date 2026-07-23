@@ -22,7 +22,8 @@
   <div class="socialProof__grid">
     {% for r in reviews %}
     <figure class="testimonial">
-      <div class="testimonial__stars" aria-label="{{ r.rating | default: 5 }} out of 5 stars">★★★★★</div>
+      {% assign stars = r.rating | default: 5 %}
+      <div class="testimonial__stars" role="img" aria-label="{{ stars }} out of 5 stars">{% for i in (1..5) %}{% if i <= stars %}★{% else %}<span class="testimonial__star--empty">☆</span>{% endif %}{% endfor %}</div>
       {% if r.title %}<p class="testimonial__title">{{ r.title }}</p>{% endif %}
       <blockquote class="testimonial__quote">{{ r.quote }}</blockquote>
       <figcaption class="testimonial__author">

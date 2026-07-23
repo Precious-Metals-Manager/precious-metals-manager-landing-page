@@ -1059,6 +1059,10 @@ footer {
 	margin-bottom: 0.75rem;
 }
 
+.testimonial__star--empty {
+	color: rgba(127, 127, 127, 0.45);
+}
+
 .testimonial__title {
 	color: var(--primary-color);
 	font-weight: bold;

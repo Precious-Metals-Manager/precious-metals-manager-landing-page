@@ -1,2 +1,8 @@
+---
+# Front matter so Jekyll processes the sitemap URL below.
+layout: null
+---
 User-agent: *
 Allow: /
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
