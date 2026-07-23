@@ -542,6 +542,22 @@ input:checked+.slider:before {
 	margin: auto;
 }
 
+.featureIcon {
+	max-width: 300px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem 0;
+}
+
+.featureIcon svg {
+	width: 55%;
+	max-width: 170px;
+	height: auto;
+	color: var(--accent-color);
+}
+
 // Download on the App Store
 
 .appStoreContainer {
