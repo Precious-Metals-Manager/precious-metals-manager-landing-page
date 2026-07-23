@@ -381,8 +381,54 @@ input:checked+.slider:before {
 
 }
 
+.heroDownload {
+	display: flex;
+	align-items: center;
+	gap: 28px;
+	flex-wrap: wrap;
+}
+
+.appStoreBadgeLink {
+	display: inline-block;
+}
+
+.appStoreBadge {
+	height: 56px;
+	width: auto;
+	display: block;
+}
+
+.heroQr {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 6px;
+	text-decoration: none;
+}
+
 .appStoreQR {
-	height: 350px;
+	height: 200px;
+	width: auto;
+	border-radius: 12px;
+	display: block;
+}
+
+.heroQr__caption {
+	font-size: 1.3rem;
+	color: var(--secondary-color);
+	white-space: nowrap;
+}
+
+@media only screen and (max-width: 768px) {
+
+	.heroDownload {
+		justify-content: center;
+	}
+
+	// Scanning a QR code on the same phone you're browsing on is pointless.
+	.heroQr {
+		display: none;
+	}
 }
 
 

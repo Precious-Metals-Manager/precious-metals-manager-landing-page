@@ -29,8 +29,20 @@
                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore"
                         src="assets/playstore.png" alt="Get it on Google Play"></a>
                 {% endif %}
-                <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStoreQR"
-                        src="assets/images/appstoreQR.webp" alt="Precious Metals Manager QR code"></a>
+                <div class="heroDownload">
+                    <a class="appStoreBadgeLink" href="{{ site.appstore_link }}">
+                        <img class="theme-image appStoreBadge" width="168" height="56"
+                            data-light="/assets/images/light/appstore_black.svg"
+                            data-dark="/assets/images/dark/appstore_white.svg"
+                            src="/assets/images/light/appstore_black.svg"
+                            alt="Download Precious Metals Manager on the App Store">
+                    </a>
+                    <a class="heroQr" href="{{ site.appstore_link }}" aria-label="Scan the QR code to download on the App Store">
+                        <img class="appStoreQR" width="127" height="200"
+                            src="assets/images/appstoreQR.webp" alt="Precious Metals Manager App Store QR code">
+                        <span class="heroQr__caption">Scan to download</span>
+                    </a>
+                </div>
             </div>
         </div>
         {% include appstoreimages.html %}
