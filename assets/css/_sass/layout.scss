@@ -125,7 +125,7 @@ header {
 }
 
 .navbar {
-	background-color: var(--background-color) !important;
+	background-color: var(--heading-color) !important;
 	color: var(--font-color) !important;
 }
 
@@ -135,11 +135,11 @@ nav.navbar {
 }
 
 .navbar-collapse {
-	background-color: var(--background-color) !important;
+	background-color: var(--heading-color) !important;
 }
 
 .dropdown-menu {
-	background-color: var(--background-color) !important;
+	background-color: var(--heading-color) !important;
 	color: var(--font-color) !important;
 	border: 1px solid var(--font-highlight) !important;
 }
@@ -150,11 +150,11 @@ nav.navbar {
 
 .dropdown-menu .dropdown-item:hover {
 	background-color: var(--font-highlight) !important;
-	color: var(--background-color) !important;
+	color: var(--heading-color) !important;
 }
 
 .navbar-light .navbar-nav .nav-link {
-	color: var(--font-accent) !important;
+	color: var(--font-color) !important;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
@@ -168,7 +168,7 @@ nav.navbar {
 }
 
 .navbar-toggler {
-	background-color: var(--background-color) !important;
+	background-color: var(--heading-color) !important;
 }
 
 /* Dark Mode: When the body has the 'dark' theme */
@@ -321,6 +321,9 @@ input:checked+.slider:before {
 
 .appDescription {
 	color: var(--primary-color);
+	// Hero headline is an <h1>; keep the container's sizing/weight, not the base h1 defaults
+	font-size: inherit;
+	font-weight: inherit;
 }
 
 .appSloganContainer {
