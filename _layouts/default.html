@@ -8,7 +8,8 @@
     {% include_cached header.html %}
     <main class="mainPageContainer">
         <div class="iphonePreview">
-            <img class="theme-image iphoneScreen" id="heroScreenshot"
+            <img class="theme-image iphoneScreen" id="heroScreenshot" width="828" height="1631"
+                fetchpriority="high"
                 data-light="{{ site.github.baseurl }}/assets/images/light/screenshot1_light.webp"
                 data-dark="{{ site.github.baseurl }}/assets/images/dark/screenshot1_dark.webp"
                 src="{{ site.github.baseurl }}/assets/images/dark/screenshot1_dark.webp" alt="Precious Metals Manager">

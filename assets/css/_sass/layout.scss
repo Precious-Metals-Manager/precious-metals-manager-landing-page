@@ -445,6 +445,7 @@ input:checked+.slider:before {
 
 .iphoneScreen {
 	width: 349px;
+	height: auto; // override the height attribute hint so the aspect ratio is preserved
 	margin-left: 120px;
 	margin-top: 22px;
 }
