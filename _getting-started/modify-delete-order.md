@@ -27,6 +27,7 @@ You can modify or delete orders after they are created. To learn how to create a
 
 * Seller
 * Invoice number
+* Tracking number
 * Shipping cost
 * Order date
 * Note

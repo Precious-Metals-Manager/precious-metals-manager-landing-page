@@ -3,6 +3,8 @@ title: Premium Calculator
 layout: article
 ---
 
+> The Premium Calculator is a Pro feature. Tapping it without a subscription opens the upgrade screen.
+
 1) In the Tools tab, open the Premium Calculator by selecting 'Premium' under the 'Calculators' section.
 
 {% include theme-two-images.html
@@ -33,7 +35,7 @@ layout: article
 
 Use this tool to evaluate deals and set fair prices confidently.
 
-You can also use the calculator with a selected bullion preset from the “Presets” tab. In this case, you only need to enter the seller price.
+You can also open the calculator from a product — either one of your own presets under “Presets” → “Products”, or a coin in the “Catalog” tab. In this case, you only need to enter the seller price.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/other-features/premium-calculator/bullion_details_calculator_light.webp"

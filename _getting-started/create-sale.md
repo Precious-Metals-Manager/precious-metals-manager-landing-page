@@ -58,3 +58,12 @@ Once you have saved a sale, you can review it from the item's page on the "Inven
    data_light_2="/assets/images/light/getting-started/shared/sale_details_light.webp"
    data_dark_2="/assets/images/dark/getting-started/shared/sale_details_dark.webp"
    alt="Sale details screens" %}
+
+## How gain or loss is calculated
+
+The gain or loss on a sale depends on which purchase the app treats as its cost basis. You choose the method under **Settings → Cost Basis Method**:
+
+* **Specific Lot** (default): the cost basis is the unit cost of the exact item the sale is linked to.
+* **Average Cost**: the cost basis is the weighted-average unit cost of every lot of that product acquired on or before the sale date.
+
+> Changing the method re-calculates the gain or loss shown on existing sales as well — it doesn't alter the sales themselves. Pick whichever matches how you report to your tax authority.

@@ -36,12 +36,12 @@ When you export to CSV, the app includes:
 * **Seller information**
 * **Order and invoice details**
 * **Item quantity and ID**
-* **Bullion name, type, and metal**
+* **Product name, type, and metal**
 * **Mint, purity, wear, and metal content**
 * **Unit price, tax rate, and spot price**
 * **Notes and assay status**
 
-Each row in the CSV represents a specific transaction involving a bullion item.
+Each row in the CSV represents a specific transaction involving an item.
 
 ---
 

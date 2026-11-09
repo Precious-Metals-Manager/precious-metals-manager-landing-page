@@ -30,7 +30,7 @@ When you make a purchase at a coin shop or from another individual, you are buyi
 
 * Metal: Gold, Silver, Platinum, Palladium, or Copper.
 * Form Factor: Bar, Coin, Round, or Jewelry.
-* Bullion Preset (Optional): Select from one of the included presets, or create your own. Selecting a preset auto-fills and locks name, mint, net weight, purity, and wear.
+* Product Preset (Optional): Select from one of the included presets, or create your own. Selecting a preset auto-fills and locks name, mint, net weight, purity, and wear.
 * Name (Optional): only available when a preset is not selected.
 * Mint (Optional): only available when a preset is not selected.
 * Year (Optional)
@@ -75,7 +75,9 @@ or from the "Inventory" tab.
    data_dark="/assets/images/dark/getting-started/shared/inventory_with_item_dark.webp"
    alt="Add item button" %}
 
-The item screen shows all the details about the item. Additinally, you can attach up to two photos, mark the item as verified or add sales.
+The item screen shows all the details about the item. Additionally, you can attach up to two photos, mark the item as verified, add tags, export the item to PDF or add sales.
+
+> Tags are a free-form way to group items across orders — "junk silver", "gift", "in safe", whatever suits you. Tap the tags row on the item screen to pick from existing tags or create a new one, and manage the full list under "Presets" → "Item Tags". You can then filter your inventory by tag.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/getting-started/shared/item_details_1_light.webp"

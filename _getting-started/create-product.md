@@ -1,10 +1,12 @@
 ---
-title: Create a bullion preset
+title: Create a product preset
 layout: article
 order: 3
+redirect_from:
+  - /help/create-bullion/
 ---
 
-The concept of "Bullion" in Precious Metals Manager represents either a coin, bar or round.
+The concept of "Product" in Precious Metals Manager represents either a coin, bar, round or piece of jewelry.
 
 1) Tap on the "Presets" tab.
 
@@ -13,23 +15,23 @@ The concept of "Bullion" in Precious Metals Manager represents either a coin, ba
    data_dark="/assets/images/dark/getting-started/create-bullion/presets_dark.webp"
    alt="Presets" %}
 
-2) Tap on the "+" button to open up the page to create a bullion preset.
+2) Tap on "Products", then tap the "+" button to open up the page to create a product preset.
 
 {% include theme-image.html
    data_light="/assets/images/light/getting-started/create-bullion/presets_bullions_light.webp"
    data_dark="/assets/images/dark/getting-started/create-bullion/presets_bullions_dark.webp"
-   alt="Bullion presets" %}
+   alt="Product presets" %}
 
-Alternatively, you can create a bullion preset while [creating an item](https://preciousmetalsmanager.com/help/create-item/). The metal and form factor are selected during the item creation process.
+Alternatively, you can create a product preset while [creating an item](https://preciousmetalsmanager.com/help/create-item/). The metal and form factor are selected during the item creation process.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/getting-started/create-bullion/create_item_bullion_selection_light.webp"
    data_dark_1="/assets/images/dark/getting-started/create-bullion/create_item_bullion_selection_dark.webp"
    data_light_2="/assets/images/light/getting-started/create-bullion/bullion_selection_light.webp"
    data_dark_2="/assets/images/dark/getting-started/create-bullion/bullion_selection_dark.webp"
-   alt="Presets Bullions" %}
+   alt="Product presets selection" %}
 
-3) The input screen for registering a new bullion consists of:
+3) The input screen for registering a new product consists of:
 
 * Name (Optional)
 * Mint (Optional)
@@ -40,22 +42,22 @@ Alternatively, you can create a bullion preset while [creating an item](https://
 * Face Value (Optional): nominal face value of the coin or bar.
 * Face Value Currency (Optional): currency of the face value (e.g. USD).
 
-> Creating an item without selecting a bullion preset automatically creates a bullion using the item's attributes.
+> Creating an item without selecting a product preset automatically creates a product using the item's attributes.
 
 {% include theme-image.html
    data_light="/assets/images/light/getting-started/create-bullion/create_bullion_light.webp"
    data_dark="/assets/images/dark/getting-started/create-bullion/create_bullion_dark.webp"
-   alt="Create bullion screen" %}
+   alt="Create product screen" %}
 
-4) Tap on "Save" to register the bullion.
+4) Tap on "Save" to register the product.
 
-5) Review your bullion presets.
+5) Review your product presets.
 
-Once you have saved a bullion, you can select it as a preset when you create a new item and review it from the "Presets" tab.
+Once you have saved a product, you can select it as a preset when you create a new item and review it from the "Presets" tab.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/getting-started/shared/presets_with_entry_light.webp"
    data_dark_1="/assets/images/dark/getting-started/shared/presets_with_entry_dark.webp"
    data_light_2="/assets/images/light/getting-started/shared/bullion_details_light.webp"
    data_dark_2="/assets/images/dark/getting-started/shared/bullion_details_dark.webp"
-   alt="Bullion details" %}
+   alt="Product details" %}

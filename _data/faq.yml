@@ -9,9 +9,11 @@
 
 - question: What's included in Pro, and how much does it cost?
   answer: >-
-    Pro removes all limits and adds live spot and dealer offer prices, price and
-    ratio alerts, and annual tax reports with CSV export. It's $2.99 per month or
-    $29.99 per year (US pricing; your local price is shown in the App Store).
+    Pro removes all limits and adds dealer offer prices and offer-based
+    valuation, the premium and purity-value calculators, price and ratio alerts,
+    premium history per product, annual tax reports with CSV export, and extended
+    chart ranges with correlation analysis. It's $2.99 per month or $29.99 per
+    year (US pricing; your local price is shown in the App Store).
 
 - question: Is there a free trial?
   answer: >-
@@ -24,25 +26,37 @@
     allocation, live spot and dealer offer prices, dollar-cost-averaging and
     average-cost analytics, value- and weight-over-time charts, an annual tax
     report, the gold-to-silver ratio, metal-versus-crypto performance and
-    correlation, premium and purity-value calculators, price and ratio alerts,
-    monthly budgets, and a home-screen spot-price widget.
+    correlation, premium and purity-value calculators, premium history per
+    product, price and ratio alerts, monthly budgets, a home-screen spot-price
+    widget, and invoice import powered by Apple Intelligence.
+
+- question: Can the app read my dealer invoices automatically?
+  answer: >-
+    Yes. Pick a PDF or a photo of an invoice and the app reads it with Apple
+    Intelligence, then fills in the seller, invoice and tracking numbers,
+    shipping, date and every line item, matching each one to a product in the
+    catalog for you to review before saving. The whole thing runs on your device
+    and the invoice is never uploaded anywhere. It needs iOS 26 or macOS 26 on an
+    Apple Intelligence capable device.
 
 - question: Which precious metals can I track?
   answer: >-
-    Gold, silver, platinum and palladium — including coins, bars and rounds, with
-    purity, weight and premium tracked for each item.
+    Gold, silver, platinum, palladium and copper — as coins, bars, rounds or
+    jewelry, with purity, weight and premium tracked for each item.
 
 - question: Can I track orders, sales and graded coins?
   answer: >-
-    Yes. Record each purchase as an order with dealer, invoice and shipping
-    details, add items with metal, weight, purity, premium and photos, organise
-    them as coins, bars or rounds, and log third-party grading. Sales are tracked
-    too, so you can see both realised and unrealised gains.
+    Yes. Record each purchase as an order with dealer, invoice, tracking and
+    shipping details, add items with metal, weight, purity, premium and photos,
+    organise them as coins, bars, rounds or jewelry, and log third-party grading.
+    Sales are tracked too, so you can see both realised and unrealised gains.
 
-- question: Does it work on iPad?
+- question: Does it work on iPad and Mac?
   answer: >-
-    Yes. Precious Metals Manager is a universal app that runs on both iPhone and
-    iPad, adapting its layout to each screen size.
+    Yes. Precious Metals Manager is a universal app that runs on iPhone, iPad and
+    Mac, adapting its layout to each screen size — a tab bar on iPhone and a
+    sidebar on iPad and Mac. One purchase covers all your devices, and your
+    portfolio syncs between them through iCloud.
 
 - question: Is my portfolio data private?
   answer: >-
@@ -57,5 +71,5 @@
 
 - question: Is there an Android version?
   answer: >-
-    Not yet — Precious Metals Manager is currently available on iPhone and iPad
-    only.
+    Not yet — Precious Metals Manager is currently available on iPhone, iPad and
+    Mac only.

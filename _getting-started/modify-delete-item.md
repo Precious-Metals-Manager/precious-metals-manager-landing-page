@@ -28,7 +28,7 @@ You can modify or delete items after they are created. To learn how to create an
    data_dark="/assets/images/dark/getting-started/shared/order_items_dark.webp"
    alt="Select item from list" %}
 
-4) Tap on "Edit" button on the top right for modifying an item, or the "Delete Item" button at the bottom of the page for deletion.
+4) Tap on "Edit" button on the top right for modifying an item, or open the "..." menu next to it and choose "Delete Item" for deletion.
 
 {% include theme-image.html
    data_light="/assets/images/light/getting-started/modify-delete-item/edit_and_delete_item_buttons_light.webp"
@@ -39,7 +39,7 @@ You can modify or delete items after they are created. To learn how to create an
 
 * Metal: Gold, Silver, Platinum, Palladium, or Copper.
 * Form Factor: Bar, Coin, Round, or Jewelry.
-* Bullion Preset: select from one of the included presets, or create your own. Selecting a preset locks name, mint, net weight, purity, and wear.
+* Product Preset: select from one of the included presets, or create your own. Selecting a preset locks name, mint, net weight, purity, and wear.
 * Name: only editable when a preset is not selected.
 * Mint: only editable when a preset is not selected.
 * Year
@@ -55,7 +55,7 @@ You can modify or delete items after they are created. To learn how to create an
 * Exclude from Valuation (Optional): when enabled, the item won't count toward portfolio totals.
 * Note
 
-> Some of the fields cannot be modified and selecting a different bullion preset is required.
+> Some of the fields cannot be modified and selecting a different product preset is required.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/getting-started/modify-delete-item/edit_item_light.webp"
@@ -65,3 +65,11 @@ You can modify or delete items after they are created. To learn how to create an
    alt="Edit item screen" %}
 
 6) Update the desired fields and save.
+
+---
+
+## Export an item to PDF
+
+The "..." menu on the item screen also has an **Export PDF** option (iPhone and iPad). It produces a one-page sheet with the item's purchase details, product and physical specifications, grading information, note and tags — handy for insurance records, or for passing a single piece's provenance to a buyer.
+
+> Exporting an item to PDF is available to everyone, including the free plan.

@@ -3,7 +3,7 @@ title: Live Spot Prices
 layout: article
 ---
 
-Want to know exactly what your metals are worth right now? The Live Spot Prices view in Precious Metals Manager gives you up-to-date pricing for gold, silver, platinum, and palladium — refreshed automatically and shown in your preferred currency.
+Want to know exactly what your metals are worth right now? The Live Spot Prices view in Precious Metals Manager gives you up-to-date pricing for gold, silver, platinum, palladium, and copper — refreshed automatically and shown in your preferred currency.
 
 Here’s a quick guide to help you make the most of this screen.
 
@@ -143,6 +143,12 @@ Combine Spot Prices with:
 * **Premium Calculator** – to check over/under market
 * **Alerts** – to get notified when prices reach your targets
 * **Inventory** – to see what your collection is worth at current rates
+
+---
+
+## Showing Only the Metals You Stack
+
+Don't track all five metals? Open **Settings → Metals** and switch off the ones you don't hold. They disappear from Spot Prices, Offer Prices and the rest of the app. At least one metal has to stay enabled.
 
 ---
 

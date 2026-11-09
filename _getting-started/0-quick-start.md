@@ -7,7 +7,7 @@ layout: article
 
 2. [Create an item](https://preciousmetalsmanager.com/help/create-item/)
 
-3. [Create a custom bullion preset](https://preciousmetalsmanager.com/help/create-bullion/)
+3. [Create a custom product preset](https://preciousmetalsmanager.com/help/create-product/)
 
 4. [Create a sale](https://preciousmetalsmanager.com/help/create-sale/)
 

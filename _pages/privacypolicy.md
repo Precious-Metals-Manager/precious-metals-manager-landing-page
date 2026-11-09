@@ -6,7 +6,7 @@ sitemap: false
 ---
 
 **Last updated**
-April 26 2024
+November 9 2026
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy is a contract entered into between You ("you," "your," "your
 
 This policy applies to all information collected or submitted on the *Precious Metals Manager* website (the "Site") and application (the "App").
 
-We take personal privacy seriously. The ***Precious Metals Manager*** application (the "App") **does not collect, store or share any personal information about you**. No account creation is required. 
+We take personal privacy seriously. The ***Precious Metals Manager*** application (the "App") **does not collect, store or share personal information such as your name, your email address or your portfolio**. No account creation is required. The one exception is the device token required to deliver price and ratio alerts, if you choose to use them, which is described under "Price and Ratio Alerts" below. 
 
 Personal **information shared with us via email, social media**, or any other communication channel, **is never shared except to comply with the law, develop and improve our products, or protect our rights**.
 
@@ -28,11 +28,27 @@ the *iCloud* function of the application, synchronized with your personal *iClou
 from the system settings. The data is stored in an encrypted form on your device and cannot be read from 
 or written to while the device is locked or booting. Some of the data is in an encrypted form in *iCloud*.
 
-When fetching spot prices or offer prices for gold, silver, platinum or palladium a request is made to our servers to retrieve the spot or offer price(s).
+When fetching spot prices or offer prices for gold, silver, platinum, palladium or copper a request is made to our servers to retrieve the spot or offer price(s).
 
 The currency, which is based on your region, metals, metal content in ozt, product names and dates are sent to our servers only for retrieving data.
 
 Precious Metals Manager uses your internet connection when fetching spot rates and syncing your data with *iCloud*.
+
+## Price and Ratio Alerts
+
+If you use the alerts feature, the App sends your device's push notification token to our servers, together with the details of each alert: the metal or metal pair, the target value, the condition and the currency. We store this so that our servers can watch the market and notify your device when your target is reached.
+
+The device token is an identifier issued by *Apple* for your device. It is not linked to your name, your email address or any account, and we do not use it for any purpose other than delivering the alerts you asked for.
+
+Your device token is sent to our servers only when you create an alert, or when the App loads your existing alerts in order to show them to you. If you never use the alerts feature, your device token is never sent to us.
+
+An alert and its device token are stored until the alert is deleted. Deleting an alert in the App removes the whole record, including the device token, from our servers. An alert that has been triggered is switched off but kept, so that you can see when it last fired and re-enable it if you want. If *Apple* reports that a device token is no longer valid — for example because the App was uninstalled — the corresponding alert is deleted automatically.
+
+## Subscription Cancellation Feedback
+
+If you choose to tell us why you cancelled a Pro subscription, the reason you select and any optional message you write are sent to our servers, where they are stored and emailed to us so that we can understand why people leave and improve the App.
+
+This feedback is anonymous. It is not stored with your device token, your purchase, or any other identifier that links it back to you. Giving it is entirely optional and you can dismiss the question.
 
 ## Email
 

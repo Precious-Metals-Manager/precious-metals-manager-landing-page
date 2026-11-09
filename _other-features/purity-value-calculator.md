@@ -7,6 +7,8 @@ With the **Purity Value Calculator** in **Precious Metals Manager**, you can ent
 
 Here’s how to use this feature and what it can help you do.
 
+> The Purity Value Calculator is a Pro feature. Tapping it without a subscription opens the upgrade screen.
+
 ---
 
 ## What Is It For?
@@ -35,7 +37,7 @@ The Purity Value Calculator is perfect if you want to:
    For each purity row (e.g., 14K, 18K, .999), enter the weight of your material. The app will calculate the corresponding value in real time.
 
 5. **(Optional) Add Custom Purity**
-   If you're a **Pro user**, you can input a custom purity and weight at the bottom row.
+   Use the bottom row to input a custom purity and weight that isn't covered by the preset rows.
 
 6. **Review the Total**
    At the bottom, you’ll see:
@@ -67,16 +69,6 @@ Need to start fresh?
 * Spot prices update automatically and reflect your **selected currency**.
 * The calculator does **not account for wear, refining losses, or dealer fees** — use it as a base valuation.
 * You can mix different purities in one calculation — great for bulk estimates.
-
----
-
-## Pro Features
-
-Upgrade to **Pro** to unlock:
-
-* Manual entry for custom purities
-* Switching between metals
-* Switching between troy ounces and grams
 
 ---
 

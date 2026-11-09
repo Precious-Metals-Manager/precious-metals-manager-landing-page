@@ -1,6 +1,6 @@
 # Site
 title: Precious Metals Manager
-description: Effortlessly track your precious metals investments with our specialized mobile app. Take control of your portfolio management with powerful metrics and tools for gold, silver, platinum, and palladium.
+description: Effortlessly track your precious metals investments on iPhone, iPad and Mac. Take control of your portfolio management with powerful metrics and tools for gold, silver, platinum, palladium, and copper.
 url: https://preciousmetalsmanager.com
 
 # Page title
@@ -34,8 +34,8 @@ pro_has_free_trial                        : true                                
 
 # Social proof — shown in the "Loved by stackers" section.
 # Rating values are the US App Store storefront; refresh occasionally.
-app_rating                                : "4.4"                                      # Average star rating.
-app_rating_count                          : "81"                                       # Number of ratings.
+app_rating                                : "4.4"                                      # Average star rating (live value 4.44444). Verified 2026-11-09.
+app_rating_count                          : "90"                                       # Number of ratings. Verified against the iTunes lookup API on 2026-11-09.
 app_users                                 : "10,000+"                                  # Total App Store downloads (rounded down). Blank hides the line.
 # Featured testimonials live in _data/testimonials.yml (real App Store reviews).
 
@@ -69,6 +69,7 @@ plugins:
   - jekyll-sitemap        # Adds sitemap to the website at /sitemap.xml
   - jekyll-include-cache  # use include_cached instead of include
   - jekyll-paginate       # Used for sorting posts by page numbers.
+  - jekyll-redirect-from  # Keeps old help URLs working via `redirect_from` front matter.
 
 
 # Google Tag
@@ -125,4 +126,4 @@ defaults:
         path: /assets/images/og-image.png
         width: 1200
         height: 630
-        alt: "Precious Metals Manager — track gold, silver, platinum & palladium"
+        alt: "Precious Metals Manager — track gold, silver, platinum, palladium & copper"

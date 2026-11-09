@@ -7,6 +7,8 @@ With the **Alerts** feature in **Precious Metals Manager**, you can set custom p
 
 Here’s how to use this feature and what it can help you do.
 
+> Alerts are a Pro feature. Tapping Alerts without a subscription opens the upgrade screen.
+
 ---
 
 ## What Is It For?

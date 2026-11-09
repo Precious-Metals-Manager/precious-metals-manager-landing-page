@@ -6,7 +6,9 @@ order: 1
 
 > Orders must be created before adding items to your inventory.
 
-1) In the Orders tab, tap "+" button to open up the page to add your order.
+1) In the Orders tab, tap "+" button and choose **New Order** to open up the page to add your order.
+
+> On devices that support Apple Intelligence the "+" button opens a menu with a second option, **Import Invoice**, which fills the whole order in for you from a PDF or photo. See [Import an Invoice](https://preciousmetalsmanager.com/help/import-invoice/).
 
 {% include theme-image.html
    data_light="/assets/images/light/getting-started/create-order/orders_light.webp"
@@ -17,6 +19,7 @@ order: 1
 
 * Seller: select from your saved seller presets. If no preset is selected, a Seller Name field appears and a new seller will be created automatically on save.
 * Invoice Number (Optional): only shown when the selected seller type is Dealer or Refiner (hidden for Individual).
+* Tracking Number (Optional): the carrier tracking number for the shipment.
 * Shipping Cost (Optional): defaults to zero.
 * Order Date (Optional): defaults to today.
 * Note (Optional)
@@ -51,5 +54,7 @@ All fields are optional. If you skip them, the order will be created with zero s
 
 6) Tap on 'Save' to record your seller, and select it to use it in your new order.
 
-7) Finally tap on 'Save' to record your order. 
+7) Finally tap on 'Save' to record your order.
+
+> Once saved, the tracking number appears on the order details screen. Tap it to copy it to the clipboard and paste it into your carrier's site. 
 

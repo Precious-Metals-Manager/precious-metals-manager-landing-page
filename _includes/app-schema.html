@@ -4,12 +4,12 @@
   also shown visibly in the social-proof section, satisfying Google's guideline
   that marked-up ratings be visible to users.
 {% endcomment %}
-<script type="application/ld+json">
+<script type="application/ld+json" id="app-schema">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": {{ site.app_name | default: site.title | jsonify }},
-  "operatingSystem": "iOS",
+  "operatingSystem": "iOS, iPadOS, macOS",
   "applicationCategory": "FinanceApplication",
   "description": {{ site.description | jsonify }},
   "url": {{ site.url | jsonify }},

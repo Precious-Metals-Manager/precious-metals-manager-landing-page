@@ -4,7 +4,7 @@ layout: article
 order: 5
 ---
 
-The "Inventory" tab gives you a consolidated view of everything you own, grouped by bullion type. Each row shows the bullion name, mint, metal, form factor, and a stock indicator with the number of units still in stock out of the total purchased.
+The "Inventory" tab gives you a consolidated view of everything you own, grouped by product. Each row shows the product name, mint, metal, form factor, and a stock indicator with the number of units still in stock out of the total purchased.
 
 1) Tap on the "Inventory" tab.
 
@@ -17,18 +17,23 @@ The "Inventory" tab gives you a consolidated view of everything you own, grouped
 
 Use the search bar to find items by name or mint. Tap the filter icon to open the filters sheet, where you can narrow down results by:
 
+* Date Range: show only products with purchases or sales within a selected date range.
 * Metal (Gold, Silver, Platinum, Palladium, Copper)
 * Form Factor (Coin, Bar, Round, Jewelry)
-* In-Stock: show only bullions with available stock.
-* Date Range: show only bullions with purchases or sales within a selected date range.
+* Gift: show only items with a zero unit price — gifts and inherited pieces.
+* In-Stock: show only products with available stock.
+* Not Assayed: show only items still pending professional purity and authenticity testing.
+* Tag: show only items carrying a given tag.
+
+Tap "All Items (Reset)" at the top of the sheet to clear every filter at once.
 
 Tap the sort menu to order the list by Name or Stock, ascending or descending.
 
 > The filter icon appears filled when one or more filters are active.
 
-## Bullion detail
+## Product detail
 
-2) Tap on a bullion to open its detail screen. The top of the screen shows the total stock weight in troy ounces and grams, along with the current offer price and summary metrics such as average premium over spot and total sales gain or loss.
+2) Tap on a product to open its detail screen. The top of the screen shows the total stock weight in troy ounces and grams, along with the current offer price and summary metrics such as average premium over spot and total sales gain or loss.
 
 {% include theme-image.html
    data_light="/assets/images/light/getting-started/shared/inventory_item_light.webp"
@@ -37,8 +42,8 @@ Tap the sort menu to order the list by Name or Stock, ascending or descending.
 
 The detail screen is divided into two tabs:
 
-* **Purchases**: all purchase records for this bullion.
-* **Sales**: all sales recorded against this bullion.
+* **Purchases**: all purchase records for this product.
+* **Sales**: all sales recorded against this product.
 
 ## Purchases tab
 
@@ -48,10 +53,11 @@ Each row in the Purchases tab shows the order date, seller, invoice number, item
 
 * Mark the item as verified using the Verified toggle.
 * Attach up to two photos.
-* Review price breakdown, premium, bullion specifications, and grading information.
+* Add tags to the item.
+* Review price breakdown, premium, product specifications, and grading information.
 * Tap "Add Sale" to record a sale for this item.
 * Tap "Edit" to modify the item.
-* Tap "Delete Item" to remove it.
+* Open the "..." menu to **Export PDF** or delete the item.
 
 {% include theme-two-images.html
    data_light_1="/assets/images/light/getting-started/shared/item_details_1_light.webp"

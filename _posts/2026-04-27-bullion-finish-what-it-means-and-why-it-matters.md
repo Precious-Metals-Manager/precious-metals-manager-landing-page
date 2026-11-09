@@ -73,7 +73,7 @@ If your goal is to **maximize metal per dollar**, bullion finish coins are the r
 
 For investment-grade bullion, the finish has minimal impact on resale value. Dealers buy back bullion coins based on **spot price plus a modest spread**, regardless of whether the surface is perfect. This is one reason why bullion coins are considered **liquid assets**.
 
-Proof coins, on the other hand, are graded by services like **PCGS** or **NGC**. A PR70 (perfect proof) coin can command a significant premium over melt value, but that premium can also disappear if the collector market shifts or if the coin is removed from its original packaging. See our [guide to third-party grading services](/2026/04/27/bullion-grading-third-party-services/) for more detail.
+Proof coins, on the other hand, are graded by services like **PCGS** or **NGC**. A PR70 (perfect proof) coin can command a significant premium over melt value, but that premium can also disappear if the collector market shifts or if the coin is removed from its original packaging. See our [guide to third-party grading services](https://preciousmetalsmanager.com/blog/bullion-grading-third-party-services/) for more detail.
 
 ---
 

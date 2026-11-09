@@ -26,7 +26,7 @@ A **JSON (JavaScript Object Notation)** file is a structured way to store data. 
 Exporting to JSON will include:
 
 ✅ All your **Orders**
-✅ All your **Bullions** (coins, bars, rounds)
+✅ All your **Products** (coins, bars, rounds, jewelry)
 ✅ All associated **Items** in each order
 ✅ Your **Sellers**, including tags
 ✅ Your configured **Tags**
@@ -35,7 +35,7 @@ Exporting to JSON will include:
 If you choose to, you can **also export your file attachments**, such as:
 
 📎 Scanned invoices
-📎 Photos of your bullion
+📎 Photos of your items
 📎 Certificates of authenticity
 
 ---
