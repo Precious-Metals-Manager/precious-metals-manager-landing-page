@@ -3,10 +3,13 @@ layout: legal-page
 title: Terms and Conditions of Use
 include_in_header: false
 sitemap: false
+translation_url: /es/terms/
+translation_lang: es
+translation_label: Leer en español
 ---
 
 **Last updated**
-April 19 2024
+November 11 2026
 
 # Terms and Conditions of Use
 
@@ -61,7 +64,7 @@ User is responsible for the management of his or her account and mobile device a
 * Precious Metals Manager may suspend the Services temporarily without prior announcement or notice in cases of:
   - Urgent system checks, expansions, replacements, breakdowns, or malfunctions;
   - National emergencies, power outages, natural disasters, or other force majeure events equivalent thereto;
-  - Suspension of telecommunications services by facilities-based telecommunications business operator set forth under the Telecommunications Business Act;
+  - Suspension of telecommunications services by a telecommunications provider;
   - Service disruptions due to capacity overload, etc; or
   - Financial or economical reasons;
 
@@ -71,7 +74,7 @@ In case of a service suspension due to any of the items in the preceding provisi
 
 Services may change over the time for operational and technical purposes to provide better Services. If the Services are modified in a way that results in the removal of part of the Services, Precious Metals Manager shall notify the User of such changes prior to the effective date of change of the Application.
 
-The Services may be suspended under circumstances in which Precious Metals Manager is unable to provide the Services due to business discontinuation such as business transfer, split, merge; expiration of an agreement with a third party; or critical management issues like a dramatic drop in profit. Precious Metals Manager will notify the User of the Services suspension the 
+The Services may be suspended under circumstances in which Precious Metals Manager is unable to provide the Services due to business discontinuation such as business transfer, split, merge; expiration of an agreement with a third party; or critical management issues like a dramatic drop in profit. Precious Metals Manager will notify the User of the Services suspension.
 
 Precious Metals Manager may suspend the whole of the Services under circumstances in which Precious Metals Manager is unable to continue providing the Services due to business discontinuation such as business transfer, split, merge; expiration of an agreement executed with a third party for providing Service; or critical management issues such as a dramatic drop in profit of Services. In such cases, Precious Metals Manager shall notify the User of the service suspension on the the Application or the Application promotional site (https://preciousmetalsmanager.com), stating the date and reason for the suspension, thirty (30) days before the suspension date, and notify the Users in ways prescribed above.
 

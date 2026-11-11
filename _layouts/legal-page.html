@@ -3,7 +3,7 @@
 ---
 
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="{{ page.lang | default: 'en-us' }}">
 
 {% include head.html %}
 
@@ -11,6 +11,9 @@
     {% include_cached header.html %}
     <div class="container subPageContainer">
         <article class="page markdown-body">
+            {% if page.translation_url %}
+            <p><a href="{{ page.translation_url }}" hreflang="{{ page.translation_lang }}">{{ page.translation_label }}</a></p>
+            {% endif %}
             {{ content }}
         </article>
     </div>

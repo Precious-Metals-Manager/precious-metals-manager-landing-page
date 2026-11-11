@@ -3,6 +3,9 @@ layout: legal-page
 title: Privacy Policy
 include_in_header: false
 sitemap: false
+translation_url: /es/privacypolicy/
+translation_lang: es
+translation_label: Leer en español
 ---
 
 **Last updated**
@@ -92,4 +95,4 @@ These changes are effective immediately after they are posted on this page.
 
 ## Contact Us
 
-If you have any questions, concerns, or feedback regarding this Privacy Policy or FitBee's data practices, please contact us at <a href="mailto:support@preciousmetalsmanager.com">support@preciousmetalsmanager.com<a>.
+If you have any questions, concerns, or feedback regarding this Privacy Policy or Precious Metals Manager's data practices, please contact us at <a href="mailto:support@preciousmetalsmanager.com">support@preciousmetalsmanager.com</a>.
