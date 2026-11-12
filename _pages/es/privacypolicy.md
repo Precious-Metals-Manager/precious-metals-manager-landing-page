@@ -10,7 +10,7 @@ translation_label: Read in English
 ---
 
 **Última actualización**
-9 de noviembre de 2026
+12 de noviembre de 2026
 
 # Política de privacidad
 
@@ -20,7 +20,7 @@ Esta Política de privacidad es un contrato celebrado entre usted ("usted", "su"
 
 Esta política se aplica a toda la información recopilada o enviada en el sitio web (el "Sitio") y en la aplicación (la "App") de *Precious Metals Manager*.
 
-Nos tomamos muy en serio la privacidad personal. La aplicación ***Precious Metals Manager*** (la "App") **no recopila, almacena ni comparte información personal como su nombre, su dirección de correo electrónico o su cartera**. No es necesario crear una cuenta. La única excepción es el token del dispositivo necesario para enviar las alertas de precio y de ratio, si decide utilizarlas, tal y como se describe más abajo en "Alertas de precio y de ratio".
+Nos tomamos muy en serio la privacidad personal. La aplicación ***Precious Metals Manager*** (la "App") **no recopila, almacena ni comparte información personal como su nombre, su dirección de correo electrónico o su cartera**. No es necesario crear una cuenta. Las excepciones son el token del dispositivo necesario para enviar las alertas de precio y de ratio, si decide utilizarlas, y la atribución de Apple Ads que se envía cuando se suscribe por primera vez, ambas descritas más abajo.
 
 La **información personal que nos facilite por correo electrónico, redes sociales** o cualquier otro canal de comunicación **nunca se comparte, salvo para cumplir con la ley, desarrollar y mejorar nuestros productos o proteger nuestros derechos**.
 
@@ -55,6 +55,14 @@ Una alerta y su token de dispositivo se conservan hasta que se elimina la alerta
 Si decide contarnos por qué ha cancelado una suscripción Pro, el motivo que seleccione y cualquier mensaje opcional que escriba se envían a nuestros servidores, donde se almacenan y se nos remiten por correo electrónico para que podamos entender por qué se van los usuarios y mejorar la App.
 
 Estos comentarios son anónimos. No se almacenan junto con el token de su dispositivo, su compra ni ningún otro identificador que permita relacionarlos con usted. Enviarlos es totalmente opcional y puede descartar la pregunta.
+
+## Atribución de Apple Ads
+
+Si instaló la App después de pulsar un anuncio de *Apple Ads*, la App pregunta a *Apple* qué campaña dio lugar a la instalación. Cuando se suscribe a Pro por primera vez, la App envía esa información a nuestros servidores para que podamos saber qué campañas publicitarias funcionan.
+
+Esto incluye los identificadores de la campaña, el grupo de anuncios, la palabra clave y el anuncio, su país o región, la fecha en que pulsó el anuncio, el producto de suscripción y el identificador de transacción original que *Apple* asignó a su compra. No está vinculado a su nombre, su correo electrónico, el token de su dispositivo ni su cartera, y no se utiliza para rastrearle en otras apps o sitios web.
+
+Solo se envía una vez, y únicamente si la instalación procede de un anuncio de *Apple Ads*. Las renovaciones no se notifican.
 
 ## Correo electrónico
 

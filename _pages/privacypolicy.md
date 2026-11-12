@@ -9,7 +9,7 @@ translation_label: Leer en español
 ---
 
 **Last updated**
-November 9 2026
+November 12 2026
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This Privacy Policy is a contract entered into between You ("you," "your," "your
 
 This policy applies to all information collected or submitted on the *Precious Metals Manager* website (the "Site") and application (the "App").
 
-We take personal privacy seriously. The ***Precious Metals Manager*** application (the "App") **does not collect, store or share personal information such as your name, your email address or your portfolio**. No account creation is required. The one exception is the device token required to deliver price and ratio alerts, if you choose to use them, which is described under "Price and Ratio Alerts" below. 
+We take personal privacy seriously. The ***Precious Metals Manager*** application (the "App") **does not collect, store or share personal information such as your name, your email address or your portfolio**. No account creation is required. The exceptions are the device token required to deliver price and ratio alerts, if you choose to use them, and the Apple Ads attribution sent when you first subscribe, both described below.
 
 Personal **information shared with us via email, social media**, or any other communication channel, **is never shared except to comply with the law, develop and improve our products, or protect our rights**.
 
@@ -52,6 +52,14 @@ An alert and its device token are stored until the alert is deleted. Deleting an
 If you choose to tell us why you cancelled a Pro subscription, the reason you select and any optional message you write are sent to our servers, where they are stored and emailed to us so that we can understand why people leave and improve the App.
 
 This feedback is anonymous. It is not stored with your device token, your purchase, or any other identifier that links it back to you. Giving it is entirely optional and you can dismiss the question.
+
+## Apple Ads Attribution
+
+If you installed the App after tapping an *Apple Ads* advertisement, the App asks *Apple* which campaign led to the install. When you first subscribe to Pro, the App sends that information to our servers so that we can understand which advertising campaigns work.
+
+This includes the campaign, ad group, keyword and ad identifiers, your country or region, the date of the ad tap, the subscription product, and the original transaction identifier *Apple* assigned to your purchase. It is not linked to your name, your email address, your device token or your portfolio, and it is not used to track you across other apps or websites.
+
+This is sent only once, and only if your install came from an *Apple Ads* advertisement. Renewals are not reported.
 
 ## Email
 
